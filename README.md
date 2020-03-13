@@ -23,10 +23,6 @@
 ![forthebadge](https://img.shields.io/badge/dotnet-%23239120.svg?&style=for-the-badge&logo=.sharp)
 
 
-You can use the [editor on GitHub](https://github.com/alexandresanlim/me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## Fallow me
 [![forthebadge](https://img.shields.io/github/followers/alexandresanlim?label=GitHub&style=social)](https://github.com/alexandresanlim)
 
