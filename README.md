@@ -56,21 +56,27 @@
 ### Skills
 ![forthebadge](https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp)
 ```
+![forthebadge](https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp)
 ```
 ![forthebadge](https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=for-the-badge&logo=xamarin)
 ```
+![forthebadge](https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=for-the-badge&logo=xamarin)
 ```
 ![forthebadge](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python)
 ```
+![forthebadge](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python)
 ```
 ![forthebadge](https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5)
 ```
+![forthebadge](https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5)
 ```
 ![forthebadge](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3)
 ```
+![forthebadge](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3)
 ```
 ![forthebadge](https://img.shields.io/badge/dotnet-%23239120.svg?&style=for-the-badge&logo=.sharp)
 ```
+![forthebadge](https://img.shields.io/badge/dotnet-%23239120.svg?&style=for-the-badge&logo=.sharp)
 ```
 
 
