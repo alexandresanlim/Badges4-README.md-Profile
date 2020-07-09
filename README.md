@@ -24,27 +24,33 @@
 ```
 
 ## Outhers
-[![forthebadge](https://img.shields.io/badge/spotify-Listen%20with%20me-%231ED760.svg?&style=for-the-badge&logo=spotify)](https://github.com/username)
+[![forthebadge](https://img.shields.io/badge/spotify-Listen%20with%20me-%231ED760.svg?&style=for-the-badge&logo=spotify)](https://spotifypublicplaylist)
 ```
+[![forthebadge](https://img.shields.io/badge/spotify-Listen%20with%20me-%231ED760.svg?&style=for-the-badge&logo=spotify)](https://spotifypublicplaylist)
 ```
 
 
 
 ### Social
-[![forthebadge](https://img.shields.io/badge/facebook-follow%20me-%231877F2.svg?&style=for-the-badge&logo=facebook)](https://github.com/alexandresanlim)
+[![forthebadge](https://img.shields.io/badge/facebook-follow%20me-%231877F2.svg?&style=for-the-badge&logo=facebook)](https://facebook.com/username)
 ```
+[![forthebadge](https://img.shields.io/badge/facebook-follow%20me-%231877F2.svg?&style=for-the-badge&logo=facebook)](https://facebook.com/username)
 ```
-[![forthebadge](https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram)](https://github.com/alexandresanlim)
+[![forthebadge](https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram)](https://instagram.com/username)
 ```
+[![forthebadge](https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram)](https://instagram.com/username)
 ```
-[![forthebadge](https://img.shields.io/badge/twitter-follow%20me-%231DA1F2.svg?&style=for-the-badge&logo=twitter)](https://github.com/alexandresanlim)
+[![forthebadge](https://img.shields.io/badge/twitter-follow%20me-%231DA1F2.svg?&style=for-the-badge&logo=twitter)](https://twitter.com/username)
 ```
+[![forthebadge](https://img.shields.io/badge/twitter-follow%20me-%231DA1F2.svg?&style=for-the-badge&logo=twitter)](https://twitter.com/username)
 ```
-[![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://github.com/alexandresanlim)
+[![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://linkedin.com/username)
 ```
+[![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://linkedin.com/username)
 ```
-[![forthebadge](https://img.shields.io/badge/youtube-subscribe%20me-%23FF0000.svg?&style=for-the-badge&logo=youtube)](https://github.com/alexandresanlim)
+[![forthebadge](https://img.shields.io/badge/youtube-subscribe%20me-%23FF0000.svg?&style=for-the-badge&logo=youtube)](https://youtube.com/channelname)
 ```
+[![forthebadge](https://img.shields.io/badge/youtube-subscribe%20me-%23FF0000.svg?&style=for-the-badge&logo=youtube)](https://youtube.com/channelname
 ```
 
 ### Skills
