@@ -1,17 +1,22 @@
 ### Phone
 
-[![forthebadge](https://img.shields.io/badge/WHATSAPP-SEND%20ME%20A%20MESSAGE-%2325D366.svg?&style=for-the-badge&logo=whatsapp)](https://github.com/username)
+[![forthebadge](https://img.shields.io/badge/WHATSAPP-SEND%20ME%20A%20MESSAGE-%2325D366.svg?&style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=yournumbar&text=Hello!)
 ```
-[![forthebadge](https://img.shields.io/badge/WHATSAPP-SEND%20ME%20A%20MESSAGE-%2325D366.svg?&style=for-the-badge&logo=whatsapp)](https://github.com/username)
+[![forthebadge](https://img.shields.io/badge/WHATSAPP-SEND%20ME%20A%20MESSAGE-%2325D366.svg?&style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=yournumbar&text=Hello!)
 ```
 ### Games
-[![forthebadge](https://img.shields.io/badge/playstation-play%20with%20me-%23003791.svg?&style=for-the-badge&logo=playstation)](https://github.com/username)
-[![forthebadge](https://img.shields.io/badge/xbox-play%20with%20me-%23107C10.svg?&style=for-the-badge&logo=xbox)](https://github.com/username)
-[![forthebadge](https://img.shields.io/badge/Nintendo%20Switch-play%20with%20me-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch)](https://github.com/username)
+[![forthebadge](https://img.shields.io/badge/playstation-play%20with%20me-%23003791.svg?&style=for-the-badge&logo=playstation)](https://yourpsnprofile)
+```
+[![forthebadge](https://img.shields.io/badge/playstation-play%20with%20me-%23003791.svg?&style=for-the-badge&logo=playstation)](https://yourpsnprofile)
+```
+
+[![forthebadge](https://img.shields.io/badge/xbox-play%20with%20me-%23107C10.svg?&style=for-the-badge&logo=xbox)](https://yourxboxprofile)
+[![forthebadge](https://img.shields.io/badge/Nintendo%20Switch-play%20with%20me-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch)](https://github.com/yournintendoprofile)
+[![forthebadge](https://img.shields.io/badge/Steam-play%20with%20me-%23000000.svg?&style=for-the-badge&logo=steam)](https://yoursteamprofile)
 
 ### Outhers
 [![forthebadge](https://img.shields.io/badge/spotify-Listen%20with%20me-%231ED760.svg?&style=for-the-badge&logo=spotify)](https://github.com/username)
-[![forthebadge](https://img.shields.io/badge/Steam-play%20with%20me-%23000000.svg?&style=for-the-badge&logo=steam)](https://github.com/username)
+
 
 
 ### Social
@@ -21,7 +26,7 @@
 [![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://github.com/alexandresanlim)
 [![forthebadge](https://img.shields.io/badge/youtube-subscribe%20me-%23FF0000.svg?&style=for-the-badge&logo=youtube)](https://github.com/alexandresanlim)
 
-## Skills
+### Skills
 ![forthebadge](https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp)
 ![forthebadge](https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=for-the-badge&logo=xamarin)
 ![forthebadge](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python)
