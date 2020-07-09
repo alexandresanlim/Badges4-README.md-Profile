@@ -1,11 +1,11 @@
-# Your Full Name
+# Contact
 
-[![forthebadge](https://img.shields.io/badge/WHATSAPP-SEND%20ME%20A%20MESSAGE-%2325D366.svg?&style=for-the-badge&logo=whatsapp)](https://github.com/alexandresanlim) 
-[![forthebadge](https://img.shields.io/badge/spotify-Listen%20with%20me-%231ED760.svg?&style=for-the-badge&logo=spotify)](https://github.com/alexandresanlim)
-[![forthebadge](https://img.shields.io/badge/Steam-play%20with%20me-%23000000.svg?&style=for-the-badge&logo=steam)](https://github.com/alexandresanlim)
-[![forthebadge](https://img.shields.io/badge/playstation-play%20with%20me-%23003791.svg?&style=for-the-badge&logo=playstation)](https://github.com/alexandresanlim)
-[![forthebadge](https://img.shields.io/badge/xbox-play%20with%20me-%23107C10.svg?&style=for-the-badge&logo=xbox)](https://github.com/alexandresanlim)
-[![forthebadge](https://img.shields.io/badge/Nintendo%20Switch-play%20with%20me-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch)](https://github.com/alexandresanlim)
+[![forthebadge](https://img.shields.io/badge/WHATSAPP-SEND%20ME%20A%20MESSAGE-%2325D366.svg?&style=for-the-badge&logo=whatsapp)](https://github.com/username) 
+[![forthebadge](https://img.shields.io/badge/spotify-Listen%20with%20me-%231ED760.svg?&style=for-the-badge&logo=spotify)](https://github.com/username)
+[![forthebadge](https://img.shields.io/badge/Steam-play%20with%20me-%23000000.svg?&style=for-the-badge&logo=steam)](https://github.com/username)
+[![forthebadge](https://img.shields.io/badge/playstation-play%20with%20me-%23003791.svg?&style=for-the-badge&logo=playstation)](https://github.com/username)
+[![forthebadge](https://img.shields.io/badge/xbox-play%20with%20me-%23107C10.svg?&style=for-the-badge&logo=xbox)](https://github.com/username)
+[![forthebadge](https://img.shields.io/badge/Nintendo%20Switch-play%20with%20me-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch)](https://github.com/username)
 
 ### My Social Media
 [![forthebadge](https://img.shields.io/badge/facebook-follow%20me-%231877F2.svg?&style=for-the-badge&logo=facebook)](https://github.com/alexandresanlim)
