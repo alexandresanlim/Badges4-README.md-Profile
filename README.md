@@ -1,10 +1,10 @@
-## 📱 Contact
+# 📱 Contact
 
 [![forthebadge](https://img.shields.io/badge/WHATSAPP-SEND%20ME%20A%20MESSAGE-%2325D366.svg?&style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=yournumbar&text=Hello!)
 ```
 [![forthebadge](https://img.shields.io/badge/WHATSAPP-SEND%20ME%20A%20MESSAGE-%2325D366.svg?&style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=yournumbar&text=Hello!)
 ```
-## 🎮🕹 Games
+# 🎮🕹 Games
 [![forthebadge](https://img.shields.io/badge/playstation-play%20with%20me-%23003791.svg?&style=for-the-badge&logo=playstation)](https://yourpsnprofile)
 ```
 [![forthebadge](https://img.shields.io/badge/playstation-play%20with%20me-%23003791.svg?&style=for-the-badge&logo=playstation)](https://yourpsnprofile)
@@ -23,15 +23,7 @@
 [![forthebadge](https://img.shields.io/badge/Steam-play%20with%20me-%23000000.svg?&style=for-the-badge&logo=steam)](https://yoursteamprofile)
 ```
 
-## 🐸 Outhers
-[![forthebadge](https://img.shields.io/badge/spotify-Listen%20with%20me-%231ED760.svg?&style=for-the-badge&logo=spotify)](https://spotifypublicplaylist)
-```
-[![forthebadge](https://img.shields.io/badge/spotify-Listen%20with%20me-%231ED760.svg?&style=for-the-badge&logo=spotify)](https://spotifypublicplaylist)
-```
-
-
-
-## 👨👩 Social
+# 👨👩 Social
 [![forthebadge](https://img.shields.io/badge/facebook-follow%20me-%231877F2.svg?&style=for-the-badge&logo=facebook)](https://facebook.com/username)
 ```
 [![forthebadge](https://img.shields.io/badge/facebook-follow%20me-%231877F2.svg?&style=for-the-badge&logo=facebook)](https://facebook.com/username)
@@ -53,7 +45,13 @@
 [![forthebadge](https://img.shields.io/badge/youtube-subscribe%20me-%23FF0000.svg?&style=for-the-badge&logo=youtube)](https://youtube.com/channelname
 ```
 
-## 🚀 Skills
+# 🐸 Outhers
+[![forthebadge](https://img.shields.io/badge/spotify-Listen%20with%20me-%231ED760.svg?&style=for-the-badge&logo=spotify)](https://spotifypublicplaylist)
+```
+[![forthebadge](https://img.shields.io/badge/spotify-Listen%20with%20me-%231ED760.svg?&style=for-the-badge&logo=spotify)](https://spotifypublicplaylist)
+```
+
+# 🚀 Skills
 ![forthebadge](https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp)
 ```
 ![forthebadge](https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp)
