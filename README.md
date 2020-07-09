@@ -3,8 +3,8 @@
 Improve your README.md profile with these amazing badges.
 
 - [📱 Contact](https://github.com/alexandresanlim/Badges2ReadMeProfile#-contact)
-- [🎮🕹 Games](https://github.com/alexandresanlim/Badges2ReadMeProfile#--games)
-- [👨👩 Social](https://github.com/alexandresanlim/Badges2ReadMeProfile#--social)
+- [🎮 Games](https://github.com/alexandresanlim/Badges2ReadMeProfile#--games)
+- [👨 Social](https://github.com/alexandresanlim/Badges2ReadMeProfile#--social)
 - [🚀 Skills](https://github.com/alexandresanlim/Badges2ReadMeProfile#--skills)
 - [🐸 Outhers](https://github.com/alexandresanlim/Badges2ReadMeProfile#-outhers)
 
