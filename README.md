@@ -1,4 +1,4 @@
-# Welcome! Badges 2 Reame.md Profile 
+# Welcome! Badges 2 Readme.md Profile 
 
 Improve your readme profile with awesome badges it
 
