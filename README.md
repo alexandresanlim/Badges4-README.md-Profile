@@ -9,8 +9,6 @@ Improve your readme profile with awesome badges it
 - [🐸 Outhers](https://github.com/alexandresanlim/Badges2ReadMeProfile#-outhers)
 
 
-# Get one it:
-
 ## 📱 Contact
 
 [![forthebadge](https://img.shields.io/badge/WHATSAPP-SEND%20ME%20A%20MESSAGE-%2325D366.svg?&style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=yournumbar&text=Hello!)
