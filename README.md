@@ -3,10 +3,10 @@
 Improve your README.md profile with these amazing badges. See sample on [my profile](https://github.com/alexandresanlim)
 
 - [📱 Contact](#-contact-)
-- [🎮 Games](#-games-)
 - [👨 Social](#-social-)
 - [🎞 Streaming](#-streaming-)
 - [🚀 Skills](#-skills-)
+- [🎮 Games](#-games-)
 - [🐸 Others](#-others-)
 - [✏ Make yourself](#-make-yourself-)
 
