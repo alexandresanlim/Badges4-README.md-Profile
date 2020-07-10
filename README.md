@@ -48,9 +48,7 @@ Improve your README.md profile with these amazing badges.
 <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
 ```
 
-# [🔝](#welcome-badges-2-readmemd-profile)
-
-## 👨👩 Social
+## 👨👩 Social [🔝](#welcome-badges-2-readmemd-profile)
 
 <img src="https://img.shields.io/badge/facebook-follow%20me-%231877F2.svg?&style=for-the-badge&logo=facebook" /> <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 
