@@ -131,9 +131,15 @@ Improve your README.md profile with these amazing badges, see a sample on [my pr
 <img src="https://img.shields.io/badge/dotnet-net%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white" /> 
 ```
 
-<!--
-## 🚀 do it yourself [🔝](#welcome-badges-2-readmemd-profile)
--->
+
+## ✏ Make yourself [🔝](#welcome-badges-2-readmemd-profile)
+
+```
+https://img.shields.io/badge/{FIRT}-{SECONDARY}-%23{HEX-COLOR}.svg?&style=for-the-badge&logo={ICON}
+```
+
+- To small badge remove {SECONDARY}
+- Get {ICON} and {HEX-COLOR} [here](https://simpleicons.org/)
 
 
 ## More
