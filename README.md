@@ -3,8 +3,8 @@
 Improve your README.md profile with these amazing badges. See sample on [my profile](https://github.com/alexandresanlim)
 
 - [📱 Contact](#-contact-)
-- [👨 Social](#-blog-)
-- [📝 Blog](#-social-)
+- [👨 Social](#-social-)
+- [📝 Blog](#-blog-)
 - [🎞 Streaming](#-streaming-)
 - [🚀 Skills](#-skills-)
 - [🎮 Games](#-games-)
