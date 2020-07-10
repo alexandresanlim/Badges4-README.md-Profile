@@ -1,6 +1,7 @@
 # Welcome! Badges 2 README.md Profile 
 
-Improve your README.md profile with these amazing badges, see a sample on [my profile](https://github.com/alexandresanlim)
+Improve your README.md profile with these amazing badges. See sample:
+![image](https://user-images.githubusercontent.com/5353685/87197557-cefe9b80-c2d0-11ea-97cd-5179d22e645a.png)
 
 - [📱 Contact](#-contact-)
 - [🎮 Games](#-games-)
