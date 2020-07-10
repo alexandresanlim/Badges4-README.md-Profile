@@ -86,35 +86,37 @@ https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=fa
 ```
 
 ## 🐸 Outhers
-[![forthebadge](https://img.shields.io/badge/spotify-Listen%20with%20me-%231ED760.svg?&style=for-the-badge&logo=spotify)](https://spotifypublicplaylist)
+<img src="https://img.shields.io/badge/spotify-Listen%20with%20me-%231ED760.svg?&style=for-the-badge&logo=spotify" /> <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
+
 ```
-[![forthebadge](https://img.shields.io/badge/spotify-Listen%20with%20me-%231ED760.svg?&style=for-the-badge&logo=spotify)](https://spotifypublicplaylist)
+<img src="https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram" /> 
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 ```
 
 ## 🚀 Skills
-![forthebadge](https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp)
+![forthebadge](https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white)
 ```
 ![forthebadge](https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp)
 ```
-![forthebadge](https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=for-the-badge&logo=xamarin)
+![forthebadge](https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=for-the-badge&logo=xamarin&logoColor=white)
 ```
 ![forthebadge](https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=for-the-badge&logo=xamarin)
 ```
-![forthebadge](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python)
+![forthebadge](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ```
 ![forthebadge](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python)
 ```
-![forthebadge](https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5)
+![forthebadge](https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ```
 ![forthebadge](https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5)
 ```
-![forthebadge](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3)
+![forthebadge](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ```
 ![forthebadge](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3)
 ```
-![forthebadge](https://img.shields.io/badge/dotnet-%23239120.svg?&style=for-the-badge&logo=.sharp)
+![forthebadge](https://img.shields.io/badge/dotnet-net%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white)
 ```
-![forthebadge](https://img.shields.io/badge/dotnet-%23239120.svg?&style=for-the-badge&logo=.sharp)
+![forthebadge](https://img.shields.io/badge/dotnet-%23239120.svg?&style=for-the-badge&logo=dot-net)
 ```
 
 
