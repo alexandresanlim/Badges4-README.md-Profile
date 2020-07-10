@@ -17,7 +17,7 @@ Improve your README.md profile with these amazing badges.
 <img src="https://img.shields.io/badge/WHATSAPP-SEND%20ME%20A%20MESSAGE-%2325D366.svg?&style=for-the-badge&logo=whatsapp" /> 
 <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 ```
-## 🎮🕹 Games
+## 🎮🕹 Games [🔝](#welcome-badges-2-readmemd-profile)
 
 <img src="https://img.shields.io/badge/playstation-play%20with%20me-%23003791.svg?&style=for-the-badge&logo=playstation" /> <img src="https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" />
 
@@ -85,7 +85,7 @@ Improve your README.md profile with these amazing badges.
 <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
 ```
 
-## 🐸 Others
+## 🐸 Others [🔝](#welcome-badges-2-readmemd-profile)
 <img src="https://img.shields.io/badge/spotify-Listen%20with%20me-%231ED760.svg?&style=for-the-badge&logo=spotify" /> <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
 
 ```
@@ -93,7 +93,7 @@ Improve your README.md profile with these amazing badges.
 <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
 ```
 
-## 🚀 Skills
+## 🚀 Skills [🔝](#welcome-badges-2-readmemd-profile)
 
 <img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" />
 
