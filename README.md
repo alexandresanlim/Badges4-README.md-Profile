@@ -78,6 +78,8 @@ Improve your README.md profile with these amazing badges. See sample on [my prof
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 ```
 
+## 🎞 Streaming [🔝](#welcome-badges-2-readmemd-profile)
+
 <img src="https://img.shields.io/badge/youtube-subscribe%20me-%23FF0000.svg?&style=for-the-badge&logo=youtube" /> <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
 
 ```
@@ -85,12 +87,11 @@ Improve your README.md profile with these amazing badges. See sample on [my prof
 <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
 ```
 
-## 🐸 Others [🔝](#welcome-badges-2-readmemd-profile)
-<img src="https://img.shields.io/badge/spotify-Listen%20with%20me-%231ED760.svg?&style=for-the-badge&logo=spotify" /> <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
+<img src="https://img.shields.io/badge/twitch-subscribe%20me-%239146FF.svg?&style=for-the-badge&logo=twitch" /> <img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />
 
 ```
-<img src="https://img.shields.io/badge/spotify-Listen%20with%20me-%231ED760.svg?&style=for-the-badge&logo=spotify" /> 
-<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
+<img src="https://img.shields.io/badge/twitch-subscribe%20me-%239146FF.svg?&style=for-the-badge&logo=twitch" /> 
+<img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />
 ```
 
 ## 🚀 Skills [🔝](#welcome-badges-2-readmemd-profile)
@@ -129,6 +130,14 @@ Improve your README.md profile with these amazing badges. See sample on [my prof
 
 ```
 <img src="https://img.shields.io/badge/dotnet-net%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white" /> 
+```
+
+## 🐸 Others [🔝](#welcome-badges-2-readmemd-profile)
+<img src="https://img.shields.io/badge/spotify-Listen%20with%20me-%231ED760.svg?&style=for-the-badge&logo=spotify" /> <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
+
+```
+<img src="https://img.shields.io/badge/spotify-Listen%20with%20me-%231ED760.svg?&style=for-the-badge&logo=spotify" /> 
+<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
 ```
 
 
