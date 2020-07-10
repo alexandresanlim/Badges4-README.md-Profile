@@ -7,7 +7,7 @@ Improve your README.md profile with these amazing badges, see a sample on [my pr
 - [👨 Social](#-social-)
 - [🚀 Skills](#-skills-)
 - [🐸 Others](#-others-)
-
+- [✏ Make yourself](#-make-yourself-)
 
 ## 📱 Contact
 
