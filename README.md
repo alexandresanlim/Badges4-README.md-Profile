@@ -53,8 +53,8 @@ Improve your README.md profile with these amazing badges.
 <img src="https://img.shields.io/badge/facebook-follow%20me-%231877F2.svg?&style=for-the-badge&logo=facebook" /> <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 
 ```
-https://img.shields.io/badge/facebook-follow%20me-%231877F2.svg?&style=for-the-badge&logo=facebook
-https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white
+<img src="https://img.shields.io/badge/facebook-follow%20me-%231877F2.svg?&style=for-the-badge&logo=facebook"/>
+<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
 ```
 <img src="https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram" /> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 
@@ -94,9 +94,9 @@ https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=fa
 ```
 
 ## 🚀 Skills
-![forthebadge](https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white)
+<img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" /> 
 ```
-![forthebadge](https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp)
+<img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" /> 
 ```
 ![forthebadge](https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=for-the-badge&logo=xamarin&logoColor=white)
 ```
