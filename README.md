@@ -11,17 +11,20 @@ Improve your README.md profile with these amazing badges.
 
 ## 📱 Contact
 
-<img src="https://img.shields.io/badge/WHATSAPP-SEND%20ME%20A%20MESSAGE-%2325D366.svg?&style=for-the-badge&logo=whatsapp" />
-<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/WHATSAPP-SEND%20ME%20A%20MESSAGE-%2325D366.svg?&style=for-the-badge&logo=whatsapp" /> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ```
 <img src="https://img.shields.io/badge/WHATSAPP-SEND%20ME%20A%20MESSAGE-%2325D366.svg?&style=for-the-badge&logo=whatsapp" />
 <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 ```
 ## 🎮🕹 Games
-[![forthebadge](https://img.shields.io/badge/playstation-play%20with%20me-%23003791.svg?&style=for-the-badge&logo=playstation)](https://yourpsnprofile)
+
+<img src="https://img.shields.io/badge/playstation-play%20with%20me-%23003791.svg?&style=for-the-badge&logo=playstation" /> 
+<img src="https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" />
+
 ```
-[![forthebadge](https://img.shields.io/badge/playstation-play%20with%20me-%23003791.svg?&style=for-the-badge&logo=playstation)](https://yourpsnprofile)
+<img src="https://img.shields.io/badge/playstation-play%20with%20me-%23003791.svg?&style=for-the-badge&logo=playstation" /> 
+<img src="https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" />
 ```
 
 [![forthebadge](https://img.shields.io/badge/xbox-play%20with%20me-%23107C10.svg?&style=for-the-badge&logo=xbox)](https://yourxboxprofile)
