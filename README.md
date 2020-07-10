@@ -19,16 +19,13 @@ https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=wh
 ```
 ## 🎮🕹 Games
 
-<img src="https://img.shields.io/badge/playstation-play%20with%20me-%23003791.svg?&style=for-the-badge&logo=playstation" /> 
-<img src="https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" />
+<img src="https://img.shields.io/badge/playstation-play%20with%20me-%23003791.svg?&style=for-the-badge&logo=playstation" /> <img src="https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" />
 
 ```
 <img src="https://img.shields.io/badge/playstation-play%20with%20me-%23003791.svg?&style=for-the-badge&logo=playstation" /> 
-<img src="https://img.s
-hields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" />
+<img src="https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" />
 ```
-<img src="https://img.shields.io/badge/xbox-play%20with%20me-%23107C10.svg?&style=for-the-badge&logo=xbox" /> 
-<img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" />
+<img src="https://img.shields.io/badge/xbox-play%20with%20me-%23107C10.svg?&style=for-the-badge&logo=xbox" /> <img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" />
 
 ```
 <img src="https://img.shields.io/badge/xbox-play%20with%20me-%23107C10.svg?&style=for-the-badge&logo=xbox" /> 
