@@ -38,9 +38,14 @@ https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&l
 https://img.shields.io/badge/Nintendo%20Switch-play%20with%20me-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch"
 https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white"
 ```
-[![forthebadge](https://img.shields.io/badge/Steam-play%20with%20me-%23000000.svg?&style=for-the-badge&logo=steam)](https://yoursteamprofile)
+
+
+<img src="https://img.shields.io/badge/Steam-play%20with%20me-%23000000.svg?&style=for-the-badge&logo=steam" /> <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
+
+
 ```
-[![forthebadge](https://img.shields.io/badge/Steam-play%20with%20me-%23000000.svg?&style=for-the-badge&logo=steam)](https://yoursteamprofile)
+<img src="https://img.shields.io/badge/Steam-play%20with%20me-%23000000.svg?&style=for-the-badge&logo=steam" /> 
+<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
 ```
 
 ## 👨👩 Social
