@@ -5,9 +5,11 @@ Improve your README.md profile with these amazing badges. See sample on [my prof
 - [📱 Contact](#-contact-)
 - [🎮 Games](#-games-)
 - [👨 Social](#-social-)
+- [🎞 Streaming](#-streaming-)
 - [🚀 Skills](#-skills-)
 - [🐸 Others](#-others-)
 - [✏ Make yourself](#-make-yourself-)
+
 
 ## 📱 Contact
 
