@@ -56,11 +56,20 @@ https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nint
 https://img.shields.io/badge/facebook-follow%20me-%231877F2.svg?&style=for-the-badge&logo=facebook" 
 https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"
 ```
-[![forthebadge](https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram)](https://instagram.com/username)
+<img src="https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram" /> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+
 ```
-[![forthebadge](https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram)](https://instagram.com/username)
+<img src="https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram" /> 
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 ```
-[![forthebadge](https://img.shields.io/badge/twitter-follow%20me-%231DA1F2.svg?&style=for-the-badge&logo=twitter)](https://twitter.com/username)
+
+<img src="https://img.shields.io/badge/twitter-follow%20me-%231DA1F2.svg?&style=for-the-badge&logo=twitter" /> <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+
+```
+<img src="https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram" /> 
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+```
+
 ```
 [![forthebadge](https://img.shields.io/badge/twitter-follow%20me-%231DA1F2.svg?&style=for-the-badge&logo=twitter)](https://twitter.com/username)
 ```
