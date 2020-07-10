@@ -135,7 +135,7 @@ Improve your README.md profile with these amazing badges. See sample on [my prof
 ## ✏ Make yourself [🔝](#welcome-badges-2-readmemd-profile)
 
 ```
-https://img.shields.io/badge/{FIRT}-{SECONDARY}-%23{HEX-COLOR}.svg?&style=for-the-badge&logo={ICON}
+https://img.shields.io/badge/{FIRST}-{SECONDARY}-%23{HEX-COLOR}.svg?&style=for-the-badge&logo={ICON}
 ```
 
 - To small badge remove {SECONDARY}
