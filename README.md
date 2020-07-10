@@ -70,16 +70,19 @@ https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=fa
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 ```
 
+
+<img src="https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin" /> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+
 ```
-[![forthebadge](https://img.shields.io/badge/twitter-follow%20me-%231DA1F2.svg?&style=for-the-badge&logo=twitter)](https://twitter.com/username)
+<img src="https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram" /> 
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 ```
-[![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://linkedin.com/username)
+
+<img src="https://img.shields.io/badge/youtube-subscribe%20me-%23FF0000.svg?&style=for-the-badge&logo=youtube" /> <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+
 ```
-[![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://linkedin.com/username)
-```
-[![forthebadge](https://img.shields.io/badge/youtube-subscribe%20me-%23FF0000.svg?&style=for-the-badge&logo=youtube)](https://youtube.com/channelname)
-```
-[![forthebadge](https://img.shields.io/badge/youtube-subscribe%20me-%23FF0000.svg?&style=for-the-badge&logo=youtube)](https://youtube.com/channelname
+<img src="https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram" /> 
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 ```
 
 ## 🐸 Outhers
