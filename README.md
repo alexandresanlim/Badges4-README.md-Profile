@@ -3,13 +3,13 @@
 Improve your README.md profile with these amazing badges. See sample on [my profile](https://github.com/alexandresanlim)
 
 - [📱 Contact](#-contact-)
-- [👨 Social](#-social-)
+- [👨 Social](#-blog-)
+- [📝 Blog](#-social-)
 - [🎞 Streaming](#-streaming-)
 - [🚀 Skills](#-skills-)
 - [🎮 Games](#-games-)
 - [🐸 Others](#-others-)
 - [✏ Make yourself](#-make-yourself-)
-
 
 ## 📱 Contact
 
