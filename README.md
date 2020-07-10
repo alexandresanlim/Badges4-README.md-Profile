@@ -19,36 +19,6 @@ Improve your README.md profile with these amazing badges. See sample on [my prof
 <img src="https://img.shields.io/badge/WHATSAPP-SEND%20ME%20A%20MESSAGE-%2325D366.svg?&style=for-the-badge&logo=whatsapp" /> 
 <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 ```
-## 🎮🕹 Games [🔝](#welcome-badges-2-readmemd-profile)
-
-<img src="https://img.shields.io/badge/playstation-play%20with%20me-%23003791.svg?&style=for-the-badge&logo=playstation" /> <img src="https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" />
-
-```
-<img src="https://img.shields.io/badge/playstation-play%20with%20me-%23003791.svg?&style=for-the-badge&logo=playstation" /> 
-<img src="https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" /> 
-```
-<img src="https://img.shields.io/badge/xbox-play%20with%20me-%23107C10.svg?&style=for-the-badge&logo=xbox" /> <img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" />
-
-```
-<img src="https://img.shields.io/badge/xbox-play%20with%20me-%23107C10.svg?&style=for-the-badge&logo=xbox" /> 
-<img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" /> 
-```
-
-<img src="https://img.shields.io/badge/Nintendo%20Switch-play%20with%20me-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch" /> <img src="https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white" />
-
-```
-<img src="https://img.shields.io/badge/Nintendo%20Switch-play%20with%20me-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch" /> 
-<img src="https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white" /> 
-```
-
-
-<img src="https://img.shields.io/badge/Steam-play%20with%20me-%23000000.svg?&style=for-the-badge&logo=steam" /> <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
-
-
-```
-<img src="https://img.shields.io/badge/Steam-play%20with%20me-%23000000.svg?&style=for-the-badge&logo=steam" /> 
-<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
-```
 
 ## 👨👩 Social [🔝](#welcome-badges-2-readmemd-profile)
 
@@ -132,6 +102,36 @@ Improve your README.md profile with these amazing badges. See sample on [my prof
 
 ```
 <img src="https://img.shields.io/badge/dotnet-net%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white" /> 
+```
+## 🎮🕹 Games [🔝](#welcome-badges-2-readmemd-profile)
+
+<img src="https://img.shields.io/badge/playstation-play%20with%20me-%23003791.svg?&style=for-the-badge&logo=playstation" /> <img src="https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" />
+
+```
+<img src="https://img.shields.io/badge/playstation-play%20with%20me-%23003791.svg?&style=for-the-badge&logo=playstation" /> 
+<img src="https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" /> 
+```
+<img src="https://img.shields.io/badge/xbox-play%20with%20me-%23107C10.svg?&style=for-the-badge&logo=xbox" /> <img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" />
+
+```
+<img src="https://img.shields.io/badge/xbox-play%20with%20me-%23107C10.svg?&style=for-the-badge&logo=xbox" /> 
+<img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" /> 
+```
+
+<img src="https://img.shields.io/badge/Nintendo%20Switch-play%20with%20me-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch" /> <img src="https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white" />
+
+```
+<img src="https://img.shields.io/badge/Nintendo%20Switch-play%20with%20me-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch" /> 
+<img src="https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white" /> 
+```
+
+
+<img src="https://img.shields.io/badge/Steam-play%20with%20me-%23000000.svg?&style=for-the-badge&logo=steam" /> <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
+
+
+```
+<img src="https://img.shields.io/badge/Steam-play%20with%20me-%23000000.svg?&style=for-the-badge&logo=steam" /> 
+<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
 ```
 
 ## 🐸 Others [🔝](#welcome-badges-2-readmemd-profile)
