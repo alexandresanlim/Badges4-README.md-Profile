@@ -49,9 +49,12 @@ https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nint
 ```
 
 ## 👨👩 Social
-[![forthebadge](https://img.shields.io/badge/facebook-follow%20me-%231877F2.svg?&style=for-the-badge&logo=facebook)](https://facebook.com/username)
+
+<img src="https://img.shields.io/badge/facebook-follow%20me-%231877F2.svg?&style=for-the-badge&logo=facebook" /> <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+
 ```
-[![forthebadge](https://img.shields.io/badge/facebook-follow%20me-%231877F2.svg?&style=for-the-badge&logo=facebook)](https://facebook.com/username)
+https://img.shields.io/badge/facebook-follow%20me-%231877F2.svg?&style=for-the-badge&logo=facebook" 
+https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"
 ```
 [![forthebadge](https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram)](https://instagram.com/username)
 ```
