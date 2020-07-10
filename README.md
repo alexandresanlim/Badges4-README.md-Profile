@@ -2,11 +2,11 @@
 
 Improve your README.md profile with these amazing badges.
 
-- [📱 Contact](#-contact)
-- [🎮 Games](#-games)
-- [👨 Social](#-social)
-- [🚀 Skills](#-skills)
-- [🐸 Others](#-others)
+- [📱 Contact](#-contact-)
+- [🎮 Games](#-games-)
+- [👨 Social](#-social-)
+- [🚀 Skills](#-skills-)
+- [🐸 Others](#-others-)
 
 
 ## 📱 Contact
