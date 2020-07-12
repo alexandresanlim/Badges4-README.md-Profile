@@ -18,7 +18,7 @@ Improve your README.md profile with these amazing badges. See sample on [my prof
 ## 📱 Contact
 
 
-Image | Code
+Image | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> | ```https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" ```
 
