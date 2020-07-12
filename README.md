@@ -82,7 +82,7 @@ Image | Uri
 ## ✏ Make yourself [🔝](#welcome-badges-2-readmemd-profile)
 
 ```
-https://img.shields.io/badge/{FIRST}-{SECONDARY}-%23{HEX-COLOR}.svg?&style=for-the-badge&logo={ICON}
+https://img.shields.io/badge/{FIRST}-{SECONDARY}-%23{HEX-COLOR}.svg?&style=for-the-badge&logo={ICON}&logoColor=white"
 ```
 
 - To small badge remove {SECONDARY}
