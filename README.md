@@ -29,24 +29,6 @@ Image | Code
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> | ```<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> ```
 
 
-
-
- 
-
-```
-<img src="https://img.shields.io/badge/twitter-follow%20me-%231DA1F2.svg?&style=for-the-badge&logo=twitter" /> 
-<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-```
-
-
-<img src="https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin" /> 
-
-```
-<img src="https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin" /> 
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-```
-
-
 ## 📝 Blog [🔝](#welcome-badges-2-readmemd-profile)
 
 <img src="https://img.shields.io/badge/medium-follow%20me-%2312100E.svg?&style=for-the-badge&logo=medium" /> <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
