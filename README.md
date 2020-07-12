@@ -61,6 +61,7 @@ Image | Uri
 <img src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" /> | ``` https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white ```
 <img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white" /> | ``` https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white ```
 <img src="https://img.shields.io/badge/dotnet-net%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white" /> | ``` https://img.shields.io/badge/dotnet-net%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white ```
+<img src="https://img.shields.io/badge/JavaScript%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> | ``` https://img.shields.io/badge/dotnet-net%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white ```
 
 
 ## 🎮🕹 Games [🔝](#welcome-badges-2-readmemd-profile)
