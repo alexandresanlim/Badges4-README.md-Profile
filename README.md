@@ -39,19 +39,11 @@ Image | Code
 
 ## 🎞 Streaming [🔝](#welcome-badges-2-readmemd-profile)
 
-<img src="https://img.shields.io/badge/youtube-subscribe%20me-%23FF0000.svg?&style=for-the-badge&logo=youtube" /> <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+Image | Code
+------------ | -------------
+<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> | ``` <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> ```
+<img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" /> | ``` <img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" /> ```
 
-```
-<img src="https://img.shields.io/badge/youtube-subscribe%20me-%23FF0000.svg?&style=for-the-badge&logo=youtube" /> 
-<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
-```
-
-<img src="https://img.shields.io/badge/twitch-subscribe%20me-%239146FF.svg?&style=for-the-badge&logo=twitch" /> <img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />
-
-```
-<img src="https://img.shields.io/badge/twitch-subscribe%20me-%239146FF.svg?&style=for-the-badge&logo=twitch" /> 
-<img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />
-```
 
 ## 🚀 Skills [🔝](#welcome-badges-2-readmemd-profile)
 
