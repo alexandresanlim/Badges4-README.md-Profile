@@ -21,7 +21,7 @@ Image | Code
 
 ## 👨👩 Social [🔝](#welcome-badges-2-readmemd-profile)
 
-Image | Code
+Image | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /> | ```<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />```
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> | ```<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> ```
@@ -31,7 +31,7 @@ Image | Code
 
 ## 📝 Blog [🔝](#welcome-badges-2-readmemd-profile)
 
-Image | Code
+Image | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> | ``` <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> ```
 <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /> | ```<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /> ```
@@ -39,7 +39,7 @@ Image | Code
 
 ## 🎞 Streaming [🔝](#welcome-badges-2-readmemd-profile)
 
-Image | Code
+Image | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> | ``` <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> ```
 <img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" /> | ``` <img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" /> ```
@@ -47,7 +47,7 @@ Image | Code
 
 ## 🚀 Skills [🔝](#welcome-badges-2-readmemd-profile)
 
-Image | Code
+Image | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" /> | ``` <img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" /> ```
 <img src="https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=for-the-badge&logo=xamarin&logoColor=white" /> | ``` <img src="https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=for-the-badge&logo=xamarin&logoColor=white" /> ```
@@ -60,7 +60,7 @@ Image | Code
 ## 🎮🕹 Games [🔝](#welcome-badges-2-readmemd-profile)
 
 
-Image | Code
+Image | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" /> | ``` <img src="https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" /> ```
 <img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" /> | ``` <img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" /> ```
@@ -69,7 +69,7 @@ Image | Code
 
 ## 🐸 Others [🔝](#welcome-badges-2-readmemd-profile)
 
-Image | Code
+Image | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> | ``` <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> ```
 
