@@ -2,11 +2,6 @@
 
 Improve your README.md profile with these amazing badges. See sample on [my profile](https://github.com/alexandresanlim)
 
-## How to use
-
-```<img src="SetUri" />```
-
-## Menu
 - [📱 Contact](#-contact-)
 - [👨 Social](#-social-)
 - [📝 Blog](#-blog-)
