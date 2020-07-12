@@ -3,7 +3,8 @@
 Improve your README.md profile with these amazing badges. See sample on [my profile](https://github.com/alexandresanlim)
 
 ## How to use?
-``` <img src="SetUri" /> ```
+1. Create your img tag ``` <img src="SetUri" /> ```
+2. Copy and paste on your profile
 
 ## Menu
 - [📱 Contact](#-contact-)
