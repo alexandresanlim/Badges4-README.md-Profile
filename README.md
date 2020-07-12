@@ -31,26 +31,11 @@ Image | Code
 
 ## 📝 Blog [🔝](#welcome-badges-2-readmemd-profile)
 
-<img src="https://img.shields.io/badge/medium-follow%20me-%2312100E.svg?&style=for-the-badge&logo=medium" /> <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-
-```
-<img src="https://img.shields.io/badge/medium-follow%20me-%2312100E.svg?&style=for-the-badge&logo=medium" /> 
-<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-```
-
-<img src="https://img.shields.io/badge/DEV.TO-follow%20me-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to" /> <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />
-
-```
-<img src="https://img.shields.io/badge/DEV.TO-follow%20me-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to" /> 
-<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />
-```
-
-<img src="https://img.shields.io/badge/blogger-follow%20me-%23FF5722.svg?&style=for-the-badge&logo=blogger" /> <img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" />
-
-```
-<img src="https://img.shields.io/badge/blogger-follow%20me-%23FF5722.svg?&style=for-the-badge&logo=blogger" /> 
-<img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" />
-```
+Image | Code
+------------ | -------------
+<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> | ``` <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> ```
+<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /> | ```<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /> ```
+<img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" /> | ```<img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" /> ```
 
 ## 🎞 Streaming [🔝](#welcome-badges-2-readmemd-profile)
 
