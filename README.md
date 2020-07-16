@@ -25,7 +25,7 @@ Image | Uri
 <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> | ```https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" ```
 
 
-## 👨👩 Social [🔝](#welcome-badges-2-readmemd-profile)
+## 👨👩 Social [🔝](#welcome-badges-4-readmemd-profile)
 
 Image | Uri
 ------------ | -------------
@@ -35,7 +35,7 @@ Image | Uri
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> | ``` https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white ```
 
 
-## 📝 Blog [🔝](#welcome-badges-2-readmemd-profile)
+## 📝 Blog [🔝](#welcome-badges-4-readmemd-profile)
 
 Image | Uri
 ------------ | -------------
@@ -43,7 +43,7 @@ Image | Uri
 <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /> | ``` https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white ```
 <img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" /> | ``` https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white ```
 
-## 🎞 Streaming [🔝](#welcome-badges-2-readmemd-profile)
+## 🎞 Streaming [🔝](#welcome-badges-4-readmemd-profile)
 
 Image | Uri
 ------------ | -------------
@@ -51,7 +51,7 @@ Image | Uri
 <img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" /> | ``` https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" ```
 
 
-## 🚀 Skills [🔝](#welcome-badges-2-readmemd-profile)
+## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)
 
 Image | Uri
 ------------ | -------------
@@ -66,7 +66,7 @@ Image | Uri
 
 
 
-## 🎮🕹 Games [🔝](#welcome-badges-2-readmemd-profile)
+## 🎮🕹 Games [🔝](#welcome-badges-4-readmemd-profile)
 
 
 Image | Uri
@@ -76,13 +76,13 @@ Image | Uri
 <img src="https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white" /> | ``` https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white" ```
 <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /> | ``` https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" ```
 
-## 🐸 Others [🔝](#welcome-badges-2-readmemd-profile)
+## 🐸 Others [🔝](#welcome-badges-4-readmemd-profile)
 
 Image | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> | ``` https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" ```
 
-## ✏ Make yourself [🔝](#welcome-badges-2-readmemd-profile)
+## ✏ Make yourself [🔝](#welcome-badges-4-readmemd-profile)
 
 ```
 https://img.shields.io/badge/{FIRST}-{SECONDARY}-%23{HEX-COLOR}.svg?&style=for-the-badge&logo={ICON}&logoColor=white"
