@@ -55,13 +55,13 @@ Image | Uri
 
 Image | Uri
 ------------ | -------------
-<img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" /> | ``` https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" ```
-<img src="https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=for-the-badge&logo=xamarin&logoColor=white" /> | ``` https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=for-the-badge&logo=xamarin&logoColor=white ```
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> | ``` https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white ```
-<img src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" /> | ``` https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white ```
-<img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white" /> | ``` https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white ```
-<img src="https://img.shields.io/badge/dotnet-net%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white" /> | ``` https://img.shields.io/badge/dotnet-net%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white ```
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> | ``` https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black ```
+<img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=flat-square&logo=c%20sharp&logoColor=white" /> | ``` https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=flat-square&logo=c%20sharp&logoColor=white" ```
+<img src="https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=flat-square&logo=xamarin&logoColor=white" /> | ``` https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=flat-square&logo=xamarin&logoColor=white ```
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" /> | ``` https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white ```
+<img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" /> | ``` https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white ```
+<img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" /> | ``` https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white ```
+<img src="https://img.shields.io/badge/dotnet-net%23239120.svg?&style=flat-square&logo=dot-net&logoColor=white" /> | ``` https://img.shields.io/badge/dotnet-net%23239120.svg?&style=flat-square&logo=dot-net&logoColor=white ```
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" /> | ``` https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black ```
 
 
 
