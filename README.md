@@ -14,8 +14,9 @@ Improve your README.md profile with these amazing badges. See sample on [my prof
 - [🎞 Streaming](#-streaming-)
 - [🚀 Skills](#-skills-)
 - [🎮 Games](#-games-)
+- [❤ Funding](#-funding-)
 - [🐸 Others](#-others-)
-- [✏ DIY](#-make-yourself-)
+- [✏ DIY](#-diy-)
 
 ## 📱 Contact
 
