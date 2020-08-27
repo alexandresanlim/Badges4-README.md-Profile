@@ -28,6 +28,15 @@ Image | Uri
 <img src="https://img.shields.io/badge/messenger-%2300B2FF.svg?&style=for-the-badge&logo=messenger&logoColor=white" /> | ``` https://img.shields.io/badge/messenger-%2300B2FF.svg?&style=for-the-badge&logo=messenger&logoColor=white ```
 <img src="https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white" /> | ```https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white ```
 
+## 📱 Groups
+
+
+Image | Uri
+------------ | -------------
+<img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" /> | ``` https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white ```
+<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /> | ``` https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white ```
+
+
 
 ## 👨👩 Social [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -46,6 +55,7 @@ Image | Uri
 <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> | ``` https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white ```
 <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /> | ``` https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white ```
 <img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" /> | ``` https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white ```
+<img src="https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white" /> | ``` https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white ```
 
 ## 🎞 Streaming [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -131,12 +141,14 @@ Image | Uri
 <img src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white" /> | ``` https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white ```
 <img src="https://img.shields.io/badge/liberapay-%23F6C915.svg?&style=for-the-badge&logo=liberapay&logoColor=black" /> | ``` https://img.shields.io/badge/liberapay-%23F6C915.svg?&style=for-the-badge&logo=liberapay&logoColor=black ```
 <img src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" /> | ``` https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white ```
+<img src="https://img.shields.io/badge/cofi-%23F16061.svg?&style=for-the-badge&logo=ko-fi&logoColor=white" /> | ``` https://img.shields.io/badge/cofi-%23F16061.svg?&style=for-the-badge&logo=ko-fi&logoColor=white ```
 
-## 🐸 Others [🔝](#welcome-badges-4-readmemd-profile)
+## 🎶 Sound [🔝](#welcome-badges-4-readmemd-profile)
 
 Image | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> | ``` https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" ```
+<img src="https://img.shields.io/badge/deezer-%23FEAA2D.svg?&style=for-the-badge&logo=deezer&logoColor=white" /> | ``` https://img.shields.io/badge/deezer-%23FEAA2D.svg?&style=for-the-badge&logo=deezer&logoColor=white ```
 
 ## ✏ DIY [🔝](#welcome-badges-4-readmemd-profile)
 
