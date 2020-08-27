@@ -4,7 +4,7 @@ Improve your README.md profile with these amazing badges. See sample on [my prof
 
 ## How to use?
 1. Get a Uri
-2. Create your img tag ``` <img src="SetUri" /> ```
+2. Create your img tag ``` <img src="BadgeUriHere" /> ```
 3. Copy and paste on your profile
 
 ## Menu
@@ -21,17 +21,17 @@ Improve your README.md profile with these amazing badges. See sample on [my prof
 ## 📱 Contact
 
 
-Image | Uri
+Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> | ``` https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white ```
 <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> | ``` https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white ```
 <img src="https://img.shields.io/badge/messenger-%2300B2FF.svg?&style=for-the-badge&logo=messenger&logoColor=white" /> | ``` https://img.shields.io/badge/messenger-%2300B2FF.svg?&style=for-the-badge&logo=messenger&logoColor=white ```
 <img src="https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white" /> | ```https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white ```
 
-## 📱 Groups
+## 🤜🤛 Group
 
 
-Image | Uri
+Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" /> | ``` https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white ```
 <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /> | ``` https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white ```
@@ -40,7 +40,7 @@ Image | Uri
 
 ## 👨👩 Social [🔝](#welcome-badges-4-readmemd-profile)
 
-Image | Uri
+Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /> | ```https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white ```
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> | ``` https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white ```
@@ -50,7 +50,7 @@ Image | Uri
 
 ## 📝 Blog [🔝](#welcome-badges-4-readmemd-profile)
 
-Image | Uri
+Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> | ``` https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white ```
 <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /> | ``` https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white ```
@@ -59,7 +59,7 @@ Image | Uri
 
 ## 🎞 Streaming [🔝](#welcome-badges-4-readmemd-profile)
 
-Image | Uri
+Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> | ``` https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" ```
 <img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" /> | ``` https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" ```
@@ -67,7 +67,7 @@ Image | Uri
 
 ## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)
 
-Image | Uri
+Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" /> | ``` https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=flat-square&logo=c%20sharp&logoColor=white" ```
 <img src="https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=for-the-badge&logo=xamarin&logoColor=white" /> | ``` https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=flat-square&logo=xamarin&logoColor=white ```
@@ -126,7 +126,7 @@ Image | Uri
 ## 🎮🕹 Games [🔝](#welcome-badges-4-readmemd-profile)
 
 
-Image | Uri
+Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" /> | ``` https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white ```
 <img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" /> | ``` https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" ```
@@ -136,7 +136,7 @@ Image | Uri
 ## ❤ Funding [🔝](#welcome-badges-4-readmemd-profile)
 
 
-Image | Uri
+Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white" /> | ``` https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white ```
 <img src="https://img.shields.io/badge/liberapay-%23F6C915.svg?&style=for-the-badge&logo=liberapay&logoColor=black" /> | ``` https://img.shields.io/badge/liberapay-%23F6C915.svg?&style=for-the-badge&logo=liberapay&logoColor=black ```
@@ -145,7 +145,7 @@ Image | Uri
 
 ## 🎶 Sound [🔝](#welcome-badges-4-readmemd-profile)
 
-Image | Uri
+Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> | ``` https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" ```
 <img src="https://img.shields.io/badge/deezer-%23FEAA2D.svg?&style=for-the-badge&logo=deezer&logoColor=white" /> | ``` https://img.shields.io/badge/deezer-%23FEAA2D.svg?&style=for-the-badge&logo=deezer&logoColor=white ```
