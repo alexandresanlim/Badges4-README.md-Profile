@@ -8,8 +8,8 @@ Improve your README.md profile with these amazing badges. See sample on [my prof
 3. Copy and paste on your profile
 
 ## Menu
-- [📱 Contact](#-contact)
-- [🤜🤛 Group](#-group)
+- [📱 Contact](#-contact-)
+- [🤜🤛 Group](#-group-)
 - [👨 Social](#-social-)
 - [📝 Blog](#-blog-)
 - [🎞 Streaming](#-streaming-)
