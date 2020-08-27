@@ -154,7 +154,7 @@ Badge | Uri
 <img src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white" /> | ``` https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white ```
 <img src="https://img.shields.io/badge/liberapay-%23F6C915.svg?&style=for-the-badge&logo=liberapay&logoColor=black" /> | ``` https://img.shields.io/badge/liberapay-%23F6C915.svg?&style=for-the-badge&logo=liberapay&logoColor=black ```
 <img src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" /> | ``` https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white ```
-<img src="https://img.shields.io/badge/cofi-%23F16061.svg?&style=for-the-badge&logo=ko-fi&logoColor=white" /> | ``` https://img.shields.io/badge/cofi-%23F16061.svg?&style=for-the-badge&logo=ko-fi&logoColor=white ```
+<img src="https://img.shields.io/badge/Kofi-%23F16061.svg?&style=for-the-badge&logo=ko-fi&logoColor=white" /> | ``` https://img.shields.io/badge/cofi-%23F16061.svg?&style=for-the-badge&logo=ko-fi&logoColor=white ```
 
 ## 🎶 Sound [🔝](#welcome-badges-4-readmemd-profile)
 
