@@ -128,7 +128,9 @@ Badge | Uri
 Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/nvidia-gtx1650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /> | ``` https://img.shields.io/badge/nvidia-gtx1650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white ```
+<img src="https://img.shields.io/badge/amd-Radeon%20RX%205500-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" /> | ``` https://img.shields.io/badge/amd-Radeon%20RX%205500-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white ```
 <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /> | ``` https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white ```
+<img src="https://img.shields.io/badge/amd-Ryzen%207%203800X-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" /> | ``` https://img.shields.io/badge/amd-Ryzen%207%203800X-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white ```
 
 
 ## 🎮🕹 Games [🔝](#welcome-badges-4-readmemd-profile)
