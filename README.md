@@ -15,7 +15,7 @@ Improve your README.md profile with these amazing badges. See sample on [my prof
 - [🚀 Skills](#-skills-)
 - [🎮 Games](#-games-)
 - [🐸 Others](#-others-)
-- [✏ Make yourself](#-make-yourself-)
+- [✏ DIY](#-make-yourself-)
 
 ## 📱 Contact
 
@@ -137,7 +137,7 @@ Image | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> | ``` https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" ```
 
-## ✏ Make yourself [🔝](#welcome-badges-4-readmemd-profile)
+## ✏ DIY [🔝](#welcome-badges-4-readmemd-profile)
 
 ```
 https://img.shields.io/badge/{FIRST}-{SECONDARY}-%23{HEX-COLOR}.svg?&style=for-the-badge&logo={ICON}&logoColor=white"
