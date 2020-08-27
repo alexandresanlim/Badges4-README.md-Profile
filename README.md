@@ -4,7 +4,7 @@ Improve your README.md profile with these amazing badges. See sample on [my prof
 
 ## How to use?
 1. Get a Uri
-2. Create your img tag ``` <img src="BadgeUriHere" /> ```
+2. Create your a img tag ``` <img src="BadgeUriHere" /> ```
 3. Copy and paste on your profile
 
 ## Menu
