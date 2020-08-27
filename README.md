@@ -14,7 +14,7 @@ Improve your README.md profile with these amazing badges. See sample on [my prof
 - [📝 Blog](#-blog-)
 - [🎞 Streaming](#-streaming-)
 - [🚀 Skills](#-skills-)
-- [💻 Workspace Spac](#-workspace-spec-)
+- [💻 Workspace Spec](#-workspace-spec-)
 - [🎮 Games](#-games-)
 - [❤ Funding](#-funding-)
 - [🎶 Sound](#-sound-)
