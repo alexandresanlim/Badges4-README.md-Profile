@@ -131,6 +131,8 @@ Badge | Uri
 <img src="https://img.shields.io/badge/amd-Radeon%20RX%205500-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" /> | ``` https://img.shields.io/badge/amd-Radeon%20RX%205500-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white ```
 <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /> | ``` https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white ```
 <img src="https://img.shields.io/badge/amd-Ryzen%207%203800X-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" /> | ``` https://img.shields.io/badge/amd-Ryzen%207%203800X-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white ```
+<img src="https://img.shields.io/badge/windows-asus%20zenbook%203-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" /> | ``` https://img.shields.io/badge/windows-asus%20zenbook%203-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white ```
+<img src="https://img.shields.io/badge/apple-macbook%20pro%202012-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" /> | ``` https://img.shields.io/badge/apple-macbook%20pro%202012-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white ```
 
 
 ## 🎮🕹 Games [🔝](#welcome-badges-4-readmemd-profile)
