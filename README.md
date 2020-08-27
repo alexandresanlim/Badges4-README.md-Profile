@@ -123,6 +123,13 @@ Badge | Uri
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>      | ` https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white `               |
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>        | ` https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white `                 |
 
+## 💻 Workspace Spec [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | Uri
+------------ | -------------
+<img src="https://img.shields.io/badge/nvidia-gtx1650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /> | ``` https://img.shields.io/badge/nvidia-gtx1650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white ```
+<img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /> | ``` https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white ```
+
 
 ## 🎮🕹 Games [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -131,8 +138,8 @@ Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" /> | ``` https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white ```
 <img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" /> | ``` https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" ```
-<img src="https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white" /> | ``` https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white" ```
-<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /> | ``` https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" ```
+<img src="https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white" /> | ``` https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white ```
+<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /> | ``` https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white ```
 
 ## ❤ Funding [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -148,7 +155,7 @@ Badge | Uri
 
 Badge | Uri
 ------------ | -------------
-<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> | ``` https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" ```
+<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> | ``` https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white ```
 <img src="https://img.shields.io/badge/deezer-%23FEAA2D.svg?&style=for-the-badge&logo=deezer&logoColor=white" /> | ``` https://img.shields.io/badge/deezer-%23FEAA2D.svg?&style=for-the-badge&logo=deezer&logoColor=white ```
 
 ## ✏ DIY [🔝](#welcome-badges-4-readmemd-profile)
