@@ -16,8 +16,8 @@ Improve your README.md profile with these amazing badges. See sample on [my prof
 - [🚀 Skills](#-skills-)
 - [🎮 Games](#-games-)
 - [❤ Funding](#-funding-)
-- [🎶 Sound](#-others-)
-- [✏ DIY](#-sound-)
+- [🎶 Sound](#-sound-)
+- [✏ DIY](#-diy-)
 
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
 
