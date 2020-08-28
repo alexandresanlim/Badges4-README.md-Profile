@@ -49,7 +49,6 @@ Badge | Uri
 <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> | ``` https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white ```
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> | ``` https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white ```
 <img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" /> | ``` https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white ```
-<img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?&style=for-the-badge&logo=snapchat&logoColor=black" /> | ``` https://img.shields.io/badge/snapchat-%23FFFC00.svg?&style=for-the-badge&logo=snapchat&logoColor=black ```
 <img src="https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok" /> | ``` https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok ```
 
 
