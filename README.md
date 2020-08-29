@@ -171,7 +171,7 @@ Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> | ``` https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white ```
 <img src="https://img.shields.io/badge/deezer-%23FEAA2D.svg?&style=for-the-badge&logo=deezer&logoColor=white" /> | ``` https://img.shields.io/badge/deezer-%23FEAA2D.svg?&style=for-the-badge&logo=deezer&logoColor=white ```
-<img src="https://img.shields.io/badge/audacity-%230000CC.svg?&style=for-the-badge&logo=audacity&logoColor=white" /> ``` https://img.shields.io/badge/audacity-%230000CC.svg?&style=for-the-badge&logo=audacity&logoColor=white ```
+<img src="https://img.shields.io/badge/audacity-%230000CC.svg?&style=for-the-badge&logo=audacity&logoColor=white" /> | ``` https://img.shields.io/badge/audacity-%230000CC.svg?&style=for-the-badge&logo=audacity&logoColor=white ```
 
 ## ✏ DIY [🔝](#welcome-badges-4-readmemd-profile)
 
