@@ -128,6 +128,33 @@ Badge | Uri
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>      | ` https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white `               |
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>        | ` https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white `                 |
 <img src="https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>       | `https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white `
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?logo=microsoft-access&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20Access-A4373A?logo=microsoft-access&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/Microsoft%20SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/Microsoft%20Visio-3955A3?logo=microsoft-visio&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20Visio-3955A3?logo=microsoft-visio&logoColor=white&style=for-the-badgee `
+<img src="https://img.shields.io/badge/Microsoft-666666?logo=microsoft&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft-666666?logo=microsoft&logoColor=white&style=for-the-badge `
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 💻 Workspace Spec [🔝](#welcome-badges-4-readmemd-profile)
 
