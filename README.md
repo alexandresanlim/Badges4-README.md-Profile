@@ -148,6 +148,7 @@ Badge | Uri
 <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/Microsoft%20Visio-3955A3?logo=microsoft-visio&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20Visio-3955A3?logo=microsoft-visio&logoColor=white&style=for-the-badgee `
 <img src="https://img.shields.io/badge/Microsoft-666666?logo=microsoft&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft-666666?logo=microsoft&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/sap-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/sap-0FAAFF?logo=sap&logoColor=white&style=for-the-badge `
 
 
 
