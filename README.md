@@ -18,6 +18,7 @@ Improve your README.md profile with these amazing badges. See a sample on [my pr
 - [🎮 Games](#-games-)
 - [❤ Funding](#-funding-)
 - [🎶 Sound](#-sound-)
+- [🍔🍕 Food](#-food-)
 - [✏ DIY](#-diy-)
 
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
