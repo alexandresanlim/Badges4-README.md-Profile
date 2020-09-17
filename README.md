@@ -209,6 +209,14 @@ Badge | Uri
 <img src="https://img.shields.io/badge/deezer-%23FEAA2D.svg?&style=for-the-badge&logo=deezer&logoColor=white" /> | ``` https://img.shields.io/badge/deezer-%23FEAA2D.svg?&style=for-the-badge&logo=deezer&logoColor=white ```
 <img src="https://img.shields.io/badge/audacity-%230000CC.svg?&style=for-the-badge&logo=audacity&logoColor=white" /> | ``` https://img.shields.io/badge/audacity-%230000CC.svg?&style=for-the-badge&logo=audacity&logoColor=white ```
 
+## 🍔🍕 Food [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | Uri
+------------ | -------------
+<img src="https://img.shields.io/badge/Uber%20Eats-5FB709?logo=uber-eats&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/Uber%20Eats-5FB709?logo=uber-eats&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/Aiqfome-7A1FA2?logo=aiqfome&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/Aiqfome-7A1FA2?logo=aiqfome&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/ifood-EA1D2C?logo=ifood&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/ifood-EA1D2C?logo=ifood&logoColor=white&style=for-the-badge `
+
 ## ✏ DIY [🔝](#welcome-badges-4-readmemd-profile)
 
 ```
