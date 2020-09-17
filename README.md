@@ -30,6 +30,9 @@ Badge | Uri
 <img src="https://img.shields.io/badge/messenger-%2300B2FF.svg?&style=for-the-badge&logo=messenger&logoColor=white" /> | ``` https://img.shields.io/badge/messenger-%2300B2FF.svg?&style=for-the-badge&logo=messenger&logoColor=white ```
 <img src="https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white" /> | ```https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white ```
 <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge `
+
+
 
 
 
