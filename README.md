@@ -231,6 +231,9 @@ Badge | Uri
 <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> | ``` https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white ```
 <img src="https://img.shields.io/badge/deezer-%23FEAA2D.svg?&style=for-the-badge&logo=deezer&logoColor=white" /> | ``` https://img.shields.io/badge/deezer-%23FEAA2D.svg?&style=for-the-badge&logo=deezer&logoColor=white ```
 <img src="https://img.shields.io/badge/audacity-%230000CC.svg?&style=for-the-badge&logo=audacity&logoColor=white" /> | ``` https://img.shields.io/badge/audacity-%230000CC.svg?&style=for-the-badge&logo=audacity&logoColor=white ```
+<img src="https://img.shields.io/badge/apple%20podcasts-9933CC?logo=apple-podcasts&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/apple%20podcasts-9933CC?logo=apple-podcasts&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/google%20podcasts-4285F4?logo=google-podcasts&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/google%20podcasts-4285F4?logo=google-podcasts&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/youtube%20music-FF0000?logo=youtube-music&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/youtube%20music-FF0000?logo=youtube-music&logoColor=white&style=for-the-badge `
 
 ## 🍔🍕 Food [🔝](#welcome-badges-4-readmemd-profile)
 
