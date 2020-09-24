@@ -11,6 +11,8 @@ Improve your README.md profile with these amazing badges. See a sample on [my pr
 - [📱 Contact](#-contact-)
 - [🤜🤛 Group](#-group-)
 - [👨 Social](#-social-)
+- [🛒 Store](#-store-)
+- [💻 OS](#-os-)
 - [📝 Blog](#-blog-)
 - [🎞 Streaming](#-streaming-)
 - [🚀 Skills](#-skills-)
