@@ -63,6 +63,13 @@ Badge | Uri
 <img src="https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok" /> | ``` https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok ```
 <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /> | ```https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white ```
 
+## 🛒 Store [🔝](#welcome-badges-4-readmemd-profile)
+
+
+Badge | Uri
+------------ | -------------
+<img src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/App%20Store-0D96F6?logo=app-store&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/App%20Store-0D96F6?logo=app-store&logoColor=white&style=for-the-badge `
 
 ## 📝 Blog [🔝](#welcome-badges-4-readmemd-profile)
 
