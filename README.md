@@ -64,6 +64,7 @@ Badge | Uri
 <img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" /> | ``` https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white ```
 <img src="https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok" /> | ``` https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok ```
 <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /> | ```https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white ```
+<img src="https://img.shields.io/badge/xda%20developers-F59812?logo=xda-developers&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/xda%20developers-F59812?logo=xda-developers&logoColor=white&style=for-the-badge `
 
 ## 🛒 Store [🔝](#welcome-badges-4-readmemd-profile)
 
