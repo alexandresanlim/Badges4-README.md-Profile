@@ -100,6 +100,8 @@ Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> | ``` https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" ```
 <img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" /> | ``` https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" ```
+<img src="https://img.shields.io/badge/youtube%20gaming-FF0000?logo=youtube-gaming&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/youtube%20gaming-FF0000?logo=youtube-gaming&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/facebook%20gaming-005FED?logo=facebook-gaming&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/facebook%20gaming-005FED?logo=facebook-gaming&logoColor=white&style=for-the-badge `
 
 
 ## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)
@@ -170,22 +172,6 @@ Badge | Uri
 <img src="https://img.shields.io/badge/Microsoft%20Visio-3955A3?logo=microsoft-visio&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20Visio-3955A3?logo=microsoft-visio&logoColor=white&style=for-the-badgee `
 <img src="https://img.shields.io/badge/Microsoft-666666?logo=microsoft&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft-666666?logo=microsoft&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/sap-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/sap-0FAAFF?logo=sap&logoColor=white&style=for-the-badge `
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## 💻 Workspace Spec [🔝](#welcome-badges-4-readmemd-profile)
