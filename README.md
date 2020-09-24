@@ -71,6 +71,17 @@ Badge | Uri
 <img src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/App%20Store-0D96F6?logo=app-store&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/App%20Store-0D96F6?logo=app-store&logoColor=white&style=for-the-badge `
 
+## 💻 OS [🔝](#welcome-badges-4-readmemd-profile)
+
+
+Badge | Uri
+------------ | -------------
+<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/windows%2095-008080?logo=windows-95&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/windows%2095-008080?logo=windows-95&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/windows%20xp-003399?logo=windows-xp&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/windows%20xp-003399?logo=windows-xp&logoColor=white&style=for-the-badge `
+
 ## 📝 Blog [🔝](#welcome-badges-4-readmemd-profile)
 
 Badge | Uri
