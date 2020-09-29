@@ -97,6 +97,7 @@ Badge | Uri
 <img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" /> | ``` https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white ```
 <img src="https://img.shields.io/badge/youtube%20gaming-FF0000?logo=youtube-gaming&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/youtube%20gaming-FF0000?logo=youtube-gaming&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/facebook%20gaming-005FED?logo=facebook-gaming&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/facebook%20gaming-005FED?logo=facebook-gaming&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/Crunchyroll-F47521?logo=Crunchyroll&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/Crunchyroll-F47521?logo=Crunchyroll&logoColor=white&style=for-the-badge `
 
 
 ## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)
