@@ -193,6 +193,9 @@ Badge | Uri
 <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /> | ``` https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white ```
 <img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike" /> | ``` https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike ```
 <img src="https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?&style=for-the-badge&logo=itch.io&logoColor=white"/> | ``` https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?&style=for-the-badge&logo=itch.io&logoColor=white ```
+<img src="https://img.shields.io/badge/Stadia-CD2640?logo=stadia&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/Stadia-CD2640?logo=stadia&logoColor=white&style=for-the-badge `
+
+
 
 
 ## ❤ Funding [🔝](#welcome-badges-4-readmemd-profile)
