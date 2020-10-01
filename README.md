@@ -219,6 +219,7 @@ Badge | Uri
 <img src="https://img.shields.io/badge/apple%20podcasts-9933CC?logo=apple-podcasts&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/apple%20podcasts-9933CC?logo=apple-podcasts&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/google%20podcasts-4285F4?logo=google-podcasts&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/google%20podcasts-4285F4?logo=google-podcasts&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/youtube%20music-FF0000?logo=youtube-music&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/youtube%20music-FF0000?logo=youtube-music&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/soundcloud-%23FF3300?logo=soundcloud&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white&style=for-the-badge `
 
 ## 🍔🍕 Food [🔝](#welcome-badges-4-readmemd-profile)
 
