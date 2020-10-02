@@ -157,12 +157,14 @@ Badge | Uri
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>      | ` https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white `               |
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>        | ` https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white `                 |
 <img src="https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>       | `https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white `
+<img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?logo=microsoft-access&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20Access-A4373A?logo=microsoft-access&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge `
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/Microsoft%20SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/Microsoft%20Visio-3955A3?logo=microsoft-visio&logoColor=white&style=for-the-badge"/>       | `https://img.shields.io/badge/Microsoft%20Visio-3955A3?logo=microsoft-visio&logoColor=white&style=for-the-badgee `
@@ -206,7 +208,7 @@ Badge | Uri
 <img src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white" /> | ``` https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white ```
 <img src="https://img.shields.io/badge/liberapay-%23F6C915.svg?&style=for-the-badge&logo=liberapay&logoColor=black" /> | ``` https://img.shields.io/badge/liberapay-%23F6C915.svg?&style=for-the-badge&logo=liberapay&logoColor=black ```
 <img src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" /> | ``` https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white ```
-<img src="https://img.shields.io/badge/Kofi-%23F16061.svg?&style=for-the-badge&logo=ko-fi&logoColor=white" /> | ``` https://img.shields.io/badge/cofi-%23F16061.svg?&style=for-the-badge&logo=ko-fi&logoColor=white ```
+<img src="https://img.shields.io/badge/Kofi-%23F16061.svg?&style=for-the-badge&logo=ko-fi&logoColor=white" /> | ``` https://img.shields.io/badge/kofi-%23F16061.svg?&style=for-the-badge&logo=ko-fi&logoColor=white ```
 <img src="https://img.shields.io/badge/patreon-%23F96854.svg?&style=for-the-badge&logo=patreon&logoColor=white" /> | ``` https://img.shields.io/badge/patreon-%23F96854.svg?&style=for-the-badge&logo=patreon&logoColor=white ```
 
 ## 🎶 Sound [🔝](#welcome-badges-4-readmemd-profile)
@@ -219,6 +221,7 @@ Badge | Uri
 <img src="https://img.shields.io/badge/apple%20podcasts-9933CC?logo=apple-podcasts&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/apple%20podcasts-9933CC?logo=apple-podcasts&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/google%20podcasts-4285F4?logo=google-podcasts&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/google%20podcasts-4285F4?logo=google-podcasts&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/youtube%20music-FF0000?logo=youtube-music&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/youtube%20music-FF0000?logo=youtube-music&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/soundcloud-%23FF3300?logo=soundcloud&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white&style=for-the-badge `
 
 ## 🍔🍕 Food [🔝](#welcome-badges-4-readmemd-profile)
 
