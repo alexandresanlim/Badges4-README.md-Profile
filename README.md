@@ -99,6 +99,7 @@ Badge | Uri
 <img src="https://img.shields.io/badge/youtube%20gaming-FF0000?logo=youtube-gaming&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/youtube%20gaming-FF0000?logo=youtube-gaming&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/facebook%20gaming-005FED?logo=facebook-gaming&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/facebook%20gaming-005FED?logo=facebook-gaming&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/Crunchyroll-F47521?logo=Crunchyroll&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/Crunchyroll-F47521?logo=Crunchyroll&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white&style=for-the-badge `
 
 
 ## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)
@@ -197,7 +198,7 @@ Badge | Uri
 <img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike" /> | ``` https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike ```
 <img src="https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?&style=for-the-badge&logo=itch.io&logoColor=white"/> | ``` https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?&style=for-the-badge&logo=itch.io&logoColor=white ```
 <img src="https://img.shields.io/badge/Stadia-CD2640?logo=stadia&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/Stadia-CD2640?logo=stadia&logoColor=white&style=for-the-badge `
-
+<img src="https://img.shields.io/badge/Nintendo%203ds-D12228?logo=nintendo-3ds&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/Nintendo%203ds-D12228?logo=nintendo-3ds&logoColor=white&style=for-the-badge `
 
 
 
