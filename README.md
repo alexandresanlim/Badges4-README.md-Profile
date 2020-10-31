@@ -91,7 +91,7 @@ Badge | Uri
 Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> | ``` https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white ```
-<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /> | ``` https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white ```
+<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /> | ``` https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white ```
 <img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" /> | ``` https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white ```
 <img src="https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white" /> | ``` https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white ```
 
