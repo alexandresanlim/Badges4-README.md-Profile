@@ -29,6 +29,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" /> | ` https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white `
+<img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white" /> | ` https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white `
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /> | ` https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white `
 <img src="https://img.shields.io/badge/messenger-00B2FF?&style=for-the-badge&logo=messenger&logoColor=white" /> | ` https://img.shields.io/badge/messenger-00B2FF?&style=for-the-badge&logo=messenger&logoColor=white `
 <img src="https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white" /> | `https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white `
