@@ -29,6 +29,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" /> | ` https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white `
+<img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white" /> | ` https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white `
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /> | ` https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white `
 <img src="https://img.shields.io/badge/messenger-00B2FF?&style=for-the-badge&logo=messenger&logoColor=white" /> | ` https://img.shields.io/badge/messenger-00B2FF?&style=for-the-badge&logo=messenger&logoColor=white `
 <img src="https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white" /> | `https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white `
@@ -59,6 +60,7 @@ Badge | Uri
 <img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" /> | ``` https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white ```
 <img src="https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok" /> | ``` https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok ```
 <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /> | ```https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white ```
+<img src="https://img.shields.io/badge/bitbucket-%23330f63.svg?color=143864&style=for-the-badge&logo=bitbucket&logoColor=white" /> | ```https://img.shields.io/badge/bitbucket-%23330f63.svg?color=143864&style=for-the-badge&logo=bitbucket&logoColor=white ```
 <img src="https://img.shields.io/badge/xda%20developers-F59812?logo=xda-developers&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/xda%20developers-F59812?logo=xda-developers&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge `
 
@@ -78,6 +80,9 @@ Badge | Uri
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/linux mint-87CF3E?logo=linux-mint&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/linuxmint-87CF3E?logo=linux-mint&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/arch linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/arch-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/windows%2095-008080?logo=windows-95&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/windows%2095-008080?logo=windows-95&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/windows%20xp-003399?logo=windows-xp&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/windows%20xp-003399?logo=windows-xp&logoColor=white&style=for-the-badge `
 
@@ -86,7 +91,8 @@ Badge | Uri
 Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> | ``` https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white ```
-<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /> | ``` https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white ```
+<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /> | ``` https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white ```
+<img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /> | ``` https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white ```
 <img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" /> | ``` https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white ```
 <img src="https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white" /> | ``` https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white ```
 
@@ -111,13 +117,14 @@ Badge | Uri
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> | ``` https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white ```
 <img src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" /> | ``` https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white ```
 <img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white" /> | ``` https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white ```
-<img src="https://img.shields.io/badge/dotnet-net%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white" /> | ``` https://img.shields.io/badge/dotnet-net%23239120.svg?&style=flat-square&logo=dot-net&logoColor=white ```
+<img src="https://img.shields.io/badge/dotnet-net%23239120.svg?color=5C2D91&style=for-the-badge&logo=.net&logoColor=white" /> | ``` https://img.shields.io/badge/dotnet-net%23239120.svg?color=5C2D91&style=for-the-badge&logo=.net&logoColor=white ```
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> | ``` https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black ```
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>           | ``` https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white ```           |
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> | ` https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E ` |
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>     | ` https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white `     |
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>               | ` https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white `               |
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>                 | ` https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white `                 |
+<img src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/>                 | ` https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white `                 |
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>             | ` https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white `             |
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>                       | ` https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white `                       |
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>                | ` https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white `                |
@@ -140,6 +147,7 @@ Badge | Uri
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>                                     | ` https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge `                                     |
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>           | ` https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB `           |
 <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>   | ` https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB `    |
+<img src="https://img.shields.io/badge/svelte%20-%2320232a.svg?&color=4A4A55&style=for-the-badge&logo=svelte&logoColor=%FF3E00"/> | ` https://img.shields.io/badge/svelte%20-%2320232a.svg?&color=4A4A55&style=for-the-badge&logo=svelte&logoColor=%FF3E00 `       
 <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>          | ` https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D `          |
 <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>           | ` https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white `           |
 <img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>      | ` https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white `      |
