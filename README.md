@@ -82,6 +82,7 @@ Badge | Uri
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/linux mint-87CF3E?logo=linux-mint&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/linuxmint-87CF3E?logo=linux-mint&logoColor=white&style=for-the-badge `
+<img src="https://img.shields.io/badge/Alpine Linux-0D597F?logo=Alpine-Linux&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=Alpine-Linux&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/arch linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/arch-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/windows%2095-008080?logo=windows-95&logoColor=white&style=for-the-badge" /> | `https://img.shields.io/badge/windows%2095-008080?logo=windows-95&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/windows%20xp-003399?logo=windows-xp&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/windows%20xp-003399?logo=windows-xp&logoColor=white&style=for-the-badge `
