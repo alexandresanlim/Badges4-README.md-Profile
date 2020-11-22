@@ -3,8 +3,8 @@
 Improve your README.md profile with these amazing badges. See a sample [here](https://github.com/alexandresanlim)
 
 ## How to use?
-1. Get a Uri
-2. Create a img tag ``` <img src="BadgeUriHere" /> ```
+1. Get a URL
+2. Create a img tag ``` <img src="BadgeURLHere" /> ```
 3. Copy and paste on your profile
 
 ## Menu
@@ -26,7 +26,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
 
 
-Badge | Uri
+Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" /> | ` https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white `
 <img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white" /> | ` https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white `
@@ -37,7 +37,7 @@ Badge | Uri
 
 ## 🤜🤛 Group [🔝](#welcome-badges-4-readmemd-profile)
 
-Badge | Uri
+Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" /> | ``` https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white ```
 <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /> | ``` https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white ```
@@ -50,7 +50,7 @@ Badge | Uri
 
 ## 👨👩 Social [🔝](#welcome-badges-4-readmemd-profile)
 
-Badge | Uri
+Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /> | ```https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white ```
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> | ``` https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white ```
@@ -67,7 +67,7 @@ Badge | Uri
 ## 🛒 Store [🔝](#welcome-badges-4-readmemd-profile)
 
 
-Badge | Uri
+Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/App%20Store-0D96F6?logo=app-store&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/App%20Store-0D96F6?logo=app-store&logoColor=white&style=for-the-badge `
@@ -75,7 +75,7 @@ Badge | Uri
 ## 💻 OS [🔝](#welcome-badges-4-readmemd-profile)
 
 
-Badge | Uri
+Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge `
@@ -90,7 +90,7 @@ Badge | Uri
 
 ## 📝 Blog [🔝](#welcome-badges-4-readmemd-profile)
 
-Badge | Uri
+Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> | ``` https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white ```
 <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /> | ``` https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white ```
@@ -100,7 +100,7 @@ Badge | Uri
 
 ## 🎞 Streaming [🔝](#welcome-badges-4-readmemd-profile)
 
-Badge | Uri
+Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> | ``` https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white ```
 <img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" /> | ``` https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white ```
@@ -112,7 +112,7 @@ Badge | Uri
 
 ## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)
 
-Badge | Uri
+Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" /> | ``` https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white ```
 <img src="https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=for-the-badge&logo=xamarin&logoColor=white" /> | ``` https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=for-the-badge&logo=xamarin&logoColor=white ```
@@ -191,7 +191,7 @@ Badge | Uri
 
 ## 💻 Workspace Spec [🔝](#welcome-badges-4-readmemd-profile)
 
-Badge | Uri
+Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/nvidia-gtx1650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /> | ``` https://img.shields.io/badge/nvidia-gtx1650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white ```
 <img src="https://img.shields.io/badge/amd-Radeon%20RX%205500-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" /> | ``` https://img.shields.io/badge/amd-Radeon%20RX%205500-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white ```
@@ -204,7 +204,7 @@ Badge | Uri
 ## 🎮🕹 Games [🔝](#welcome-badges-4-readmemd-profile)
 
 
-Badge | Uri
+Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" /> | ``` https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white ```
 <img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" /> | ``` https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white ```
@@ -220,7 +220,7 @@ Badge | Uri
 ## ❤ Funding [🔝](#welcome-badges-4-readmemd-profile)
 
 
-Badge | Uri
+Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white" /> | ``` https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white ```
 <img src="https://img.shields.io/badge/liberapay-%23F6C915.svg?&style=for-the-badge&logo=liberapay&logoColor=black" /> | ``` https://img.shields.io/badge/liberapay-%23F6C915.svg?&style=for-the-badge&logo=liberapay&logoColor=black ```
@@ -230,7 +230,7 @@ Badge | Uri
 
 ## 🎶 Sound [🔝](#welcome-badges-4-readmemd-profile)
 
-Badge | Uri
+Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> | ``` https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white ```
 <img src="https://img.shields.io/badge/deezer-%23FEAA2D.svg?&style=for-the-badge&logo=deezer&logoColor=white" /> | ``` https://img.shields.io/badge/deezer-%23FEAA2D.svg?&style=for-the-badge&logo=deezer&logoColor=white ```
@@ -242,7 +242,7 @@ Badge | Uri
 
 ## 🍔🍕 Food [🔝](#welcome-badges-4-readmemd-profile)
 
-Badge | Uri
+Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Uber%20Eats-5FB709?logo=uber-eats&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/Uber%20Eats-5FB709?logo=uber-eats&logoColor=white&style=for-the-badge `
 <img src="https://img.shields.io/badge/Aiqfome-7A1FA2?logo=aiqfome&logoColor=white&style=for-the-badge" /> | ` https://img.shields.io/badge/Aiqfome-7A1FA2?logo=aiqfome&logoColor=white&style=for-the-badge `
