@@ -261,6 +261,3 @@ https://img.shields.io/badge/{FIRST}-{SECONDARY}-{HEX-COLOR}?style=for-the-badge
 ## More
 
 It's only possible because of [Shields Project](https://github.com/badges/shields) ❤
-
-Follow Me:
-[![forthebadge](https://img.shields.io/github/followers/alexandresanlim?label=GitHub&style=social)](https://github.com/alexandresanlim)
