@@ -196,6 +196,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/> | `https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white`
 <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white"/> | `https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white`
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/> | `https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white`
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> | `https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white`
 
 
 
