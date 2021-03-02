@@ -29,6 +29,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> | `https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white`
+<img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" /> | `https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white`
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> | `https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white`
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white`
 <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /> | `https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white`
@@ -63,6 +64,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" /> | `https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white`
 <img src="https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white" /> | `https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white`
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /> | `https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white`
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> | `https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white`
+<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /> | `https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white`
 
 ## 🛒 Store [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -80,7 +83,9 @@ Badge | URL
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> | `https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white`
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> | `https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white`
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> | `https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white`
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> | `https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black`
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> | `https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white`
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> | `https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white`
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> | `https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white`
 <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white" /> | `https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white`
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> | `https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white`
@@ -95,6 +100,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> | `https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white`
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /> | `https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white`
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /> | `https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white`
+<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> | `https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white`
 <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /> | `https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white`
 <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" /> | `https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white`
 
@@ -167,6 +173,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> | `https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white`
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /> | `https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white`
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> | `https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white`
+<img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" /> | `https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white`
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> | `https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white`
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> | `https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white`
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> | `https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white`
