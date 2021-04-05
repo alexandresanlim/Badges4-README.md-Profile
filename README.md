@@ -156,6 +156,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> | `https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white`
 <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" /> | `https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white`
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" /> | `https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white`
+<img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" /> | `https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white`
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> | `https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white`
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> | `https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white`
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> | `https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white`
 <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" /> | `https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white`
@@ -183,6 +185,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> | `https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white`
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> | `https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white`
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> | `https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white`
+<img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" /> | `https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white`
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> | `https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white`
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> | `https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white`
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> | `https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white`
@@ -203,9 +206,10 @@ Badge | URL
 <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" /> | `https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white`
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /> | `https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white`
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> | `https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white`
+<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> | `https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white`
+<img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/> | `https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white`
 <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white"/> | `https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white`
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> | `https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white`
-<img src="https://img.shields.io/badge/go-00add8?style=for-the-badge&logo=go&logoColor=white"/> | `https://img.shields.io/badge/go-00add8?style=for-the-badge&logo=go&logoColor=white`
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/> | `https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white`
 <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white"/> | `https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white`
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> | `https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white`
