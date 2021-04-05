@@ -156,6 +156,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> | `https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white`
 <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" /> | `https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white`
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" /> | `https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white`
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> | `https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white`
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> | `https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white`
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> | `https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white`
 <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" /> | `https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white`
