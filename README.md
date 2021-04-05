@@ -290,4 +290,4 @@ https://img.shields.io/badge/{FIRST}-{SECONDARY}-{HEX-COLOR}?style=for-the-badge
 
 ## More
 
-It's only possible because of [Shields Project](https://github.com/badges/shields) ❤
+It's only possible because of [Shields Project](https://github.com/badges/shields) and [Simple Icons](https://github.com/simple-icons/simple-icons) ❤
