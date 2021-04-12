@@ -132,6 +132,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> | `https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white`
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> | `https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white`
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/> | `https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white`
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/> | `https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white`
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> | `https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white`
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" /> | `https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white`
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> | `https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white`
@@ -146,6 +147,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | `https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white` |
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> | `https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white`
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> | `https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white`
+<img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" /> | `https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white`
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> | `https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white`
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" /> | `https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white`
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> | `https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white`
