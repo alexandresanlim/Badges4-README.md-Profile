@@ -21,8 +21,6 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 - [❤ Funding](#-funding-)
 - [🎶 Sound](#-sound-)
 - [🍔🍕 Food](#-food-)
-
-
 - [✏ Contribute](#-diy-)
 
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
