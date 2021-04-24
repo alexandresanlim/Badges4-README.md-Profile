@@ -279,16 +279,21 @@ Badge | URL
 <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" /> | `https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white`
 <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" /> | `https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white`
 
-
-
-## ❤ Funding [🔝](#welcome-badges-4-readmemd-profile)
-
+## 💲 Cryptocurrency [🔝](#welcome-badges-4-readmemd-profile)
 
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" /> | `https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white`
 <img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=litecoin&logoColor=white" /> | `https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=litecoin&logoColor=white`
 <img src="https://img.shields.io/badge/Ethereum-A6A9AA?style=for-the-badge&logo=ethereum&logoColor=white" /> | `https://img.shields.io/badge/Ethereum-A6A9AA?style=for-the-badge&logo=ethereum&logoColor=white`
+<img src="https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white" /> | `https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white`
+<img src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white" /> | `https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white`
+<img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" /> | `https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white`
+
+## ❤ Funding [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
 <img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white" /> | `https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white`
 <img src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" /> | `https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black`
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /> | `https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white`
