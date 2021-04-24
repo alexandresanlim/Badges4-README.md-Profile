@@ -21,7 +21,9 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 - [❤ Funding](#-funding-)
 - [🎶 Sound](#-sound-)
 - [🍔🍕 Food](#-food-)
-- [✏ DIY](#-diy-)
+
+
+- [✏ Contribute](#-diy-)
 
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -298,8 +300,8 @@ Badge | URL
 https://img.shields.io/badge/{TEXT-HERE}-{HEX-COLOR-HERE}?style=for-the-badge&logo={LOGO-NAME-HERE}
 ```
 - {TEXT} = Paste your badge text
-- {HEX COLOR} = Paste your hex color whithout "#"
-- {LOGO NAME} = Logo name from simple icon
+- {HEX COLOR} = Paste your hex color whithout "#" from Simple Icon
+- {LOGO NAME} = Logo name from Simple Icon
 
 4 - Commit your changes ;)
 
