@@ -20,7 +20,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 - [💻 OS](#-os-)
 - [💻 Workspace Spec](#-workspace-spec-)
 - [🛒 Store](#-store-)
-- [👨‍💻 Office](-office-)
+- [👨‍💻 Office](#-office-)
 - [🎮 Games](#-games-)
 - [📝 Blog](#-blog-)
 - [🎞 Streaming](#-streaming-)
