@@ -321,7 +321,7 @@ Badge | URL
 
 3 - Build the URL: 
 ```
-https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}
+https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white
 ```
 - {TEXT} = Paste your badge text
 - {HEX-COLOR} = Paste your hex color whithout "#" from Simple Icon
