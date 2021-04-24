@@ -301,7 +301,9 @@ https://img.shields.io/badge/{TEXT-HERE}-{HEX-COLOR-HERE}?style=for-the-badge&lo
 - {HEX COLOR} = Paste your hex color whithout "#" from Simple Icon
 - {LOGO NAME} = Logo name from Simple Icon
 
-4 - Commit your changes ;)
+4 - Paste on category
+
+5 - Commit your changes ;)
 
 
 ## More
