@@ -287,14 +287,21 @@ Badge | URL
 <img src="https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white" /> | `https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white`
 <img src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white" /> | `https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white`
 
-## ✏ DIY [🔝](#welcome-badges-4-readmemd-profile)
+## ✏ Contribute [🔝](#welcome-badges-4-readmemd-profile)
 
-```
-https://img.shields.io/badge/{FIRST}-{SECONDARY}-{HEX-COLOR}?style=for-the-badge&logo={ICON}&logoColor=white
-```
+1 - You don't need to make a fork just edit 
 
-- To small badge remove {SECONDARY}
-- Get {ICON} and {HEX-COLOR} [here](https://simpleicons.org/)
+2 - Get a icon and ex color from [Simple Icon](https://simpleicons.org/), if you don't find the desired logo, request it [here](https://github.com/simple-icons/simple-icons/issues/new?assignees=&labels=new+icon&template=icon_request.md)
+
+3 - Build the URL: 
+```
+https://img.shields.io/badge/{TEXT-HERE}-{HEX-COLOR-HERE}?style=for-the-badge&logo={LOGO-NAME-HERE}
+```
+- {TEXT} = Paste your badge text
+- {HEX COLOR} = Paste your hex color whithout "#"
+- {LOGO NAME} = Logo name from simple icon
+
+4 - Commit your changes ;)
 
 
 ## More
