@@ -177,8 +177,7 @@ Badge | URL
 ## 👩‍💻 IDE [🔝](#welcome-badges-4-readmemd-profile)
 Badge | URL
 ------------ | -------------
-<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" /> |
-`https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white`
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" /> | `https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white`
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> | `https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white`
 <img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> | `https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white`
 
