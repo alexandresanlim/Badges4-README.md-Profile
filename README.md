@@ -24,10 +24,13 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 - [🎮 Games](#-games-)
 - [📝 Blog](#-blog-)
 - [🎞 Streaming](#-streaming-)
+- [💲 Cryptocurrency](#-cryptocurrency-)
 - [❤ Funding](#-funding-)
 - [🎶 Sound](#-sound-)
 - [🍔🍕 Food](#-food-)
 - [✏ Contribute](#-contribute-)
+
+
 
 
 
