@@ -292,6 +292,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white" /> | `https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white`
 <img src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white" /> | `https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white`
 <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" /> | `https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white`
+<img src="https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white" /> | `https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white`
 
 ## ❤ Funding [🔝](#welcome-badges-4-readmemd-profile)
 
