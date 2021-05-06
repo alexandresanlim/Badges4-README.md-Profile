@@ -196,6 +196,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/> | `https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white`
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> | `https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white`
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/> | `https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white`
+<img src="https://img.shields.io/badge/ChartJS-FF6384?style=for-the-badge&logo=chart.js&logoColor=white"/> | `https://img.shields.io/badge/ChartJS-FF6384?style=for-the-badge&logo=chart.js&logoColor=white`
 
 ## ☁ Cloud [🔝](#welcome-badges-4-readmemd-profile)
 
