@@ -14,8 +14,8 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 - [👩‍💻 Languages](#-languages-)
 - [👩‍💻 IDE](#-ide-)
 - [⚡ Database](#-database-)
-- [📱 Mobile Frameworks](#-mobile-frameworks-)
-- [🚀 Frameworks](#-frameworks-)
+- [📱 Mobile Development Frameworks](#-mobile-frameworks-)
+- [🚀 General Frameworks](#-frameworks-)
 - [☁ Cloud](#-cloud-)
 - [📊 Analytics](#-analytics-)
 - [💻 OS](#-os-)
@@ -117,7 +117,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> | `https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white`
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> | `https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white`
 
-## 📱 Mobile Frameworks [🔝](#welcome-badges-4-readmemd-profile)
+## 📱 Mobile Development Frameworks [🔝](#welcome-badges-4-readmemd-profile)
 
 Badge | URL
 ------------ | -------------
@@ -126,7 +126,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | `https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB`
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> | `https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white`
 
-## 🚀 Frameworks [🔝](#welcome-badges-4-readmemd-profile)
+## 🚀 General Frameworks [🔝](#welcome-badges-4-readmemd-profile)
 
 Badge | URL
 ------------ | -------------
