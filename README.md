@@ -347,6 +347,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /> | `https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white`
 <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /> | `https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white`
 <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /> | `https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white`
+<img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /> | `https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white`
 
 ## 🎶 Sound [🔝](#welcome-badges-4-readmemd-profile)
 
