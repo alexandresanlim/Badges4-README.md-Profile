@@ -206,7 +206,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/ChartJS-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white"/> | `https://img.shields.io/badge/ChartJS-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white`
 <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white"/> | `https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white`
 <img src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white"/> | `https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white`
-
+<img src="https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white" /> | `https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white`
 
 
 ## ☁ Cloud [🔝](#welcome-badges-4-readmemd-profile)
