@@ -8,9 +8,6 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 3. Copy and paste on your profile
 
 ## Menu
-- [Welcome! Badges 4 README.md Profile](#welcome-badges-4-readmemd-profile)
-  - [How to use?](#how-to-use)
-  - [Menu](#menu)
   - [📱 Contact 🔝](#-contact-)
   - [🤜🤛 Group 🔝](#-group-)
   - [👨👩 Social 🔝](#-social-)
