@@ -218,6 +218,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white"/> | `https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white`
 <img src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white"/> | `https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white`
 <img src="https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white" /> | `https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white`
+<img src="https://img.shields.io/badge/Deno.JS-464647?style=for-the-badge&logo=deno&logoColor=white" /> | `https://img.shields.io/badge/Deno.JS-464647?style=for-the-badge&logo=deno&logoColor=white`
+<img src="https://img.shields.io/badge/Deno.JS-white?style=for-the-badge&logo=deno&logoColor=464647" /> | `https://img.shields.io/badge/Deno.JS-white?style=for-the-badge&logo=deno&logoColor=464647`
 
 
 ## ☁ Cloud [🔝](#welcome-badges-4-readmemd-profile)
