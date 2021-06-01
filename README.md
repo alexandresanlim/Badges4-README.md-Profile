@@ -223,6 +223,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white" /> | `https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white`
 <img src="https://img.shields.io/badge/Deno.JS-464647?style=for-the-badge&logo=deno&logoColor=white" /> | `https://img.shields.io/badge/Deno.JS-464647?style=for-the-badge&logo=deno&logoColor=white`
 <img src="https://img.shields.io/badge/Deno.JS-white?style=for-the-badge&logo=deno&logoColor=464647" /> | `https://img.shields.io/badge/Deno.JS-white?style=for-the-badge&logo=deno&logoColor=464647`
+<img src="https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white" /> | `https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white`
 
 
 ## ☁ Cloud [🔝](#welcome-badges-4-readmemd-profile)
