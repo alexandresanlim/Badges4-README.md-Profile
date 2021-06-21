@@ -138,6 +138,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" /> | `https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white`
 <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" /> | `https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white`
 <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /> | `https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white`
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" /> | `https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white`
 
 
 ## 📱 Mobile Frameworks [🔝](#welcome-badges-4-readmemd-profile)
@@ -159,6 +160,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/> | `https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white`
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/> | `https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white`
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> | `https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white`
+<img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"/> | `https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white`
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> | `https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white`
 <img src="https://img.shields.io/badge/Stylus-333333?style=for-the-badge&logo=stylus&logoColor=white" /> | `https://img.shields.io/badge/Stylus-333333?style=for-the-badge&logo=stylus&logoColor=white`
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" /> | `https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white`
