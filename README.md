@@ -235,6 +235,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" /> | `https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black`
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" /> | `https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white`
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" /> | `https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white`
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" /> | `https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white`
 
 
 ## ☁ Cloud [🔝](#welcome-badges-4-readmemd-profile)
