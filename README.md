@@ -122,6 +122,9 @@ Badge | URL
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /> | `https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white`
 <img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=white" /> | `https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=white`
 <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/> | `https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black`
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> | `https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white`
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> | `https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white`
+<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" /> | `https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white`
 
 ## ⚡ Database [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -237,6 +240,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" /> | `https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white`
 <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" /> | `https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white`
 <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" /> | `https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white`
+
 
 
 ## ☁ Cloud [🔝](#welcome-badges-4-readmemd-profile)
