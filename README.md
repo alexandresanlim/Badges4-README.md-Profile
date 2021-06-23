@@ -51,7 +51,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white`
 <img src ="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" /> | `https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white`
 <img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white"/> | `https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white`
-<img src="https://img.shields.io/badge/icq_new-FFFFFF?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000"/> | `https://img.shields.io/badge/icq_new-FFFFFF?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000`
+<img src="https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000"/> | `https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000` 
 
 ## 🤜🤛 Group [🔝](#welcome-badges-4-readmemd-profile)
 
