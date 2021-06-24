@@ -241,7 +241,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" /> | `https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white`
 <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" /> | `https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white`
 <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" /> | `https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white`
-
+<img src="https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white" /> | `https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white`
 
 
 ## ☁ Cloud [🔝](#welcome-badges-4-readmemd-profile)
