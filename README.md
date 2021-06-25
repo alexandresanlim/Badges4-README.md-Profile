@@ -241,7 +241,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" /> | `https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white`
 <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" /> | `https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white`
 <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" /> | `https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white`
-
+<img src="https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white" /> | `https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white`
 
 
 ## ☁ Cloud [🔝](#welcome-badges-4-readmemd-profile)
@@ -261,7 +261,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white" /> | `https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white`
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" /> | `https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white`
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> | `https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white`
-
+<img src="https://img.shields.io/badge/travis_CI-FFFFFF?style=for-the-badge&logo=travisci&logoColor=878888" /> | `https://img.shields.io/badge/travis_CI-FFFFFF?style=for-the-badge&logo=travisci&logoColor=878888`
 
 ## 🌐 Web Browsers [🔝](#welcome-badges-4-readmemd-profile)
 Badge | URL
