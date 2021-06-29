@@ -169,7 +169,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"/> | `https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white`
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> | `https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white`
 <img src="https://img.shields.io/badge/Stylus-333333?style=for-the-badge&logo=stylus&logoColor=white" /> | `https://img.shields.io/badge/Stylus-333333?style=for-the-badge&logo=stylus&logoColor=white`
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" /> | `https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white`
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> | `https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white`
 <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"/> | `https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white`
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> | `https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white`
 <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" /> | `https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white`
