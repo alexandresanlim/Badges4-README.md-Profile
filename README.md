@@ -356,6 +356,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white`
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" /> | `https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white`
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> | `https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white`
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> | `https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white`
 
 ## 💻 Workspace Spec [🔝](#welcome-badges-4-readmemd-profile)
 
