@@ -225,6 +225,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> | `https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black`
 <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white"/> | `https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white`
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> | `https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white`
+<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white"/> | `https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white`
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> | `https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white`
 <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/> | `https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white`
 <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white"/> | `https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white`
