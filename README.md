@@ -91,6 +91,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" /> | `https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue`
 <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />| `https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white`
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />| `https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white`
+<img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" />| `https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white`
 
 ## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
 
