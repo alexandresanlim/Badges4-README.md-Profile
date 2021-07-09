@@ -133,6 +133,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /> | `https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white`
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" /> | `https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white`
 <img src="https://img.shields.io/badge/PyTorchLightning-792EE5?style=for-the-badge&logo=PyTorchLightning&logoColor=white" /> | `https://img.shields.io/badge/PyTorch Lightning-792EE5?style=for-the-badge&logo=PyTorch Lightning&logoColor=white`
+<img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" /> | `https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white`
 
 ## ⚡ Database [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -153,7 +154,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" /> | `https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white`
 <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" /> | `https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white`
 <img src="https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white" /> | `https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white`
-
+<img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" /> | `https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white`
 
 
 ## 📱 Mobile Frameworks [🔝](#welcome-badges-4-readmemd-profile)
@@ -435,6 +436,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" /> | `https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white`
 <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" /> | `https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white`
 <img src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=Amazon%20Prime&logoColor=white" /> | `https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white`
+<img src="https://img.shields.io/badge/Hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white" /> | `https://img.shields.io/badge/Hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white`
 
 ## 💲 Cryptocurrency [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -480,6 +482,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white" /> | `https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white`
 <img src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white" /> | `https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white`
 <img src="https://img.shields.io/badge/Swiggy-FC8019?style=for-the-badge&logo=Swiggy&logoColor=white" /> | `https://img.shields.io/badge/Swiggy-FC8019?style=for-the-badge&logo=Swiggy&logoColor=white`
+<img src="https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white" /> | `https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white`
+<img src="https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white" /> | `https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white`
 
 ## ✏ Contribute [🔝](#welcome-badges-4-readmemd-profile)
 
