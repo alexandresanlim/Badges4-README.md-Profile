@@ -95,7 +95,9 @@ Badge | URL
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />| `https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black`
 <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />| `https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white`
 <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />| `https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white`
-<img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" />| `https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white`
+<img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />| `https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white`
+<img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" />| `https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white`
+
 
 ## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -123,9 +125,9 @@ Badge | URL
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> | `https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white`
 <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" /> | `https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white`
 <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" /> | `https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white`
- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />| `https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white`
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />| `https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white`
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> | `https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white`
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /> | `https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white`
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /> | `https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white`
 <img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=white" /> | `https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=white`
 <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/> | `https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black`
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> | `https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white`
@@ -489,6 +491,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Swiggy-FC8019?style=for-the-badge&logo=Swiggy&logoColor=white" /> | `https://img.shields.io/badge/Swiggy-FC8019?style=for-the-badge&logo=Swiggy&logoColor=white`
 <img src="https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white" /> | `https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white`
 <img src="https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white" /> | `https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white`
+<img src="https://img.shields.io/badge/foodpanda-D70F64?style=for-the-badge&logo=foodpanda&logoColor=white" /> | `https://img.shields.io/badge/foodpanda-E23744?style=for-the-badge&logo=zomato&logoColor=white`
+
 
 ## ✏ Contribute [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -519,6 +523,7 @@ It's only possible because of [Shields Project](https://github.com/badges/shield
 | [<img alt="noah-vdv" src="https://github.com/noah-vdv.png?size=115" width="115"><br><sub>@noah-vdv</sub>](https://github.com/noah-vdv) | [<img alt="RicardoRien" src="https://github.com/RicardoRien.png?size=115" width="115"><br><sub>@RicardoRien</sub>](https://github.com/RicardoRien) | [<img alt="Schleidens" src="https://github.com/Schleidens.png?size=115" width="115"><br><sub>@Schleidens</sub>](https://github.com/Schleidens) | [<img alt="RavinduSachintha" src="https://github.com/RavinduSachintha.png?size=115" width="115"><br><sub>@RavinduSachintha</sub>](https://github.com/RavinduSachintha) | [<img alt="mq1" src="https://github.com/mq1.png?size=115" width="115"><br><sub>@mq1</sub>](https://github.com/mq1) | [<img alt="hugorplobo" src="https://github.com/hugorplobo.png?size=115" width="115"><br><sub>@hugorplobo</sub>](https://github.com/hugorplobo) |
 | [<img alt="yuriBazza" src="https://github.com/yuriBaza23.png?size=115" width="115"><br><sub>@yuriBaza23</sub>](https://github.com/yuriBaza23) | [<img alt="RubenFilipe07" src="https://github.com/rubenfilipe07.png?size=115" width="115"><br><sub>@rubenfilipe07</sub>](https://github.com/rubenfilipe07) |[<img alt="venkatesh" src="https://github.com/venkateshpensalwar.png?size=115" width="115"><br><sub>@venkateshpensalwar</sub>](https://github.com/venkateshpensalwar) | [<img alt="RazorShard" src="https://github.com/RazorShard.png?size=115" width="115"><br><sub>@RazorShard</sub>](https://github.com/RazorShard) | [<img alt="AlexandraAlcantara" src="https://github.com/alexa2me.png?size=115" width="115"><br><sub>@alexa2me</sub>](https://github.com/alexa2me) | [<img alt="AnupShastri" src="https://github.com/anupshastri96.png?size=115" width="115"><br><sub>@anupshastri96</sub>](https://github.com/anupshastri96)
 [<img alt="developer-metalhead" src="https://github.com/developer-metalhead.png?size=115" width="115"><br><sub>@developer-metalhead</sub>](https://github.com/developer-metalhead)
+
 
 Author:
 | [<img src="https://github.com/alexandresanlim.png?size=115" width=115><br><sub>@alexandresanlim</sub>](https://github.com/alexandresanlim) |
