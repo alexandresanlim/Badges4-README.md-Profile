@@ -95,7 +95,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />| `https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black`
 <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />| `https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white`
 <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />| `https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white`
-<img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=linktree&logoColor=white" />| `https://img.shields.io/badge/Myanimelist-39E09B?style=for-the-badge&logo=linktree&logoColor=white`
+<img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />| `https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white`
+<img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" />| `https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white`
 
 
 ## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
@@ -124,9 +125,9 @@ Badge | URL
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> | `https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white`
 <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" /> | `https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white`
 <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" /> | `https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white`
- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />| `https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white`
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />| `https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white`
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> | `https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white`
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /> | `https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white`
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /> | `https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white`
 <img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=white" /> | `https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=white`
 <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/> | `https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black`
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> | `https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white`
