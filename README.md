@@ -25,6 +25,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
   - [💻 Workspace Spec](#-workspace-spec-)
   - [🖍📐 Design](#-design-)
   - [🎮🕹 Games](#-games-)
+  - [🎓📚 Education](#-education-)
   - [📝 Blog](#-blog-)
   - [🎞 Streaming](#-streaming-)
   - [💲 Cryptocurrency](#-cryptocurrency-)
@@ -425,6 +426,15 @@ Badge | URL
 <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /> | `https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white`
 <img src="https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white" /> | `https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white`
 <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" /> | `https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white`
+
+
+## 🎓📚 Education [🔝](#welcome-badges-4-readmemd-profile)
+
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/Udemy-A100FF?style=for-the-badge&logo=Udemy&logoColor=white" /> | `https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white`
+
 
 ## 📝 Blog [🔝](#welcome-badges-4-readmemd-profile)
 
