@@ -25,6 +25,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
   - [💻 Workspace Spec](#-workspace-spec-)
   - [🖍📐 Design](#-design-)
   - [🎮🕹 Games](#-games-)
+  - [🎓📚 Education](#-education-)
   - [📝 Blog](#-blog-)
   - [🎞 Streaming](#-streaming-)
   - [💲 Cryptocurrency](#-cryptocurrency-)
@@ -296,6 +297,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" /> | `https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white`
 <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" /> | `https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white`
 <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white" /> | `https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white`
+<img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" /> | `https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white`
 
 ## 📊 Analytics [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -327,6 +329,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" /> | `https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white`
 <img src="https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white" /> | `https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white`
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> | `https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white`
+<img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" /> | `https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white`
 
 
 ## 👩‍💻 IDE [🔝](#welcome-badges-4-readmemd-profile)
@@ -424,6 +427,16 @@ Badge | URL
 <img src="https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white" /> | `https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white`
 <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" /> | `https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white`
 
+
+## 🎓📚 Education [🔝](#welcome-badges-4-readmemd-profile)
+
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/Udemy-A100FF?style=for-the-badge&logo=Udemy&logoColor=white" /> | `https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white`
+<img src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white" /> | `https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white`
+
+
 ## 📝 Blog [🔝](#welcome-badges-4-readmemd-profile)
 
 Badge | URL
@@ -459,6 +472,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white" /> | `https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white`
 <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" /> | `https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white`
 <img src="https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white" /> | `https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white`
+<img src="https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white" /> | `https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white`
 
 ## ❤ Funding [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -525,7 +539,7 @@ It's only possible because of [Shields Project](https://github.com/badges/shield
 | [<img alt="AdityaPrakash-26" src="https://github.com/AdityaPrakash-26.png?size=115" width="115"><br><sub>@AdityaPrakash-26</sub>](https://github.com/AdityaPrakash-26) | [<img alt="NatanBB" src="https://github.com/NatanBB.png?size=115" width="115"><br><sub>@NatanBB</sub>](https://github.com/NatanBB) | [<img alt="ArpadGBondor" src="https://github.com/ArpadGBondor.png?size=115" width="115"><br><sub>@ArpadGBondor</sub>](https://github.com/ArpadGBondor) | [<img alt="zulmarij" src="https://github.com/zulmarij.png?size=115" width="115"><br><sub>@zulmarij</sub>](https://github.com/zulmarij) | [<img alt="mfdeveloper" src="https://github.com/mfdeveloper.png?size=115" width="115"><br><sub>@mfdeveloper</sub>](https://github.com/mfdeveloper) | [<img alt="#14ABSphreak" src="https://github.com/ABSphreak.png?size=115" width="115"><br><sub>@ABSphreak</sub>](https://github.com/ABSphreak) |
 | [<img alt="noah-vdv" src="https://github.com/noah-vdv.png?size=115" width="115"><br><sub>@noah-vdv</sub>](https://github.com/noah-vdv) | [<img alt="RicardoRien" src="https://github.com/RicardoRien.png?size=115" width="115"><br><sub>@RicardoRien</sub>](https://github.com/RicardoRien) | [<img alt="Schleidens" src="https://github.com/Schleidens.png?size=115" width="115"><br><sub>@Schleidens</sub>](https://github.com/Schleidens) | [<img alt="RavinduSachintha" src="https://github.com/RavinduSachintha.png?size=115" width="115"><br><sub>@RavinduSachintha</sub>](https://github.com/RavinduSachintha) | [<img alt="mq1" src="https://github.com/mq1.png?size=115" width="115"><br><sub>@mq1</sub>](https://github.com/mq1) | [<img alt="hugorplobo" src="https://github.com/hugorplobo.png?size=115" width="115"><br><sub>@hugorplobo</sub>](https://github.com/hugorplobo) |
 | [<img alt="yuriBazza" src="https://github.com/yuriBaza23.png?size=115" width="115"><br><sub>@yuriBaza23</sub>](https://github.com/yuriBaza23) | [<img alt="RubenFilipe07" src="https://github.com/rubenfilipe07.png?size=115" width="115"><br><sub>@rubenfilipe07</sub>](https://github.com/rubenfilipe07) |[<img alt="venkatesh" src="https://github.com/venkateshpensalwar.png?size=115" width="115"><br><sub>@venkateshpensalwar</sub>](https://github.com/venkateshpensalwar) | [<img alt="RazorShard" src="https://github.com/RazorShard.png?size=115" width="115"><br><sub>@RazorShard</sub>](https://github.com/RazorShard) | [<img alt="AlexandraAlcantara" src="https://github.com/alexa2me.png?size=115" width="115"><br><sub>@alexa2me</sub>](https://github.com/alexa2me) | [<img alt="AnupShastri" src="https://github.com/anupshastri96.png?size=115" width="115"><br><sub>@anupshastri96</sub>](https://github.com/anupshastri96)
-[<img alt="developer-metalhead" src="https://github.com/developer-metalhead.png?size=115" width="115"><br><sub>@developer-metalhead</sub>](https://github.com/developer-metalhead)
+[<img alt="developer-metalhead" src="https://github.com/developer-metalhead.png?size=115" width="115"><br><sub>@developer-metalhead</sub>](https://github.com/developer-metalhead) | [<img alt="jo0t4" src="https://github.com/jo0t4.png?size=115" width="115"><br><sub>@jo0t4</sub>](https://github.com/jo0t4) 
 
 
 Author:
