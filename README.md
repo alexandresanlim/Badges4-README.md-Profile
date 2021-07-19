@@ -138,6 +138,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/PyTorchLightning-792EE5?style=for-the-badge&logo=PyTorchLightning&logoColor=white" /> | `https://img.shields.io/badge/PyTorch Lightning-792EE5?style=for-the-badge&logo=PyTorch Lightning&logoColor=white`
 <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" /> | `https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white`
 <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" /> | `https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white`
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> | `https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white`
 
 ## ⚡ Database [🔝](#welcome-badges-4-readmemd-profile)
 
