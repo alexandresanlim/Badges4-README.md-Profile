@@ -20,6 +20,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
   - [📊 Analytics](#-analytics-)
   - [💻 OS](#-os-)
   - [👩‍💻 IDE](#-ide-)
+  - [💡 Prototyping Platforms](#-prototyping-platforms-)
   - [🛒 Store](#-store-)
   - [👨‍💻 Office](#-office-)
   - [💻 Workspace Spec](#-workspace-spec-)
@@ -356,6 +357,13 @@ Badge | URL
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />| `https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white`
 <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />| `https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white`
 <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" /> | `https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white`
+
+
+## 💡 Prototyping Platforms [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /> | `https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white`
 
 
 ## 🛒 Store [🔝](#welcome-badges-4-readmemd-profile)
