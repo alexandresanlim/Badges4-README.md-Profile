@@ -15,7 +15,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
   - [⚡ Database](#-database-)
   - [📱 Mobile Frameworks](#-mobile-frameworks-)
   - [🚀 Frameworks](#-frameworks-)
-  - [⏱️ Workflow Platforms](#-workflow-platform-)
+  - [⏱️ Workflow Platforms](#%EF%B8%8F-workflow-platforms-)
   - [☁ Cloud](#-cloud-)
   - [🌐 Web Browsers](#-web-browsers-)
   - [📊 Analytics](#-analytics-)
