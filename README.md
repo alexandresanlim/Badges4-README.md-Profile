@@ -15,7 +15,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
   - [⚡ Database](#-database-)
   - [📱 Mobile Frameworks](#-mobile-frameworks-)
   - [🚀 Frameworks](#-frameworks-)
-  - [⏱️ Workflow Platforms](#-workflow-platforms-)
+  - [⏱️ Workflow Platforms](#-workflow-platform-)
   - [☁ Cloud](#-cloud-)
   - [🌐 Web Browsers](#-web-browsers-)
   - [📊 Analytics](#-analytics-)
@@ -265,7 +265,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" /> | `https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white`
 <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white" /> | `https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white`
 
-## ☁ Workflow Platform [🔝](#welcome-badges-4-readmemd-profile)
+## ⏱️ Workflow Platforms [🔝](#welcome-badges-4-readmemd-profile)
 
 Badge | URL
 ------------ | -------------
