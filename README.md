@@ -35,6 +35,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
   - [❤ Funding](#-funding-)
   - [🎶 Sound](#-sound-)
   - [🍔🍕 Food](#-food-)
+  - [🔁 Dynamic](#-dynamic-)
   - [✏ Contribute](#-contribute-)
   - [More](#more-)
 
@@ -569,6 +570,12 @@ Badge | URL
 <img src="https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white" /> | `https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white`
 <img src="https://img.shields.io/badge/foodpanda-D70F64?style=for-the-badge&logo=foodpanda&logoColor=white" /> | `https://img.shields.io/badge/foodpanda-E23744?style=for-the-badge&logo=zomato&logoColor=white`
 
+## 🔁 Dynamic [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
+<img width='200' src="https://github-readme-stats.vercel.app/api?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api?username={username}`
+<img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}`
 
 ## ✏ Contribute [🔝](#welcome-badges-4-readmemd-profile)
 
