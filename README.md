@@ -95,13 +95,15 @@ Badge | URL
 <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white" /> | `https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white`
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> | `https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white`
 <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" /> | `https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue`
-<img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />| `https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white`
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />| `https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white`
-<img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" />| `https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white`
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />| `https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black`
-<img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />| `https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white`
-<img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" />| `https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white`
-<img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" />| `https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white`
+<img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /> | `https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white`
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /> | `https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white`
+<img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" /> | `https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white`
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> | `https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black`
+<img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /> | `https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white`
+<img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" /> | `https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white`
+<img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" /> | `https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white`
+<img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" /> | `https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white` 
+
 
 ## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -473,6 +475,14 @@ Badge | URL
 <img src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white" /> | `https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white`
 <img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" /> | `https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white`
 <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> | `https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white`
+<img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" /> | `https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE`
+<img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> | `https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white`
+<img src="https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white" /> | `https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white`
+<img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" /> | `https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white`
+<img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" /> | `https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F`
+<img src="https://img.shields.io/badge/Future%20Learn-000000?style=for-the-badge&logo=futurelearn&logoColor=E324B2" /> | `https://img.shields.io/badge/Future%20Learn-000000?style=for-the-badge&logo=futurelearn&logoColor=E324B2`
+<img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" /> | `https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347`
+
 
 ## 📝 Blog [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -484,6 +494,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> | `https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white`
 <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /> | `https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white`
 <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" /> | `https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white`
+<img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" /> | `https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white`
+<img src="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow" /> | `https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow`
 
 ## 🎞 Streaming [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -510,6 +522,11 @@ Badge | URL
 <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" /> | `https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white`
 <img src="https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white" /> | `https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white`
 <img src="https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white" /> | `https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white`
+<img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" /> | `https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white`
+<img src="https://img.shields.io/badge/Bitcoin%20cash-8DC351?style=for-the-badge&logo=bitcoincash&logoColor=white" /> | `https://img.shields.io/badge/Bitcoin%20cash-8DC351?style=for-the-badge&logo=bitcoincash&logoColor=white`
+<img src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white" /> | `https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white`
+<img src="https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0" /> | `https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0`
+<img src="https://img.shields.io/badge/Bitcoin%20sv-fff?style=for-the-badge&logo=bitcoinsv&logoColor=EAB300" /> | `https://img.shields.io/badge/Bitcoin%20sv-fff?style=for-the-badge&logo=bitcoinsv&logoColor=EAB300`
 
 ## ❤ Funding [🔝](#welcome-badges-4-readmemd-profile)
 
