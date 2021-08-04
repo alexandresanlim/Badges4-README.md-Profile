@@ -285,6 +285,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" /> | `https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white`
 <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white" /> | `https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white`
 <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" /> | `https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white`
+<img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white" /> | `https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white`
+<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" /> | `https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white`
 
 ## ⏱️ Workflow Platforms [🔝](#welcome-badges-4-readmemd-profile)
 
