@@ -35,6 +35,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
   - [❤ Funding](#-funding-)
   - [🎶 Sound](#-sound-)
   - [🍔🍕 Food](#-food-)
+  - [🧐 Linters](#-linters-)
   - [🔁 Dynamic](#-dynamic-)
   - [✏ Contribute](#-contribute-)
   - [More](#more-)
@@ -586,6 +587,12 @@ Badge | URL
 <img src="https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white" /> | `https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white`
 <img src="https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white" /> | `https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white`
 <img src="https://img.shields.io/badge/foodpanda-D70F64?style=for-the-badge&logo=foodpanda&logoColor=white" /> | `https://img.shields.io/badge/foodpanda-E23744?style=for-the-badge&logo=zomato&logoColor=white`
+
+## 🧐 Linters [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> | `https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white`
 
 ## 🔁 Dynamic [🔝](#welcome-badges-4-readmemd-profile)
 
