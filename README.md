@@ -36,6 +36,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
   - [🎶 Sound](#-sound-)
   - [🍔🍕 Food](#-food-)
   - [🧐 Linters](#-linters-)
+  - [💻 Terminal](#-terminal-)
   - [🔁 Dynamic](#-dynamic-)
   - [✏ Contribute](#-contribute-)
   - [More](#more-)
@@ -593,6 +594,12 @@ Badge | URL
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> | `https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white`
+
+## 💻 Terminal [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" /> | `https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white`
 
 ## 🔁 Dynamic [🔝](#welcome-badges-4-readmemd-profile)
 
