@@ -600,6 +600,7 @@ Badge | URL
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" /> | `https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white`
+<img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" /> | `https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white`
 
 ## 🔁 Dynamic [🔝](#welcome-badges-4-readmemd-profile)
 
