@@ -561,12 +561,10 @@ Badge | URL
 <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" /> | `https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white`
 <img src="https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white" /> | `https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white`
 <img src="https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white" /> | `https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white`
-<img src="https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white" /> | `https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white`
 <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" /> | `https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white`
-<img src="https://img.shields.io/badge/Bitcoin%20cash-8DC351?style=for-the-badge&logo=bitcoincash&logoColor=white" /> | `https://img.shields.io/badge/Bitcoin%20cash-8DC351?style=for-the-badge&logo=bitcoincash&logoColor=white`
 <img src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white" /> | `https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white`
 <img src="https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0" /> | `https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0`
-<img src="https://img.shields.io/badge/Bitcoin%20sv-fff?style=for-the-badge&logo=bitcoinsv&logoColor=EAB300" /> | `https://img.shields.io/badge/Bitcoin%20sv-fff?style=for-the-badge&logo=bitcoinsv&logoColor=EAB300`
+
 
 ## ❤ Funding [🔝](#welcome-badges-4-readmemd-profile)
 
