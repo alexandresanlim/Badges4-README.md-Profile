@@ -157,6 +157,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black" /> | `https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black`
 <img src="https://img.shields.io/badge/Rust-FFF?style=for-the-badge&logo=rust&logoColor=black" /> | `https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324`
 <img src="https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white" /> | `https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white`
+<img src="https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white" /> | `https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white`
 
 ## ⚡ Database [🔝](#welcome-badges-4-readmemd-profile)
 
