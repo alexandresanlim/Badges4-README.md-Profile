@@ -37,8 +37,8 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
   - [🍔🍕 Food](#-food-)
   - [🧐 Linters](#-linters-)
   - [💻 Terminal](#-terminal-)
-  - [🔁 Dynamic](#-dynamic-)
   - [🤖 Artificial Intelligence](#-artificial-intelligence-)
+  - [🔁 Dynamic](#-dynamic-)
   - [✏ Contribute](#-contribute-)
   - [More](#more-)
 
