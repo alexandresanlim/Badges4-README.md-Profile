@@ -158,6 +158,9 @@ Badge | URL
 <img src="https://img.shields.io/badge/Rust-FFF?style=for-the-badge&logo=rust&logoColor=black" /> | `https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324`
 <img src="https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white" /> | `https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white`
 <img src="https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white" /> | `https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white`
+<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" /> | `https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white`
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white" /> | `https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white`
+
 
 ## ⚡ Database [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -314,6 +317,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/> | `https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white`
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /> | `https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white`
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> | `https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white`
+<img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white" /> | `https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white`
+
 
 ## ☁ Cloud [🔝](#welcome-badges-4-readmemd-profile)
 
