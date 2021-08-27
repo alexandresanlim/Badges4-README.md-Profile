@@ -393,6 +393,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white" /> | `https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white`
 <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" /> | `https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white`
 <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" /> | `https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white`
+<img src="https://img.shields.io/badge/Artix-Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white" /> | `https://img.shields.io/badge/Artix-Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white`
 <img src="https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white" /> | `https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white`
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> | `https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white`
 <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" /> | `https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white`
