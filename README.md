@@ -112,6 +112,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" /> | `https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white`
 <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" /> | `https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white`
 <img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" /> | `https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white`
+<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/> `https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white`
 
 
 ## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
@@ -650,7 +651,7 @@ Badge | URL
 
 1 - You don't need to make a fork just edit 
 
-2 - Get a icon and ex color from [Simple Icon](https://simpleicons.org/), if you don't find the desired logo, request it [here](https://github.com/simple-icons/simple-icons/issues/new?assignees=&labels=new+icon&template=icon_request.md)
+2 - Get an icon and hex color from [Simple Icon](https://simpleicons.org/), if you don't find the desired logo, request it [here](https://github.com/simple-icons/simple-icons/issues/new?assignees=&labels=new+icon&template=icon_request.md)
 
 3 - Build the URL: 
 ```
