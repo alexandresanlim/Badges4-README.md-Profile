@@ -636,6 +636,7 @@ Badge | URL
 
 Badge | URL
 ------------ | -------------
+<img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> | `https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white`
 <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" /> | `https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white`
 <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" /> | `https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white`
 <img src="https://img.shields.io/badge/fish-4AAE46?style=for-the-badge&logo=fish&logoColor=white" /> | `https://img.shields.io/badge/fish-4AAE46?style=for-the-badge&logo=fish&logoColor=white`
