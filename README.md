@@ -474,8 +474,8 @@ Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> | `https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white`
 <img src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> | `https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white`
-<img src="https://img.shields.io/badge/Intel-Core_i9--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> | `https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`
-<img src="https://img.shields.io/badge/Intel-Core_i7--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> | `https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`
+<img src="https://img.shields.io/badge/Intel-Core_i9--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> | `https://img.shields.io/badge/Intel-Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`
+<img src="https://img.shields.io/badge/Intel-Core_i7--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> | `https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`
 <img src="https://img.shields.io/badge/Intel-Core_i5--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> | `https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`
 <img src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> | `https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white`
 <img src="https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> | `https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white`
