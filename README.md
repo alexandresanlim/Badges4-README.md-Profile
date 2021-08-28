@@ -294,8 +294,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white"/> | `https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white`
 <img src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white"/> | `https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white`
 <img src="https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white" /> | `https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white`
-<img src="https://img.shields.io/badge/Deno.JS-464647?style=for-the-badge&logo=deno&logoColor=white" /> | `https://img.shields.io/badge/Deno.JS-464647?style=for-the-badge&logo=deno&logoColor=white`
-<img src="https://img.shields.io/badge/Deno.JS-white?style=for-the-badge&logo=deno&logoColor=464647" /> | `https://img.shields.io/badge/Deno.JS-white?style=for-the-badge&logo=deno&logoColor=464647`
+<img src="https://img.shields.io/badge/Deno-464647?style=for-the-badge&logo=deno&logoColor=white" /> | `https://img.shields.io/badge/Deno-464647?style=for-the-badge&logo=deno&logoColor=white`
+<img src="https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=464647" /> | `https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=464647`
 <img src="https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white" /> | `https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white`
 <img src="https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" /> | `https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black`
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" /> | `https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white`
@@ -667,6 +667,7 @@ Badge | URL
 ------------ | -------------
 <img width='200' src="https://github-readme-stats.vercel.app/api?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api?username={username}`
 <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}`
+<img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim" /> | `https://github-readme-streak-stats.herokuapp.com/?user={username}`
 
 ## ✏ Contribute [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -697,9 +698,6 @@ It's only possible because of [Shields Project](https://github.com/badges/shield
 | [<img alt="noah-vdv" src="https://github.com/noah-vdv.png?size=115" width="115"><br><sub>@noah-vdv</sub>](https://github.com/noah-vdv) | [<img alt="RicardoRien" src="https://github.com/RicardoRien.png?size=115" width="115"><br><sub>@RicardoRien</sub>](https://github.com/RicardoRien) | [<img alt="Schleidens" src="https://github.com/Schleidens.png?size=115" width="115"><br><sub>@Schleidens</sub>](https://github.com/Schleidens) | [<img alt="RavinduSachintha" src="https://github.com/RavinduSachintha.png?size=115" width="115"><br><sub>@RavinduSachintha</sub>](https://github.com/RavinduSachintha) | [<img alt="mq1" src="https://github.com/mq1.png?size=115" width="115"><br><sub>@mq1</sub>](https://github.com/mq1) | [<img alt="hugorplobo" src="https://github.com/hugorplobo.png?size=115" width="115"><br><sub>@hugorplobo</sub>](https://github.com/hugorplobo) |
 | [<img alt="yuriBazza" src="https://github.com/yuriBaza23.png?size=115" width="115"><br><sub>@yuriBaza23</sub>](https://github.com/yuriBaza23) | [<img alt="RubenFilipe07" src="https://github.com/rubenfilipe07.png?size=115" width="115"><br><sub>@rubenfilipe07</sub>](https://github.com/rubenfilipe07) |[<img alt="venkatesh" src="https://github.com/venkateshpensalwar.png?size=115" width="115"><br><sub>@venkateshpensalwar</sub>](https://github.com/venkateshpensalwar) | [<img alt="RazorShard" src="https://github.com/RazorShard.png?size=115" width="115"><br><sub>@RazorShard</sub>](https://github.com/RazorShard) | [<img alt="AlexandraAlcantara" src="https://github.com/alexa2me.png?size=115" width="115"><br><sub>@alexa2me</sub>](https://github.com/alexa2me) | [<img alt="AnupShastri" src="https://github.com/anupshastri96.png?size=115" width="115"><br><sub>@anupshastri96</sub>](https://github.com/anupshastri96)
 [<img alt="developer-metalhead" src="https://github.com/developer-metalhead.png?size=115" width="115"><br><sub>@developer-metalhead</sub>](https://github.com/developer-metalhead) | [<img alt="jo0t4" src="https://github.com/jo0t4.png?size=115" width="115"><br><sub>@jo0t4</sub>](https://github.com/jo0t4) | [<img alt="joshxfi" src="https://github.com/joshxfi.png?size=115" width="115"><br><sub>@joshxfi</sub>](https://github.com/joshxfi) | [<img alt="hyamero" src="https://github.com/hyamero.png?size=115" width="115"><br><sub>@hyamero</sub>](https://github.com/hyamero)
-
-
-
 
 Author:
 | [<img src="https://github.com/alexandresanlim.png?size=115" width=115><br><sub>@alexandresanlim</sub>](https://github.com/alexandresanlim) |
