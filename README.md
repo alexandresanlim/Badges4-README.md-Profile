@@ -474,12 +474,22 @@ Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> | `https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white`
 <img src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> | `https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white`
+<img src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> | `https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white`
 <img src="https://img.shields.io/badge/Intel-Core_i9--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> | `https://img.shields.io/badge/Intel-Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`
 <img src="https://img.shields.io/badge/Intel-Core_i7--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> | `https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`
 <img src="https://img.shields.io/badge/Intel-Core_i5--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> | `https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`
-<img src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> | `https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white`
-<img src="https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> | `https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white`
+<img src="https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white" /> | `https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white`
+<img src="https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" /> | `https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white`
+<img src="https://img.shields.io/badge/acer-laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white" /> | `https://img.shields.io/badge/acer-laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white`
+<img src="https://img.shields.io/badge/razer-laptop-00FF00?style=for-the-badge&logo=razer&logoColor=white" /> | `https://img.shields.io/badge/razer-laptop-00FF00?style=for-the-badge&logo=razer&logoColor=white`
+<img src="https://img.shields.io/badge/lenovo-laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" /> | `https://img.shields.io/badge/lenovo-laptop-E2231A?style=for-the-badge&logo=acer&logoColor=white`
+<img src="https://img.shields.io/badge/asus-laptop-000000?style=for-the-badge&logo=asus&logoColor=white" /> | `https://img.shields.io/badge/asus-laptop-000000?style=for-the-badge&logo=asus&logoColor=white`
+<img src="https://img.shields.io/badge/hp-laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white" /> | `https://img.shields.io/badge/hp-laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white`
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white" /> | `https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white`
+<img src="https://img.shields.io/badge/dell-XPS%2015-007DB8?style=for-the-badge&logo=dell&logoColor=white" /> | `https://img.shields.io/badge/dell-XPS%2015-007DB8?style=for-the-badge&logo=dell&logoColor=white`
+<img src="https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> | `https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white`
+<img src="https://img.shields.io/badge/acer-Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white" /> | `https://img.shields.io/badge/acer-Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white`
+
 
 ## 🖍📐 Design [🔝](#welcome-badges-4-readmemd-profile)
 
