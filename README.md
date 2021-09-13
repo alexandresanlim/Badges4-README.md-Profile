@@ -316,6 +316,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" /> | `https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white` 
 <img src= "https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"> | `https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white` 
 <img src= "https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white"> | `https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white`
+<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" /> | `https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white`
 
 ## ⏱️ Workflow Platforms [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -401,6 +402,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" /> | `https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white`
 <img src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white" /> | `https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white`
 <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white" /> | `https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white`
+<img src="https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white" /> | `https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white`
+<img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" /> | `https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white`
 
 ## 👩‍💻 IDE [🔝](#welcome-badges-4-readmemd-profile)
 Badge | URL
@@ -554,6 +557,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" /> | `https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F`
 <img src="https://img.shields.io/badge/Future%20Learn-000000?style=for-the-badge&logo=futurelearn&logoColor=E324B2" /> | `https://img.shields.io/badge/Future%20Learn-000000?style=for-the-badge&logo=futurelearn&logoColor=E324B2`
 <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" /> | `https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347`
+<img src="https://img.shields.io/badge/Progate-380953?style=for-the-badge&logo=progate&logoColor=white" /> | `https://img.shields.io/badge/Progate-380953?style=for-the-badge&logo=progate&logoColor=white`
 
 
 ## 📝 Blog [🔝](#welcome-badges-4-readmemd-profile)
