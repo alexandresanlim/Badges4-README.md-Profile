@@ -401,6 +401,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" /> | `https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white`
 <img src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white" /> | `https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white`
 <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white" /> | `https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white`
+<img src="https://img.shields.io/badge/Elementary-64BAFF?style=for-the-badge&logo=elementary&logoColor=white" /> | `https://img.shields.io/badge/Elementary-64BAFF?style=for-the-badge&logo=elementary&logoColor=white`
 
 ## 👩‍💻 IDE [🔝](#welcome-badges-4-readmemd-profile)
 Badge | URL
@@ -554,7 +555,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" /> | `https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F`
 <img src="https://img.shields.io/badge/Future%20Learn-000000?style=for-the-badge&logo=futurelearn&logoColor=E324B2" /> | `https://img.shields.io/badge/Future%20Learn-000000?style=for-the-badge&logo=futurelearn&logoColor=E324B2`
 <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" /> | `https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347`
-<img src="https://img.shields.io/badge/Progate-380953?style=for-the-badge&logo=progate&logoColor=white"> | `https://img.shields.io/badge/Progate-380953?style=for-the-badge&logo=progate&logoColor=white`
+<img src="https://img.shields.io/badge/Progate-380953?style=for-the-badge&logo=progate&logoColor=white" /> | `https://img.shields.io/badge/Progate-380953?style=for-the-badge&logo=progate&logoColor=white`
 
 
 ## 📝 Blog [🔝](#welcome-badges-4-readmemd-profile)
