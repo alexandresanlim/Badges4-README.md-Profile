@@ -402,7 +402,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" /> | `https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white`
 <img src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white" /> | `https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white`
 <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white" /> | `https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white`
-<img src="https://img.shields.io/badge/Elementary-64BAFF?style=for-the-badge&logo=elementary&logoColor=white" /> | `https://img.shields.io/badge/Elementary-64BAFF?style=for-the-badge&logo=elementary&logoColor=white`
+<img src="https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white" /> | `https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white`
+<img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" /> | `https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white`
 
 ## 👩‍💻 IDE [🔝](#welcome-badges-4-readmemd-profile)
 Badge | URL
