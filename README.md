@@ -337,6 +337,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" /> | `https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white`
 <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white" /> | `https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white`
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" /> | `https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white`
+<img src="https://img.shields.io/badge/Hasura-000000?style=for-the-badge&logo=hasura&logoColor=ffffff" /> | `https://img.shields.io/badge/Hasura-000000?style=for-the-badge&logo=hasura&logoColor=ffffff`
 
 
 
