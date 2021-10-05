@@ -753,7 +753,7 @@ Badge | URL
 ------------ | -------------
 <img width='200' src="https://github-readme-stats.vercel.app/api?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api?username={username}`
 <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}`
-<img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim" /> | `https://github-readme-streak-stats.herokuapp.com/?user={username}`
+<img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim" /> | ```https://github-readme-streak-stats.herokuapp.com/?user={username}```
 
 
 
