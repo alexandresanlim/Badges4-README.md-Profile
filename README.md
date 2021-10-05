@@ -761,9 +761,11 @@ Badge | URL
 2 - Get an icon and hex color from [Simple Icon](https://simpleicons.org/), if you don't find the desired logo, request it [here](https://github.com/simple-icons/simple-icons/issues/new?assignees=&labels=new+icon&template=icon_request.md)
 
 3 - Build the URL: 
+
 ```
 https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white
 ```
+
 - {TEXT} = Paste your badge text
 - {HEX-COLOR} = Paste your hex color whithout "#" from Simple Icon
 - {LOGO-NAME} = Logo name from Simple Icon
