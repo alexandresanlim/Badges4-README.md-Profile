@@ -39,6 +39,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
   - [💻 Terminal](#-terminal-)
   - [🤖 Artificial Intelligence](#-artificial-intelligence-)
   - [🔁 Dynamic](#-dynamic-)
+  - [💻🗺 Spatial software](#-spatial-software-)
   - [✏ Contribute](#-contribute-)
   - [More](#more-)
 
@@ -756,6 +757,15 @@ Badge | URL
 <img width='200' src="https://github-readme-stats.vercel.app/api?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api?username={username}`
 <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}`
 <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim" /> | ```https://github-readme-streak-stats.herokuapp.com/?user={username}```
+
+
+
+
+## 💻🗺 Spatial software [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white"> | `https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white`
 
 
 
