@@ -39,6 +39,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
   - [💻 Terminal](#-terminal-)
   - [🤖 Artificial Intelligence](#-artificial-intelligence-)
   - [🔁 Dynamic](#-dynamic-)
+  - [💻🗺 Spatial software](#-spatial-software-)
   - [✏ Contribute](#-contribute-)
   - [More](#more-)
 
@@ -97,7 +98,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /> | `https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white`
 <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" /> | `https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white`
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /> | `https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white`
-<img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" /> | `https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white`
+<img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" /> | `https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white`
 <img src="https://img.shields.io/badge/XDA-Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white" /> | `https://img.shields.io/badge/XDA-Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white`
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /> | `https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white`
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> | `https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white`
@@ -197,8 +198,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" /> | `https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white`
 <img src="https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white" /> | `https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white`
 <img src="https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=ArangoDB&logoColor=white" /> | `https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=ArangoDB&logoColor=white`
-<img src="https://img.shields.io/badge/InfluxDB-14072d?style=for-the-badge&logo=InfluxDB&logoColor=white" /> | `https://img.shields.io/badge/InfluxDB-14072d?style=for-the-badge&logo=InfluxDB&logoColor=white`
-<img src="https://img.shields.io/badge/InfluxDB-f7f7f7?style=for-the-badge&logo=InfluxDB&logoColor=22ADF6" /> | `https://img.shields.io/badge/InfluxDB-f7f7f7?style=for-the-badge&logo=InfluxDB&logoColor=22ADF6`
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" /> | `https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white`
 
 
 
@@ -756,6 +756,15 @@ Badge | URL
 <img width='200' src="https://github-readme-stats.vercel.app/api?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api?username={username}`
 <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}`
 <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim" /> | ```https://github-readme-streak-stats.herokuapp.com/?user={username}```
+
+
+
+
+## 💻🗺 Spatial software [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white"> | `https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white`
 
 
 
