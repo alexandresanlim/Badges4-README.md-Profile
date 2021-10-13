@@ -174,8 +174,6 @@ Badge | URL
 <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" /> | `https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white`
 <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white" /> | `https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white`
 
-
-
 ## ⚡ Database [🔝](#welcome-badges-4-readmemd-profile)
 
 Badge | URL
@@ -199,6 +197,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" /> | `https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white`
 <img src="https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white" /> | `https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white`
 <img src="https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=ArangoDB&logoColor=white" /> | `https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=ArangoDB&logoColor=white`
+<img src="https://img.shields.io/badge/InfluxDB-14072d?style=for-the-badge&logo=InfluxDB&logoColor=white" /> | `https://img.shields.io/badge/InfluxDB-14072d?style=for-the-badge&logo=InfluxDB&logoColor=white`
+<img src="https://img.shields.io/badge/InfluxDB-f7f7f7?style=for-the-badge&logo=InfluxDB&logoColor=22ADF6" /> | `https://img.shields.io/badge/InfluxDB-f7f7f7?style=for-the-badge&logo=InfluxDB&logoColor=22ADF6`
 
 
 
