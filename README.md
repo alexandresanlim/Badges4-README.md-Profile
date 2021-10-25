@@ -17,6 +17,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
   - [📱 Mobile Frameworks](#-mobile-frameworks-)
   - [🚀 Frameworks](#-frameworks-)
   - [⏱️ Workflow Platforms](#%EF%B8%8F-workflow-platforms-)
+  - [🔒 Security Platforms](#-security-platforms-)
   - [☁ Cloud](#-cloud-)
   - [🌐 Web Browsers](#-web-browsers-)
   - [📊 Analytics](#-analytics-)
@@ -352,6 +353,13 @@ Badge | URL
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /> | `https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white`
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> | `https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white`
 <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white" /> | `https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white`
+
+
+## 🔒 Security Platforms [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/> | `https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white`
 
 
 
