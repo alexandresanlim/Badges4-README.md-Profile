@@ -1,4 +1,4 @@
-# Welcome! Badges 4 README.md Profile 
+# Welcome! Badges 4 README.md Profile
 
 Improve your README.md profile with these amazing badges. See a sample [here](https://github.com/alexandresanlim)
 
@@ -61,8 +61,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white`
 <img src ="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" /> | `https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white`
 <img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" /> | `https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white`
-<img src="https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000" /> | `https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000` 
-<img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" /> | `https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white` 
+<img src="https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000" /> | `https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000`
+<img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" /> | `https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white`
 <img src="https://img.shields.io/badge/Viber-685EA9?style=for-the-badge&logo=viber&logoColor=white" /> | `https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white`
 <img src="https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white" /> | `https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white`
 <img src="https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white" /> | `https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white`
@@ -330,8 +330,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" /> | `https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white`
 <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" /> | `https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white`
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" /> | `https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white`
-<img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" /> | `https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white` 
-<img src= "https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"> | `https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white` 
+<img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" /> | `https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white`
+<img src= "https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"> | `https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white`
 <img src= "https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white"> | `https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white`
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" /> | `https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white`
 <img src="https://img.shields.io/badge/Cookiecutter-D4AA00?style=for-the-badge&logo=Cookiecutter&logoColor=white" /> | `https://img.shields.io/badge/Cookiecutter-D4AA00?style=for-the-badge&logo=Cookiecutter&logoColor=white`
@@ -344,6 +344,9 @@ Badge | URL
 <img src="https://img.shields.io/badge/Hasura-000000?style=for-the-badge&logo=hasura&logoColor=ffffff" /> | `https://img.shields.io/badge/Hasura-000000?style=for-the-badge&logo=hasura&logoColor=ffffff`
 <img src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white" /> | `https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white`
 <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black" /> | `https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black`
+<img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" /> | `https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white`
+<img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" /> | `https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white`
+<img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" /> | `https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white`
 
 
 
@@ -780,11 +783,11 @@ Badge | URL
 
 ## ✏ Contribute [🔝](#welcome-badges-4-readmemd-profile)
 
-1 - You don't need to make a fork just edit 
+1 - You don't need to make a fork just edit
 
 2 - Get an icon and hex color from [Simple Icon](https://simpleicons.org/), if you don't find the desired logo, request it [here](https://github.com/simple-icons/simple-icons/issues/new?assignees=&labels=new+icon&template=icon_request.md)
 
-3 - Build the URL: 
+3 - Build the URL:
 
 ```
 https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white
