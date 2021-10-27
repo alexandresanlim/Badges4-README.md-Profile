@@ -175,6 +175,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white" /> | `https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white`
 <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" /> | `https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white`
 <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white" /> | `https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white`
+<img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> | `https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black`
 
 ## ⚡ Database [🔝](#welcome-badges-4-readmemd-profile)
 
