@@ -710,6 +710,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" /> | `https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white`
 <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /> | `https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white`
 <img src="https://img.shields.io/badge/Shazam-0088FF?style=for-the-badge&logo=Shazam&logoColor=white" /> | `https://img.shields.io/badge/Shazam-0088FF?style=for-the-badge&logo=Shazam&logoColor=white`
+<img src="https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=white" /> | `https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=white`
 <img src="https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=Apple-Music&logoColor=white" /> | `https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=Apple-Music&logoColor=white`
 
 
