@@ -725,6 +725,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white" /> | `https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white`
 <img src="https://img.shields.io/badge/foodpanda-D70F64?style=for-the-badge&logo=foodpanda&logoColor=white" /> | `https://img.shields.io/badge/foodpanda-E23744?style=for-the-badge&logo=zomato&logoColor=white`
 <img src="https://img.shields.io/badge/Grab-00B14F?style=for-the-badge&logo=grab&logoColor=white" /> | `https://img.shields.io/badge/Grab-00B14F?style=for-the-badge&logo=grab&logoColor=white`
+<img src="https://img.shields.io/badge/Deliveroo-00CCBC?style=for-the-badge&logo=Deliveroo&logoColor=white" /> | `https://img.shields.io/badge/Deliveroo-00CCBC?style=for-the-badge&logo=Deliveroo&logoColor=white`
 <img src="https://img.shields.io/badge/Postmates-000000?style=for-the-badge&logo=Postmates&logoColor=white" /> | `https://img.shields.io/badge/Postmates-000000?style=for-the-badge&logo=Postmates&logoColor=white`
 <img src="https://img.shields.io/badge/DoorDash-FF3008?style=for-the-badge&logo=DoorDash&logoColor=white" /> | `https://img.shields.io/badge/DoorDash-FF3008?style=for-the-badge&logo=DoorDash&logoColor=white`
 <img src="https://img.shields.io/badge/Grubhub-F63440?style=for-the-badge&logo=Grubhub&logoColor=white" /> | `https://img.shields.io/badge/Grubhub-F63440?style=for-the-badge&logo=Grubhub&logoColor=white`
