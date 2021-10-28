@@ -645,6 +645,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" /> | `https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white`
 <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" /> | `https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white`
 <img src="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow" /> | `https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow`
+<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> | `https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white`
 
 
 
@@ -725,6 +726,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/foodpanda-D70F64?style=for-the-badge&logo=foodpanda&logoColor=white" /> | `https://img.shields.io/badge/foodpanda-E23744?style=for-the-badge&logo=zomato&logoColor=white`
 <img src="https://img.shields.io/badge/Grab-00B14F?style=for-the-badge&logo=grab&logoColor=white" /> | `https://img.shields.io/badge/Grab-00B14F?style=for-the-badge&logo=grab&logoColor=white`
 <img src="https://img.shields.io/badge/Postmates-000000?style=for-the-badge&logo=Postmates&logoColor=white" /> | `https://img.shields.io/badge/Postmates-000000?style=for-the-badge&logo=Postmates&logoColor=white`
+<img src="https://img.shields.io/badge/DoorDash-FF3008?style=for-the-badge&logo=DoorDash&logoColor=white" /> | `https://img.shields.io/badge/DoorDash-FF3008?style=for-the-badge&logo=DoorDash&logoColor=white`
+<img src="https://img.shields.io/badge/Grubhub-F63440?style=for-the-badge&logo=Grubhub&logoColor=white" /> | `https://img.shields.io/badge/Grubhub-F63440?style=for-the-badge&logo=Grubhub&logoColor=white`
 
 
 ## 🧐 Linters [🔝](#welcome-badges-4-readmemd-profile)
@@ -778,8 +781,8 @@ Badge | URL
 
 Badge | URL
 ------------ | -------------
+<img src="https://img.shields.io/badge/qgis-3.22_Bia%C5%82owie%C5%BCa-93b023?&style=for-the-badge&logo=qgis&logoColor=white"> | `https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white`
 <img src="https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white"> | `https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white`
-
 
 
 ## ✏ Contribute [🔝](#welcome-badges-4-readmemd-profile)
