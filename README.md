@@ -645,6 +645,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" /> | `https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white`
 <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" /> | `https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white`
 <img src="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow" /> | `https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow`
+<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> | `https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white`
 
 
 
