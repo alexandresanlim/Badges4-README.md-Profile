@@ -13,6 +13,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
   - [👨👩 Social](#-social-)
   - [👩‍💻 Languages](#-languages-)
   - [⚡ Database](#-database-)
+  - [⚙️ ORM ](#orm)
   - [👩‍💻 Software Metrics and Analytics](#-software-metrics-and-analytics-)
   - [📱 Mobile Frameworks](#-mobile-frameworks-)
   - [🚀 Frameworks](#-frameworks-)
@@ -196,6 +197,14 @@ Badge | URL
 <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" /> | `https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white`
 <img src="https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white" /> | `https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white`
 <img src="https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=ArangoDB&logoColor=white" /> | `https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=ArangoDB&logoColor=white`
+
+
+
+## ⚙️ ORM [🔝](#welcome-badges-4-readmemd-profile)
+Badge | URL
+------------ | -------------
+
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" /> | `https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white`
 
 
 
