@@ -204,7 +204,6 @@ Badge | URL
 
 Badge | URL
 ------------ | -------------
-
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />          | `https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white`
 
 
