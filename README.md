@@ -701,6 +701,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" /> | `https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white`
 <img src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white" /> | `https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white`
 <img src="https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0" /> | `https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0`
+<img src="https://img.shields.io/badge/Doge%20Coin-D3AF4F?style=for-the-badge&logo=dogecoin&logoColor=white" /> | `https://img.shields.io/badge/Doge%20Coin-D3AF4F?style=for-the-badge&logo=dogecoin&logoColor=white`
 
 
 
