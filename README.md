@@ -44,10 +44,8 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
   - [🔁 Dynamic](#-dynamic-)
   - [💻🗺 Spatial software](#-spatial-software-)
   - [✏ Contribute](#-contribute-)
-  - [More](#more-)
-
-
-
+  - [Creators](#more-)
+  - [See moore repos](#see-more-repos)
 
 
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
