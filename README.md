@@ -45,7 +45,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
   - [💻🗺 Spatial software](#-spatial-software-)
   - [✏ Contribute](#-contribute-)
   - [Creators](#more-)
-  - [See mooe repos](#see-more-repos)
+  - [See more repos](#see-more-repos)
 
 
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
