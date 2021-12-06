@@ -7,13 +7,11 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 2. Create a img tag ``` <img src="{BadgeURLHere}" /> ``` or ``` ![image]({BadgeURLHere}) ```
 3. Copy and paste on your profile
 
-## Credits (#welcome-badges-4-readmemd-profile)
-
-It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) and 
-Contributors:
-Author:
-| [<img src="https://avatars.githubusercontent.com/u/86484193?v=4" width=115><br><sub>@soham-tiwari</sub>](https://github.com/soham-tiwari) |
+## Author:
+| <img src="https://avatars.githubusercontent.com/u/86484193?v=4" width=115><br><sub>@soham-tiwari</sub> |
 | :---: |
+| <img alt="AdityaPrakash-26" src="https://github.com/AdityaPrakash-26.png?size=115" width="115"><br><sub>@AdityaPrakash-26</sub> |
+| <img alt="" src="https://i.pinimg.com/564x/3f/dc/7a/3fdc7a962c62dbdac20657be63104be2.jpg" width="115"><br><sub>@Agnes_at</sub>|
 ## Menu
   - [📱 Contact](#-contact-)
   - [🤜🤛 Group](#-group-)
