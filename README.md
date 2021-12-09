@@ -74,3 +74,18 @@ Badge | URL
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> | `https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white`
 <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" /> | `https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white`
 
+
+## 📝 Blog [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> | `https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white`
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /> | `https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white`
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /> | `https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white`
+<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> | `https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white`
+<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /> | `https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white`
+<img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" /> | `https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white`
+<img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" /> | `https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white`
+<img src="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow" /> | `https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow`
+<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> | `https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white`
+
