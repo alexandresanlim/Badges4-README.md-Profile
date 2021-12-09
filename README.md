@@ -409,3 +409,34 @@ Badge | URL
 <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/> | `https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white`
 <img src="https://img.shields.io/badge/OpenCollective-1F87FF?style=for-the-badge&logo=OpenCollective&logoColor=white"> | `https://img.shields.io/badge/OpenCollective-1F87FF?style=for-the-badge&logo=OpenCollective&logoColor=white`
 
+
+## 🎮 Games [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" /> | `https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white`
+<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" /> | `https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white`
+<img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" /> | `https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white`
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /> | `https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white`
+<img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" /> | `https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white`
+<img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" /> | `https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white`
+<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /> | `https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white`
+<img src="https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white" /> | `https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white`
+<img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" /> | `https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white`
+<img src="https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=battlenet&logoColor=white" /> | `https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white`
+<img src="https://img.shields.io/badge/Origin-F56C2D?style=for-the-badge&logo=origin&logoColor=white" /> | `https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white`
+<img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" /> | `https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white`
+
+
+## 🤜 Group [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> | `https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white`
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> | `https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white`
+<img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" /> | `https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white`
+<img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white`
+<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /> | `https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white`
+<img src="https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white" /> | `https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white`
+<img src="https://img.shields.io/badge/TeamSpeack-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white" /> | `https://img.shields.io/badge/TeamSpeack-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white`
+
