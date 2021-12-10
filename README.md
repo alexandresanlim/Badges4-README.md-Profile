@@ -50,9 +50,9 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
     - Dynamic
         - [🔁 Dynamic](#-dynamic-)
 
-- [How To Contribute](#-contribute-)
+- [How To Contribute](#-how-to-contribute-)
 - [Creators](#more-)
-- [See More Repository](#see-more-repos)
+- [See More Repository](#see-more-repository)
 
 
 
