@@ -162,6 +162,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white" /> | `https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white`
 <img src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" /> | `https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white`
 <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" /> | `https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white`
+<img src="https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=000" /> | `https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=000`
 
 
 ## ⚡ Database [🔝](#welcome-badges-4-readmemd-profile)
