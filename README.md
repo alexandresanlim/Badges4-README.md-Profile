@@ -52,7 +52,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 - [How To Contribute](#-how-to-contribute-)
 - [Creators](#more-)
-- [See More Repository](#see-more-repository)
+- [See More Repositories](#see-more-repositories)
 
 
 
@@ -847,7 +847,7 @@ Author:
 | :---: |
 
 
-## See More Repository
+## See More Repositories
 
 Project | Short description
 ------------ | -------------
