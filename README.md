@@ -95,7 +95,7 @@ Badge | URL
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white`
-<img src="https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000" /> | `https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000`
+<img src="https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425" /> | `https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425`
 <img src="https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white" /> | `https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white`
 <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" /> | `https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white`
 <img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" /> | `https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white`
@@ -178,8 +178,6 @@ Badge | URL
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> | `https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white`
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> | `https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white`
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> | `https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white`
-<img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" /> | `https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B`
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> | `https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white`
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> | `https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white`
 <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" /> | `https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white`
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> | `https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white`
@@ -302,7 +300,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> | `https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white`
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> | `https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green`
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> | `https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white`
-<img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" /> | `https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray`
+<img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" /> | `https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white`
 <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" /> | `https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white`
 <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white"/> | `https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white`
 <img src="https://img.shields.io/badge/ember.js-E04E39?style=for-the-badge&logo=emberdotjs&logoColor=white" /> | `https://img.shields.io/badge/ember.js-E04E39?style=for-the-badge&logo=emberdotjs&logoColor=white`
@@ -436,7 +434,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white`
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> | `https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white`
 <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" /> | `https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white`
-<img src="https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white" /> | `https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white`
+<img src="https://img.shields.io/badge/TeamSpeack-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white" /> | `https://img.shields.io/badge/TeamSpeack-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white`
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /> | `https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white`
 
 
