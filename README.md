@@ -94,8 +94,8 @@ Badge | URL
 
 Badge | URL
 ------------ | -------------
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white`
 <img src="https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425" /> | `https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425`
-<img src="https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000" /> | `https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000`
 <img src="https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white" /> | `https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white`
 <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" /> | `https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white`
 <img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" /> | `https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white`
@@ -434,7 +434,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white`
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> | `https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white`
 <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" /> | `https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white`
-<img src="https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white" /> | `https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white`
+<img src="https://img.shields.io/badge/TeamSpeack-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white" /> | `https://img.shields.io/badge/TeamSpeack-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white`
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /> | `https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white`
 
 
