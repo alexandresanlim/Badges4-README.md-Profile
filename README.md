@@ -468,6 +468,12 @@ Badge | URL
 <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" /> | `https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white`
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" /> | `https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white`
 
+## 👩‍💻 IDE Plugins [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------- | ----------
+<img src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000" /> | `https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000`
+
 ## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
 
 Badge | URL
