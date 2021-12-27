@@ -29,6 +29,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
         - [🎮 Games](#-games-)
         - [🤜 Group](#-group-)
         - [👩‍💻 IDE](#-ide-)
+        - [🔌 IDE Plugin](#-ide-plugin-) 
         - [👩‍💻 Languages](#-languages-)
         - [🧐 Linters](#-linters-)
         - [📱 Mobile Frameworks](#-mobile-frameworks-)
@@ -468,7 +469,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" /> | `https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white`
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" /> | `https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white`
 
-## 👩‍💻 IDE Plugins [🔝](#welcome-badges-4-readmemd-profile)
+## 🔌 IDE Plugin [🔝](#welcome-badges-4-readmemd-profile)
 
 Badge | URL
 ------------- | ----------
