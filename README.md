@@ -321,7 +321,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" /> | `https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white`
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> | `https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white`
 <img src="https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black" /> | `https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black`
-<img src="https://img.shields.io/badge/Hasura-000000?style=for-the-badge&logo=hasura&logoColor=ffffff" /> | `https://img.shields.io/badge/Hasura-000000?style=for-the-badge&logo=hasura&logoColor=ffffff`
+<img src="https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white" /> | `https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white`
 <img src="https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white" /> | `https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white`
 <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/> | `https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white`
 <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white" /> | `https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white`
