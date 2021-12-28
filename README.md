@@ -444,7 +444,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white`
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> | `https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white`
 <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" /> | `https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white`
-<img src="https://img.shields.io/badge/TeamSpeack-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white" /> | `https://img.shields.io/badge/TeamSpeack-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white`
+<img src="https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white" /> | `https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white`
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /> | `https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white`
 
 
