@@ -300,7 +300,6 @@ Badge | URL
 <img src="https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=464647" /> | `https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=464647`
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> | `https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white`
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> | `https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green`
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> | `https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white`
 <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" /> | `https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white`
 <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" /> | `https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white`
 <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white"/> | `https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white`
@@ -660,7 +659,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" /> | `https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white`
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /> | `https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white`
 <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" /> | `https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white`
-<img src="https://img.shields.io/badge/XDA-Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white" /> | `https://img.shields.io/badge/XDA-Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white`
+<img src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white" /> | `https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white`
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /> | `https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white`
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> | `https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white`
 <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /> | `https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white`
@@ -794,25 +793,25 @@ Badge | URL
 
 Badge | URL
 ------------ | -------------
-<img src="https://img.shields.io/badge/acer-Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white" /> | `https://img.shields.io/badge/acer-Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white`
-<img src="https://img.shields.io/badge/acer-laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white" /> | `https://img.shields.io/badge/acer-laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white`
-<img src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> | `https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white`
-<img src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> | `https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white`
-<img src="https://img.shields.io/badge/Apple-Apple_Silicon-OOOOOO?style=for-the-badge&logo=apple&logoColor=white" /> | `https://img.shields.io/badge/Apple-Apple_Silicon-FFFFFF?style=for-the-badge&logo=apple&logoColor=white`
-<img src="https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white" /> | `https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white`
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white" /> | `https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white`
-<img src="https://img.shields.io/badge/asus-laptop-000000?style=for-the-badge&logo=asus&logoColor=white" /> | `https://img.shields.io/badge/asus-laptop-000000?style=for-the-badge&logo=asus&logoColor=white`
-<img src="https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" /> | `https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white`
-<img src="https://img.shields.io/badge/dell-XPS%2015-007DB8?style=for-the-badge&logo=dell&logoColor=white" /> | `https://img.shields.io/badge/dell-XPS%2015-007DB8?style=for-the-badge&logo=dell&logoColor=white`
-<img src="https://img.shields.io/badge/hp-laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white" /> | `https://img.shields.io/badge/hp-laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white`
+<img src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white" /> | `https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white`
+<img src="https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white" /> | `https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white`
+<img src="https://img.shields.io/badge/AMD%20Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> | `https://img.shields.io/badge/AMD%20Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white`
+<img src="https://img.shields.io/badge/AMD%20Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> | `https://img.shields.io/badge/AMD%20Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white`
+<img src="https://img.shields.io/badge/Apple-Apple_Silicon-OOOOOO?style=for-the-badge&logo=apple&logoColor=white" /> | `https://img.shields.io/badge/Apple%20Apple_Silicon-FFFFFF?style=for-the-badge&logo=apple&logoColor=white`
+<img src="https://img.shields.io/badge/Apple%20laptop-999999?style=for-the-badge&logo=apple&logoColor=white" /> | `https://img.shields.io/badge/Apple%20laptop-999999?style=for-the-badge&logo=apple&logoColor=white`
+<img src="https://img.shields.io/badge/Apple%20MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white" /> | `https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white`
+<img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" /> | `https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white`
+<img src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" /> | `https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white`
+<img src="https://img.shields.io/badge/dell%20XPS%2015-007DB8?style=for-the-badge&logo=dell&logoColor=white" /> | `https://img.shields.io/badge/dell-XPS%201%20-007DB8?style=for-the-badge&logo=dell&logoColor=white`
+<img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white" /> | `https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white`
 <img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" /> | `https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white`
-<img src="https://img.shields.io/badge/Intel-Core_i5--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> | `https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`
-<img src="https://img.shields.io/badge/Intel-Core_i7--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> | `https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`
-<img src="https://img.shields.io/badge/Intel-Core_i9--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> | `https://img.shields.io/badge/Intel-Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`
-<img src="https://img.shields.io/badge/lenovo-laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" /> | `https://img.shields.io/badge/lenovo-laptop-E2231A?style=for-the-badge&logo=acer&logoColor=white`
+<img src="https://img.shields.io/badge/Intel%20Core_i5--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> | `https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`
+<img src="https://img.shields.io/badge/Intel%20Core_i7--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> | `https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`
+<img src="https://img.shields.io/badge/Intel%20Core_i9--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> | `https://img.shields.io/badge/Intel%20Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`
+<img src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" /> | `https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=acer&logoColor=white`
 <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> | `https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white`
-<img src="https://img.shields.io/badge/razer-laptop-00FF00?style=for-the-badge&logo=razer&logoColor=white" /> | `https://img.shields.io/badge/razer-laptop-00FF00?style=for-the-badge&logo=razer&logoColor=white`
-<img src="https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> | `https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white`
+<img src="https://img.shields.io/badge/razer%20laptop-00FF00?style=for-the-badge&logo=razer&logoColor=white" /> | `https://img.shields.io/badge/razer%20laptop-00FF00?style=for-the-badge&logo=razer&logoColor=white`
+<img src="https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> | `https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white`
 
 
 
