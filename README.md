@@ -684,6 +684,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/> | `https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white`
 <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white"> | `https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white`
 <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/> | `https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white`
+
+
 <img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black"/> | `https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black`
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"/> | `https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white`
 
@@ -710,6 +712,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" /> | `https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white`
 <img src="https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white" /> | `https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white`
 <img src="https://img.shields.io/badge/iheart-A80025?style=for-the-badge&logo=iheartradio&logoColor=white" /> | `https://img.shields.io/badge/iheart-A80025?style=for-the-badge&logo=iheartradio&logoColor=white`
+<img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" /> | `https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white`
 <img src="https://img.shields.io/badge/Pandora-3668FF?style=for-the-badge&logo=pandora&logoColor=A15BB4" /> | `https://img.shields.io/badge/Pandora-3668FF?style=for-the-badge&logo=pandora&logoColor=A15BB4`
 <img src="https://img.shields.io/badge/Shazam-0088FF?style=for-the-badge&logo=Shazam&logoColor=white" /> | `https://img.shields.io/badge/Shazam-0088FF?style=for-the-badge&logo=Shazam&logoColor=white`
 <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /> | `https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white`
