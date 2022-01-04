@@ -650,6 +650,8 @@ Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black"/> | `https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black`
 <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" /> | `https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white`
+<img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" /> | `https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white`
+<img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" /> | `https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white`
 
 
 
