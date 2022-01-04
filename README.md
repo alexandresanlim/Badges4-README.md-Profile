@@ -649,6 +649,7 @@ Badge | URL
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black"/> | `https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black`
+<img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" /> | `https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white`
 
 
 
