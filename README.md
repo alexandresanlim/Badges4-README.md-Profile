@@ -658,6 +658,10 @@ Badge | URL
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/> | `https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white`
 <img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" /> | `https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white`
 <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /> | `https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white`
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> | `https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white`
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | `https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white`
+<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /> | `https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white`
+<img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" /> | `https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white`
 
 
 
