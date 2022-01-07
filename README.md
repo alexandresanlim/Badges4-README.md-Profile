@@ -288,7 +288,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> | `https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white`
 <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" /> | `https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white`
 <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" /> | `https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white`
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/> | `https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white`
+<img src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/> | `https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white`
 <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" /> | `https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white`
 <img src="https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white" /> | `https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white`
 <img src="https://img.shields.io/badge/codecept%20js-F6E05E?style=for-the-badge&logo=codeceptjs&logoColor=000" > | `https://img.shields.io/badge/codecept%20js-F6E05E?style=for-the-badge&logo=codeceptjs&logoColor=000`
@@ -297,8 +297,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Cookiecutter-D4AA00?style=for-the-badge&logo=Cookiecutter&logoColor=white" /> | `https://img.shields.io/badge/Cookiecutter-D4AA00?style=for-the-badge&logo=Cookiecutter&logoColor=white`
 <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/> | `https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white`
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /> | `https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white`
-<img src="https://img.shields.io/badge/cytoscape.js-F7DF1E?style=for-the-badge&logo=cytoscape.js&logoColor=000" /> | `https://img.shields.io/badge/cytoscape.js-F7DF1E?style=for-the-badge&logo=cytoscape.js&logoColor=000`
-<img src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" /> | `https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white`
+<img src="https://img.shields.io/badge/cytoscape%20js-F7DF1E?style=for-the-badge&logo=cytoscape.js&logoColor=000" /> | `https://img.shields.io/badge/cytoscape.js-F7DF1E?style=for-the-badge&logo=cytoscape.js&logoColor=000`
+<img src="https://img.shields.io/badge/d3%20js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" /> | `https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white`
 <img src="https://img.shields.io/badge/Deno-464647?style=for-the-badge&logo=deno&logoColor=white" /> | `https://img.shields.io/badge/Deno-464647?style=for-the-badge&logo=deno&logoColor=white`
 <img src="https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=464647" /> | `https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=464647`
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> | `https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white`
@@ -306,11 +306,11 @@ Badge | URL
 <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" /> | `https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white`
 <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" /> | `https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white`
 <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white"/> | `https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white`
-<img src="https://img.shields.io/badge/ember.js-E04E39?style=for-the-badge&logo=emberdotjs&logoColor=white" /> | `https://img.shields.io/badge/ember.js-E04E39?style=for-the-badge&logo=emberdotjs&logoColor=white`
+<img src="https://img.shields.io/badge/ember%20js-E04E39?style=for-the-badge&logo=emberdotjs&logoColor=white" /> | `https://img.shields.io/badge/ember.js-E04E39?style=for-the-badge&logo=emberdotjs&logoColor=white`
 <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" /> | `https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9`
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" /> | `https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white`
 <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=FFFFFF" /> | `https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white`
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> | `https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white`
+<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/> | `https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white`
 <img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"/> | `https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white`
 <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" /> | `https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white`
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> | `https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black`
@@ -323,7 +323,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" /> | `https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white`
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> | `https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white`
 <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" /> | `https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white`
-<img src="https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black" /> | `https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black`
+<img src="https://img.shields.io/badge/Handlebars%20js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black" /> | `https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black`
 <img src="https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white" /> | `https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white`
 <img src="https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white" /> | `https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white`
 <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/> | `https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white`
@@ -343,12 +343,12 @@ Badge | URL
 <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" /> | `https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white`
 <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" /> | `https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white`
 <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> | `https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white`
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> | `https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white`
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> | `https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white`
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> | `https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white`
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> | `https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white`
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> | `https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white`
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> | `https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white`
 <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"/> | `https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white`
-<img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/> | `https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white`
+<img src="https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/> | `https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white`
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /> | `https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white`
 <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl"/> | `https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl`
 <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white" /> | `https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white`
@@ -365,8 +365,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> | `https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white`
 <img src="https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999" /> | `https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999`
 <img src="https://img.shields.io/badge/Redwood-FDF8F6?style=for-the-badge&logo=redwoodjs&logoColor=BF4722" /> | `https://img.shields.io/badge/Redwood-FDF8F6?style=for-the-badge&logo=redwoodjs&logoColor=BF4722`
-<img src="https://img.shields.io/badge/reveal.js-F2E142?style=for-the-badge&logo=reveal.js&logoColor=000" /> | `https://img.shields.io/badge/reveal.js-F2E142?style=for-the-badge&logo=reveal.js&logoColor=000`
-<img src="https://img.shields.io/badge/rolup.js-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white" /> | `https://img.shields.io/badge/rolup.js-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white`
+<img src="https://img.shields.io/badge/reveal%20js-F2E142?style=for-the-badge&logo=reveal.js&logoColor=000" /> | `https://img.shields.io/badge/reveal.js-F2E142?style=for-the-badge&logo=reveal.js&logoColor=000`
+<img src="https://img.shields.io/badge/rolup%20js-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white" /> | `https://img.shields.io/badge/rolup.js-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white`
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /> | `https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white`
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> | `https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white`
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /> | `https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white`
@@ -391,9 +391,9 @@ Badge | URL
 <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" /> | `https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white`
 <img src="https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white" /> | `https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white`
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" /> | `https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E`
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> | `https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D`
+<img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> | `https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D`
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" /> | `https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white`
-<img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" /> | `https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white`
+<img src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" /> | `https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white`
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" /> | `https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white`
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" /> | `https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white`
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/> | `https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white`
