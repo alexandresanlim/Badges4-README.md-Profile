@@ -583,6 +583,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white`
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> | `https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white`
 <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" /> | `https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white`
+<img src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white" /> | `https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white`
 <img src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white" /> | `https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white`
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> | `https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white`
 
