@@ -874,9 +874,9 @@ It's only possible because of [Shields Project](https://github.com/badges/shield
 | [<img src="https://github.com/gurjeetsinghvirdee.png?size=115" width="115"><br><sub>@gurjeetsinghvirdee</sub>](https://github.com/gurjeetsinghvirdee) | [<img  src="https://github.com/Correia-jpv.png?size=115" width="115"><br><sub>@Correia-jpv</sub>](https://github.com/Correia-jpv) | [<img  src="https://github.com/FlawlessDeveloper.png?size=115" width="115"><br><sub>@FlawlessDeveloper</sub>](https://github.com/FlawlessDeveloper) |
 | :---: |:---: | :---: |
 
-Author:
-| [<img src="https://github.com/alexandresanlim.png?size=115" width=115><br><sub>@alexandresanlim</sub>](https://github.com/alexandresanlim) |
-| :---: |
+| Author | Collaborator |
+| :---: | :---: | 
+| [<img src="https://github.com/alexandresanlim.png?size=115" width=115><br><sub>@alexandresanlim</sub>](https://github.com/alexandresanlim) |  [<img src="https://github.com/mrhrifat.png?size=250" width=115><br><sub>@mrhrifat</sub>](https://github.com/mrhrifat) |
 
 
 ## See More Repositories
