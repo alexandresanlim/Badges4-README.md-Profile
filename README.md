@@ -14,6 +14,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
     - Static
         - [📊 Analytics](#-analytics-)
         - [🤖 Artificial Intelligence](#-artificial-intelligence-)
+        - [🔗 BlockChain](#blockchain)
         - [📝 Blog](#-blog-)
         - [📱 Contact](#-contact-)
         - [☁ Cloud](#-cloud-)
@@ -74,6 +75,11 @@ Badge | URL
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> | `https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white`
 <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" /> | `https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white`
 
+## 🔗 BlockChain [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" /> | `https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white`
 
 ## 📝 Blog [🔝](#welcome-badges-4-readmemd-profile)
 
