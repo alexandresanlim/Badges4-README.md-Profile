@@ -14,7 +14,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
     - Static
         - [📊 Analytics](#-analytics-)
         - [🤖 Artificial Intelligence](#-artificial-intelligence-)
-        - [🔗 BlockChain](#blockchain)
+        - [🔗 BlockChain](#-blockchain-)
         - [📝 Blog](#-blog-)
         - [📱 Contact](#-contact-)
         - [☁ Cloud](#-cloud-)
