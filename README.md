@@ -720,6 +720,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white" /> | `https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white`
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" /> | `https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white`
 <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" /> | `https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000`
+<img src="https://img.shields.io/badge/fluentd-599CD0?style=for-the-badge&logo=fluentd&logoColor=white&labelColor=599CD0" /> | `https://img.shields.io/badge/fluentd-599CD0?style=for-the-badge&logo=fluentd&logoColor=white&labelColor=599CD0`
+
 
 
 ## 🎶 Sound [🔝](#welcome-badges-4-readmemd-profile)
