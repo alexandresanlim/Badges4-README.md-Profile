@@ -50,6 +50,8 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
     - [Dynamic](#dynamic)
         - [GitHub Stats](#github-stats)
         - [Most Used Language](#most-used-language)
+        - [Streak Stats](#streak-stats)
+        
         
 
 - [How To Contribute](#-how-to-contribute-)
