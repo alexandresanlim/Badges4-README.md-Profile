@@ -862,7 +862,11 @@ Badge | URL
 ------------ | -------------
 <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim" /> | `https://github-readme-streak-stats.herokuapp.com/?user={username}`
 
+## Activity Graph [🔝](#welcome-badges-4-readmemd-profile)
 
+Badge | URL
+------------ | -------------
+<img width='200' src="https://activity-graph.herokuapp.com/graph?username=alexandresanlim&theme=minimal" /> | `https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal`
 
 
 
