@@ -11,7 +11,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 - [Welcome](#welcome)
 - [How to use](#how-to-use)
 - [Badges](#badges)
-    - [Static](#static)
+    - [🧑🏼‍🏭 Static](#-static)
         - [📊 Analytics](#-analytics-)
         - [🤖 Artificial Intelligence](#-artificial-intelligence-)
         - [🔗 Blockchain](#-blockchain-)
@@ -48,14 +48,18 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
         - [🌐 Web Browsers](#-web-browsers-)
         - [⏱️ Workflow Platforms](#-workflow-platforms-)
         - [💻 Workspace Spec](#-workspace-spec-)
-    - Dynamic
-        - [🔁 Dynamic](#-dynamic-)
+    - [🔁 Dynamic](#-dynamic-)
+        - [GitHub Stats](#github-stats)
+        - [Most Used Language](#most-used-language)
+        - [Streak Stats](#streak-stats)
+        - [Activity Graph](#activity-graph)
+        
 
 - [How To Contribute](#-how-to-contribute-)
 - [Creators](#more-)
 - [See More Repositories](#see-more-repositories)
 
-<h2 align='center'>Static</h2>
+<h2 align='center'>🧑🏼‍🏭 Static</h2>
 
 ## 📊 Analytics [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -844,7 +848,7 @@ Badge | URL
 
 
 
-## 🔁 Dynamic [🔝](#welcome-badges-4-readmemd-profile)
+<h2 align='center'>🔁 Dynamic </h2>
 
 Badge | URL
 ------------ | -------------
