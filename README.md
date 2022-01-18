@@ -856,6 +856,14 @@ Badge | URL
 <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}`
 
 
+## Streak Stats [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
+<img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim" /> | `https://github-readme-streak-stats.herokuapp.com/?user={username}`
+
+
+
 
 
 ## ✏ How To Contribute [🔝](#welcome-badges-4-readmemd-profile)
