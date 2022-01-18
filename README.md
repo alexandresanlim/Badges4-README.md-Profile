@@ -51,7 +51,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
         - [GitHub Stats](#github-stats)
         - [Most Used Language](#most-used-language)
         - [Streak Stats](#streak-stats)
-        
+        - [Activity Graph](#activity-graph)
         
 
 - [How To Contribute](#-how-to-contribute-)
