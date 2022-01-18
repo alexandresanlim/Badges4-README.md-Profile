@@ -58,7 +58,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 - [Creators](#more-)
 - [See More Repositories](#see-more-repositories)
 
-<h2 align='center'>🧑🏼‍🏭 Static [🔝](#welcome-badges-4-readmemd-profile)</h2>
+<h2 align='center'>🧑🏼‍🏭 Static</h2>
 
 ## 📊 Analytics [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -839,7 +839,7 @@ Badge | URL
 
 
 
-<h2 align='center'> 🔁 Dynamic [🔝](#welcome-badges-4-readmemd-profile) </h2>
+<h2 align='center'> 🔁 Dynamic </h2>
 
 Badge | URL
 ------------ | -------------
