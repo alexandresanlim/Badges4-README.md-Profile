@@ -849,6 +849,13 @@ Badge | URL
 <img width='200' src="https://github-readme-stats.vercel.app/api?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api?username={username}`
 
 
+## Most Used Language [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
+<img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}`
+
+
 
 
 ## ✏ How To Contribute [🔝](#welcome-badges-4-readmemd-profile)
