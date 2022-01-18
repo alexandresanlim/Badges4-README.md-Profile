@@ -49,10 +49,10 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
         - [⏱️ Workflow Platforms](#-workflow-platforms-)
         - [💻 Workspace Spec](#-workspace-spec-)
     - [🔁 Dynamic](#-dynamic-)
-        - [GitHub Stats](#github-stats)
-        - [Most Used Language](#most-used-language)
-        - [Streak Stats](#streak-stats)
-        - [Activity Graph](#activity-graph)
+        - [GitHub Stats](#github-stats-)
+        - [Most Used Language](#most-used-language-)
+        - [Streak Stats](#streak-stats-)
+        - [Activity Graph](#activity-graph-)
         
 
 - [How To Contribute](#-how-to-contribute-)
@@ -850,12 +850,33 @@ Badge | URL
 
 <h2 align='center'>🔁 Dynamic </h2>
 
+
+## GitHub Stats [🔝](#welcome-badges-4-readmemd-profile)
+
 Badge | URL
 ------------ | -------------
 <img width='200' src="https://github-readme-stats.vercel.app/api?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api?username={username}`
+
+
+## Most Used Language [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
 <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}`
-<img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim" /> | ```https://github-readme-streak-stats.herokuapp.com/?user={username}```
+
+
+## Streak Stats [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
+<img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim" /> | `https://github-readme-streak-stats.herokuapp.com/?user={username}`
+
+## Activity Graph [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
 <img width='200' src="https://activity-graph.herokuapp.com/graph?username=alexandresanlim&theme=minimal" /> | `https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal`
+
 
 
 ## ✏ How To Contribute [🔝](#welcome-badges-4-readmemd-profile)
