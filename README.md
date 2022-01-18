@@ -11,7 +11,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 - [Welcome](#welcome)
 - [How to use](#how-to-use)
 - [Badges](#badges)
-    - Static
+    - [Static](#static)
         - [📊 Analytics](#-analytics-)
         - [🤖 Artificial Intelligence](#-artificial-intelligence-)
         - [🔗 Blockchain](#-blockchain-)
@@ -55,7 +55,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 - [Creators](#more-)
 - [See More Repositories](#see-more-repositories)
 
-
+<h2 align='center'>Static</h2>
 
 ## 📊 Analytics [🔝](#welcome-badges-4-readmemd-profile)
 
