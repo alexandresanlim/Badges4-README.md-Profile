@@ -839,7 +839,7 @@ Badge | URL
 
 
 
-<h2 align='center'> 🔁 Dynamic </h2>
+<h2 align='center'>🔁 Dynamic </h2>
 
 Badge | URL
 ------------ | -------------
