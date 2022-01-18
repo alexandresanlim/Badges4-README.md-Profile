@@ -48,7 +48,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
         - [⏱️ Workflow Platforms](#-workflow-platforms-)
         - [💻 Workspace Spec](#-workspace-spec-)
     - [Dynamic](#dynamic)
-        - [🔁 Dynamic](#-dynamic-)
+        - [GitHub README Stats](#github-readme-stats)
 
 - [How To Contribute](#-how-to-contribute-)
 - [Creators](#more-)
