@@ -50,6 +50,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
         - [💻 Workspace Spec](#-workspace-spec-)
     - [🔁 Dynamic](#-dynamic-)
         - [📈 Activity Graph](#-activity-graph-)
+        - [💳 Github Profile Summary Card](#-github-profile-summary-card-)
         - [📟 GitHub Stats](#-github-stats-)
         - [📊 Most Used Language](#-most-used-language-)
         - [⏱ Streak Stats](#-streak-stats-)
@@ -861,6 +862,12 @@ Badge | URL
 Badge | URL
 ------------ | -------------
 <img width='200' src="https://activity-graph.herokuapp.com/graph?username=alexandresanlim&theme=minimal" /> | `https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal`
+
+## 💳 Github Profile Summary Card [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | ------------
+<img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandresanlim&theme=vue" /> | `https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue`
 
 
 ## 📟 GitHub Stats [🔝](#welcome-badges-4-readmemd-profile)
