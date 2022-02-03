@@ -54,6 +54,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
         - [📟 GitHub Stats](#-github-stats-)
         - [📊 Most Used Language](#-most-used-language-)
         - [⏱ Streak Stats](#-streak-stats-)
+        - [🏆 Trophy Stats](#-trophy-stats-)
         
         
 
@@ -891,6 +892,13 @@ Badge | URL
 Badge | URL
 ------------ | -------------
 <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim" /> | `https://github-readme-streak-stats.herokuapp.com/?user={username}`
+
+
+## 🏆 Trophy Stats [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
+<img width='200' src="https://github-profile-trophy.vercel.app/?username=alexandresanlim" /> | `https://github-profile-trophy.vercel.app/?username={username}`
 
 
 
