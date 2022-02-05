@@ -377,7 +377,6 @@ Badge | URL
 <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white" /> | `https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white`
 <img src="https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=Packagist&logoColor=white"/> | `https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=Packagist&logoColor=white`
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> | `https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white`
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"/> | `https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white`
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/> | `https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white`
 <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" /> | `https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white`
 <img src= "https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white"> | `https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white`
@@ -803,6 +802,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" /> | `https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white`
 <img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" /> | `https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white`
 <img src="https://img.shields.io/badge/iTerm-000000?style=for-the-badge&logo=iterm2&logoColor=white" /> | `https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white`
+<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> | `https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white`
 <img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white" /> | `https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white`
 <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" /> | `https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white`
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> | `https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white`
