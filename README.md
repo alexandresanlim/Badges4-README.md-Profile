@@ -486,7 +486,7 @@ Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400" />| `https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400`
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />| `https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white`
-<img src="https://img.shields.io/badge/apache%20netbeans%20IDE-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" /> | `https://img.shields.io/badge/apache%20netbeans%20IDE-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white`
+<img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" /> | `https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white`
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> | `https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white`
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" /> | `https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white`
 <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />| `https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white`
