@@ -390,6 +390,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999" /> | `https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999`
 <img src="https://img.shields.io/badge/Redwood-FDF8F6?style=for-the-badge&logo=redwoodjs&logoColor=BF4722" /> | `https://img.shields.io/badge/Redwood-FDF8F6?style=for-the-badge&logo=redwoodjs&logoColor=BF4722`
 <img src="https://img.shields.io/badge/reveal%20js-F2E142?style=for-the-badge&logo=reveal.js&logoColor=000" /> | `https://img.shields.io/badge/reveal.js-F2E142?style=for-the-badge&logo=reveal.js&logoColor=000`
+<img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" /> | `https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white`
 <img src="https://img.shields.io/badge/rolup%20js-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white" /> | `https://img.shields.io/badge/rolup.js-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white`
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /> | `https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white`
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> | `https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white`
