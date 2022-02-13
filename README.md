@@ -174,6 +174,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white" /> | `https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white`
 <img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white" /> | `https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white`
 <img src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white" /> | `https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white`
+<img src="https://img.shields.io/badge/nano-4A90E2?style=for-the-badge&logo=nano&logoColor=white" /> | `https://img.shields.io/badge/nano-4A90E2?style=for-the-badge&logo=nano&logoColor=white`
 <img src="https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=000" /> | `https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=000`
 <img src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white" /> | `https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white`
 <img src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" /> | `https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white`
