@@ -742,6 +742,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff" /> | `https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff`
 <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" /> | `https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000`
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" /> | `https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white`
+<img src="https://img.shields.io/badge/New Relic-008C99?style=for-the-badge&logo=NewRelic&logoColor=white" /> | `https://img.shields.io/badge/New Relic-008C99?style=for-the-badge&logo=NewRelic&logoColor=white`
 
 
 ## 🎶 Sound [🔝](#welcome-badges-4-readmemd-profile)
