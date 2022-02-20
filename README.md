@@ -8,53 +8,54 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 3. Copy and paste on your profile
 
 ## Menu
-- [Welcome](#welcome)
-- [How to use](#how-to-use)
-- [Badges](#badges)
-    - [🧑🏼‍🏭 Static](#-static)
-        - [📊 Analytics](#-analytics-)
-        - [🤖 Artificial Intelligence](#-artificial-intelligence-)
-        - [🔗 Blockchain](#-blockchain-)
-        - [📝 Blog](#-blog-)
-        - [📱 Contact](#-contact-)
-        - [☁ Cloud](#-cloud-)
-        - [💲 Cryptocurrency](#-cryptocurrency-)
-        - [⚡ Database](#-database-)
-        - [🖍 Design](#-design-)
-        - [📚 Education](#-education-)
-        - [📦 ETL](#-etl-)
-        - [🍔 Food](#-food-)
-        - [🚀 Frameworks](#-frameworks-)
-        - [❤ Funding](#-funding-)
-        - [🎮 Games](#-games-)
-        - [🤜 Group](#-group-)
-        - [👩‍💻 IDE](#-ide-)
-        - [🔌 IDE Plugin](#-ide-plugin-) 
-        - [👩‍💻 Languages](#-languages-)
-        - [🧐 Linters](#-linters-)
-        - [📱 Mobile Frameworks](#-mobile-frameworks-)
-        - [👨‍💻 Office](#-office-)
-        - [⚙️ ORM ](#orm)
-        - [💻 OS](#-os-)
-        - [💡 Prototyping Platforms](#-prototyping-platforms-)
-        - [🔒 Security Platforms](#-security-platforms-)
-        - [👨 Social](#-social-)
-        - [👩‍💻 Software Metrics & Analytics](#-software-metrics-and-analytics-)
-        - [🎶 Sound](#-sound-)
-        - [💻 Spatial software](#-spatial-software-)
-        - [🛒 Store](#-store-)
-        - [🎞 Streaming](#-streaming-)
-        - [💻 Terminal](#-terminal-)
-        - [🌐 Web Browsers](#-web-browsers-)
-        - [⏱️ Workflow Platforms](#-workflow-platforms-)
-        - [💻 Workspace Spec](#-workspace-spec-)
-    - [🔁 Dynamic](#-dynamic-)
-        - [📈 Activity Graph](#-activity-graph-)
-        - [💳 Github Profile Summary Card](#-github-profile-summary-card-)
-        - [📟 GitHub Stats](#-github-stats-)
-        - [📊 Most Used Language](#-most-used-language-)
-        - [⏱ Streak Stats](#-streak-stats-)
-        - [🏆 Trophy Stats](#-trophy-stats-)
+- [Welcome! Badges 4 README.md Profile](#welcome-badges-4-readmemd-profile)
+  - [How to use?](#how-to-use)
+  - [Menu](#menu)
+  - [📊 Analytics 🔝](#-analytics-)
+  - [🤖 Artificial Intelligence 🔝](#-artificial-intelligence-)
+  - [🔗 Blockchain 🔝](#-blockchain-)
+  - [📝 Blog 🔝](#-blog-)
+  - [📱 Contact 🔝](#-contact-)
+  - [☁ Cloud 🔝](#-cloud-)
+  - [💲 Cryptocurrency 🔝](#-cryptocurrency-)
+  - [⚡ Database 🔝](#-database-)
+  - [🖍 Design 🔝](#-design-)
+  - [📚 Education 🔝](#-education-)
+  - [🌐 ETL 🔝](#-etl-)
+  - [🍔 Food 🔝](#-food-)
+  - [🚀 Frameworks 🔝](#-frameworks-)
+  - [❤ Funding 🔝](#-funding-)
+  - [🎮 Games 🔝](#-games-)
+  - [🤜 Group 🔝](#-group-)
+  - [👩‍💻 IDE 🔝](#-ide-)
+  - [🔌 IDE Plugin 🔝](#-ide-plugin-)
+  - [👩‍💻 Languages 🔝](#-languages-)
+  - [🧐 Linters 🔝](#-linters-)
+  - [📱 Mobile Frameworks 🔝](#-mobile-frameworks-)
+  - [👨‍💻 Office 🔝](#-office-)
+  - [⚙️ ORM 🔝](#️-orm-)
+  - [💻 OS 🔝](#-os-)
+  - [💡 Prototyping Platforms 🔝](#-prototyping-platforms-)
+  - [🔒 Security Platforms 🔝](#-security-platforms-)
+  - [👨 Social 🔝](#-social-)
+  - [👩‍💻 Software Metrics and Analytics 🔝](#-software-metrics-and-analytics-)
+  - [🎶 Sound 🔝](#-sound-)
+  - [💻 Spatial software 🔝](#-spatial-software-)
+  - [🛒 Store 🔝](#-store-)
+  - [🎞 Streaming 🔝](#-streaming-)
+  - [💻 Terminal 🔝](#-terminal-)
+  - [🌐 Web Browsers 🔝](#-web-browsers-)
+  - [⏱️ Workflow Platforms 🔝](#️-workflow-platforms-)
+  - [💻 Workspace Spec 🔝](#-workspace-spec-)
+  - [📈 Activity Graph 🔝](#-activity-graph-)
+  - [💳 Github Profile Summary Card 🔝](#-github-profile-summary-card-)
+  - [📟 GitHub Stats 🔝](#-github-stats-)
+  - [📊 Most Used Language 🔝](#-most-used-language-)
+  - [⏱ Streak Stats 🔝](#-streak-stats-)
+  - [🏆 Trophy Stats 🔝](#-trophy-stats-)
+  - [✏ How To Contribute 🔝](#-how-to-contribute-)
+  - [Creators 🔝](#creators-)
+  - [See More Repositories](#see-more-repositories)
         
         
 
@@ -526,6 +527,7 @@ Badge | URL
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" /> | `https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white`
+<img src="https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=AssemblyScript&logoColor=white" /> | `https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=AssemblyScript&logoColor=white`
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> | `https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white`
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> | `https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white`
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | `https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white`
@@ -557,10 +559,12 @@ Badge | URL
 <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> | `https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black`
 <img src="https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black" /> | `https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black`
 <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white" /> | `https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white`
+<img src="https://img.shields.io/badge/PureScript-14161A?style=for-the-badge&logo=PureScript&logoColor=white" /> | `https://img.shields.io/badge/PureScript-14161A?style=for-the-badge&logo=PureScript&logoColor=white`
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> | `https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue`
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" /> | `https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white`
 <img src="https://img.shields.io/badge/PyTorchLightning-792EE5?style=for-the-badge&logo=PyTorchLightning&logoColor=white" /> | `https://img.shields.io/badge/PyTorch Lightning-792EE5?style=for-the-badge&logo=PyTorch Lightning&logoColor=white`
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> | `https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white`
+<img src="https://img.shields.io/badge/ReScript-E6484F?style=for-the-badge&logo=ReScript&logoColor=white" /> | `https://img.shields.io/badge/ReScript-E6484F?style=for-the-badge&logo=ReScript&logoColor=white`
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> | `https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white`
 <img src="https://img.shields.io/badge/Rust-FFF?style=for-the-badge&logo=rust&logoColor=black" /> | `https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324`
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> | `https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white`
