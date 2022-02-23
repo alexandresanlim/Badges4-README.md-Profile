@@ -52,8 +52,8 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
         - [📈 Activity Graph](#-activity-graph-)
         - [💳 Github Profile Summary Card](#-github-profile-summary-card-)
         - [📟 GitHub Stats](#-github-stats-)
-        - [🎯 Profile Hits Counter](#-profile-hits-counter-)
         - [📊 Most Used Language](#-most-used-language-)
+        - [🎯 Profile Hits Counter](#-profile-hits-counter-)
         - [⏱ Streak Stats](#-streak-stats-)
         - [🏆 Trophy Stats](#-trophy-stats-)
         
