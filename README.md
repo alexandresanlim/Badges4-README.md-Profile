@@ -950,7 +950,7 @@ It's only possible because of [Shields Project](https://github.com/badges/shield
 | [<img src="https://github.com/gurjeetsinghvirdee.png?size=115" width="115"><br><sub>@gurjeetsinghvirdee</sub>](https://github.com/gurjeetsinghvirdee) | [<img  src="https://github.com/RubenFilipe07.png?size=115" width="115"><br><sub>@RubenFilipe07</sub>](https://github.com/RubenFilipe07) | [<img  src="https://github.com/Huseyinnurbaki.png?size=115" width="115"><br><sub>@Huseyinnurbaki</sub>](https://github.com/Huseyinnurbaki) |
 | :---: |:---: | :---: |
 
-**Note:** Every month the Contributors list will be updated by observing their contributions.
+**Important:** Every month the Contributors list will be updated by observing their contributions.
 
 | Author | Collaborator |
 | :---: | :---: | 
