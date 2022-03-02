@@ -923,9 +923,9 @@ Badge | URL
 
 ## ✏ How To Contribute [🔝](#welcome-badges-4-readmemd-profile)
 
-1 - You don't need to make a fork just edit
+1 - You don't need to make a fork just edit.
 
-2 - Get an icon and hex color from [Simple Icon](https://simpleicons.org/), if you don't find the desired logo, request it [here](https://github.com/simple-icons/simple-icons/issues/new?assignees=&labels=new+icon&template=icon_request.yml)
+2 - Get an icon and hex color from [Simple Icon](https://simpleicons.org/), if you don't find the desired logo, request it [here](https://github.com/simple-icons/simple-icons/issues/new?assignees=&labels=new+icon&template=icon_request.yml).
 
 3 - Build the URL:
 
@@ -937,15 +937,15 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 - {HEX-COLOR} = Paste your hex color whithout "#" from Simple Icon
 - {LOGO-NAME} = Logo name from Simple Icon
 
-4 - Paste on category with `Alphabetical` order
+4 - Paste on category with `Alphabetical` order.
 
-5 - Commit your changes ;)
+5 - Commit your changes.
 
 
 
 ## Creators [🔝](#welcome-badges-4-readmemd-profile)
 
-It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors). Here is a list of the top 3 contributors of last January 2022, excluding [Authors](https://github.com/alexandresanlim) & [Collaborator](https://github.com/mrhrifat).  We do respect & love our all contributors.
+It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors). Here is a list of the top 3 contributors of last February 2022, excluding [Authors](https://github.com/alexandresanlim) & [Collaborator](https://github.com/mrhrifat).  We do respect & love our all contributors.
 
 | [<img src="https://github.com/kaustav202.png?size=115" width="115"><br><sub>@kaustav202</sub>](https://github.com/kaustav202) | [<img  src="https://github.com/ambarja.png?size=115" width="115"><br><sub>@ambarja</sub>](https://github.com/ambarja) | [<img  src="https://github.com/rajadavidh.png?size=115" width="115"><br><sub>@rajadavidh</sub>](https://github.com/rajadavidh) | 
 | :---: |:---: | :---: |
