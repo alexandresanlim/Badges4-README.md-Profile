@@ -923,9 +923,9 @@ Badge | URL
 
 ## ✏ How To Contribute [🔝](#welcome-badges-4-readmemd-profile)
 
-1 - You don't need to make a fork just edit
+1 - You don't need to make a fork just edit.
 
-2 - Get an icon and hex color from [Simple Icon](https://simpleicons.org/), if you don't find the desired logo, request it [here](https://github.com/simple-icons/simple-icons/issues/new?assignees=&labels=new+icon&template=icon_request.yml)
+2 - Get an icon and hex color from [Simple Icon](https://simpleicons.org/), if you don't find the desired logo, request it [here](https://github.com/simple-icons/simple-icons/issues/new?assignees=&labels=new+icon&template=icon_request.yml).
 
 3 - Build the URL:
 
@@ -937,9 +937,9 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 - {HEX-COLOR} = Paste your hex color whithout "#" from Simple Icon
 - {LOGO-NAME} = Logo name from Simple Icon
 
-4 - Paste on category with `Alphabetical` order
+4 - Paste on category with `Alphabetical` order.
 
-5 - Commit your changes ;)
+5 - Commit your changes.
 
 
 
