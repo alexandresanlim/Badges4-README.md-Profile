@@ -207,6 +207,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" /> | `https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white`
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> | `https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white`
 <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" /> | `https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white`
+<img src="https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /> | `https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white`
 
 
 
