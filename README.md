@@ -268,6 +268,7 @@ Badge | URL
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" /> | `https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white`
+<img src="https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white" /> | `https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white`
 <img src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white" /> | `https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white`
 <img src="https://img.shields.io/badge/Spark AR-FF5C83?style=for-the-badge&logo=Spark%20AR&logoColor=white" /> | `https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white`
 
