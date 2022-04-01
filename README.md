@@ -376,7 +376,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> | `https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white`
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> | `https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white`
 <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"/> | `https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white`
-<img src="https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/> | `https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white`
+<img src="https://img.shields.io/badge/nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/> | `https://img.shields.io/badge/nuxt.js-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82`
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /> | `https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white`
 <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl"/> | `https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl`
 <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white" /> | `https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white`
