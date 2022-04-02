@@ -51,6 +51,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
     - [🌐 Web Browsers](#-web-browsers-)
     - [⏱️ Workflow Platforms](#-workflow-platforms-)
     - [💻 Workspace Spec](#-workspace-spec-)
+    - [💻 Workspace Hardware Components](#-workspace-hardware-components-)
   - [🔁 Dynamic](#-dynamic-)
     - [📈 Activity Graph](#-activity-graph-)
     - [💳 Github Profile Summary Card](#-github-profile-summary-card-)
@@ -840,6 +841,25 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | <img src="https://img.shields.io/badge/samsung%20laptop-1428A0?style=for-the-badge&logo=Samsung&logoColor=white" />         | `https://img.shields.io/badge/samsung%20laptop-1428A0?style=for-the-badge&logo=Samsung&logoColor=white`         |
 | <img src="https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> | `https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white` |
 | <img src="https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" />           | `https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white`           |
+
+## 💻 Workspace Hardware Components [🔝](#welcome-badges-4-readmemd-profile)
+
+| Badge                                                                                                                          | URL                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />              | `https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white`              |
+| <img src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />               | `https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white`               |
+| <img src="https://img.shields.io/badge/apple-silicon-333333?style=for-the-badge&logo=apple&logoColor=white" />                 | `https://img.shields.io/badge/apple-silicon-333333?style=for-the-badge&logo=apple&logoColor=white`                 |
+| <img src="https://img.shields.io/badge/Intel-Core_i5--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />           | `https://img.shields.io/badge/Intel-Core_i5--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`           |
+| <img src="https://img.shields.io/badge/Intel-Core_i7--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />           | `https://img.shields.io/badge/Intel-Core_i7--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`           |
+| <img src="https://img.shields.io/badge/Intel-Core_i9--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />           | `https://img.shields.io/badge/Intel-Core_i9--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`           |
+| <img src="https://img.shields.io/badge/Intel-HD_Graphics_500_Series-0071C5?style=for-the-badge&logo=intel&logoColor=white" />  | `https://img.shields.io/badge/Intel-HD_Graphics_500_Series-0071C5?style=for-the-badge&logo=intel&logoColor=white`  |
+| <img src="https://img.shields.io/badge/Intel-HD_Graphics_600_Series-0071C5?style=for-the-badge&logo=intel&logoColor=white" />  | `https://img.shields.io/badge/Intel-HD_Graphics_600_Series-0071C5?style=for-the-badge&logo=intel&logoColor=white`  |
+| <img src="https://img.shields.io/badge/Intel-UHD_Graphics_600_Series-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> | `https://img.shields.io/badge/Intel-UHD_Graphics_600_Series-0071C5?style=for-the-badge&logo=intel&logoColor=white` |
+| <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />               | `https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white`               |
+| <img src="https://img.shields.io/badge/NVIDIA-GTX_1000_Series-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />       | `https://img.shields.io/badge/NVIDIA-GTX_1000_Series-76B900?style=for-the-badge&logo=nvidia&logoColor=white`       |
+| <img src="https://img.shields.io/badge/NVIDIA-RTX_2000_Series-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />       | `https://img.shields.io/badge/NVIDIA-RTX_2000_Series-76B900?style=for-the-badge&logo=nvidia&logoColor=white`       |
+| <img src="https://img.shields.io/badge/NVIDIA-RTX_3000_Series-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />       | `https://img.shields.io/badge/NVIDIA-RTX_3000_Series-76B900?style=for-the-badge&logo=nvidia&logoColor=white`       |
+| <img src="https://img.shields.io/badge/NVIDIA-RTX_4000_Series-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />       | `https://img.shields.io/badge/NVIDIA-RTX_4000_Series-76B900?style=for-the-badge&logo=nvidia&logoColor=white`       |
 
 <h2 align='center'>🔁 Dynamic </h2>
 
