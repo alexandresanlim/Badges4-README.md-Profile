@@ -851,9 +851,13 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 ## 💳 Github Profile Summary Card [🔝](#welcome-badges-4-readmemd-profile)
 
-| Badge                                                                                                                                  | URL                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| <img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandresanlim&theme=vue" /> | `https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue` |
+| Badge                                                                                                                                              | URL                                                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| <img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandresanlim&theme=vue" />             | `https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue`             |
+| <img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexandresanlim&theme=vue" />          | `https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme=vue`          |
+| <img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexandresanlim&theme=vue" />        | `https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={username}&theme=vue`        |
+| <img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexandresanlim&theme=vue" />                       | `https://github-profile-summary-cards.vercel.app/api/cards/stats?username={username}&theme=vue`                       |
+| <img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexandresanlim&theme=vue&utcOffset=8" /> | `https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={username}&theme=vue&utcOffset=8` |
 
 ## 📟 GitHub Stats [🔝](#welcome-badges-4-readmemd-profile)
 
