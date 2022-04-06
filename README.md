@@ -669,6 +669,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | Badge                                                                                               | URL                                                                                      |
 | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/> | `https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white` |
+| <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/> | `https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white` |
 
 ## 👨 Social [🔝](#welcome-badges-4-readmemd-profile)
 
