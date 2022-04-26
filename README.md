@@ -810,6 +810,9 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 ## 🥅 Work/Jobs [🔝](#welcome-badges-4-readmemd-profile)
 
+| Badge                                                                                                               | URL                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />           | `https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white`           |
 
 
 ## ⏱️ Workflow Platforms [🔝](#welcome-badges-4-readmemd-profile)
