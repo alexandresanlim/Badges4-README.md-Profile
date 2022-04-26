@@ -807,6 +807,11 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />         | `https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white`         |
 | <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" />                 | `https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white`                 |
 
+
+## 🥅 Work/Jobs [🔝](#welcome-badges-4-readmemd-profile)
+
+
+
 ## ⏱️ Workflow Platforms [🔝](#welcome-badges-4-readmemd-profile)
 
 | Badge                                                                                                               | URL                                                                                                     |
