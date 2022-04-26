@@ -49,6 +49,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
     - [🎞 Streaming](#-streaming-)
     - [💻 Terminal](#-terminal-)
     - [🌐 Web Browsers](#-web-browsers-)
+    - [🥅 Work/Jobs](#-work/jobs-)
     - [⏱️ Workflow Platforms](#-workflow-platforms-)
     - [💻 Workspace Spec](#-workspace-spec-)
   - [🔁 Dynamic](#-dynamic-)
