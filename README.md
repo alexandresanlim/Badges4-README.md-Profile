@@ -668,9 +668,9 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 ## 🔒 Security Platforms [🔝](#welcome-badges-4-readmemd-profile)
 
-| Badge                                                                                               | URL                                                                                      |
-| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/> | `https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white` |
+| Badge                                                                                                                     | URL                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/>                       | `https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white`                       |
 | <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/> | `https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white` |
 
 ## 👨 Social [🔝](#welcome-badges-4-readmemd-profile)
@@ -808,13 +808,12 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />         | `https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white`         |
 | <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" />                 | `https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white`                 |
 
-
 ## 🥅 Work/Jobs [🔝](#welcome-badges-4-readmemd-profile)
 
-| Badge                                                                                                               | URL                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />           | `https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white`           |
-| <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />           | `https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white`           |
+| Badge                                                                                                    | URL                                                                                          |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /> | `https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white` |
+| <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" /> | `https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white` |
 
 ## ⏱️ Workflow Platforms [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -919,8 +918,8 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 
 It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors). Here is a list of the top 3 contributors of last March 2022, excluding [Authors](https://github.com/alexandresanlim) & [Collaborator](https://github.com/mrhrifat). We do respect & love our all contributors.
 
-| [<img src="https://github.com/Asmit2952.png?size=115" width="115"><br><sub>@Asmit2952</sub>](https://github.com/Asmit2952) | [<img  src="https://github.com/ModdedGamers.png?size=115" width="115"><br><sub>@ModdedGamers</sub>](https://github.com/ModdedGamers) | [<img  src="https://github.com/BBnours.png?size=115" width="115"><br><sub>@BBnours</sub>](https://github.com/BBnours) | 
-| :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://github.com/Asmit2952.png?size=115" width="115"><br><sub>@Asmit2952</sub>](https://github.com/Asmit2952) | [<img  src="https://github.com/ModdedGamers.png?size=115" width="115"><br><sub>@ModdedGamers</sub>](https://github.com/ModdedGamers) | [<img  src="https://github.com/BBnours.png?size=115" width="115"><br><sub>@BBnours</sub>](https://github.com/BBnours) |
+| :------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
 
 **Important:** Every month the Contributors list will be updated by observing their contributions.
 
@@ -930,8 +929,9 @@ It's only possible because of [Shields Project](https://github.com/badges/shield
 
 ## See More Repositories
 
-| Project                                                                                                         | Short description                                                                                   |
-| --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [Collection.NiceToolsForAppDesign](https://github.com/alexandresanlim/Collection.NiceToolsForAppDesign)         | Nice tools collection for app design                                                                |
-| [MobileApp.SimpleLandingPage.Template](https://github.com/alexandresanlim/MobileApp.SimpleLandingPage.Template) | Create a very simple landing page for your mobile app with bootstrap only                           |
-| [Web Badge](https://github.com/mrhrifat/web-badge)                                                              | Web Badge will provide Badges, SVG Logo & Hex Color Code to use in GitHub Markdown or Any Web Pages |
+| Project                                                                                                         | Short description                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| [Collection.NiceToolsForAppDesign](https://github.com/alexandresanlim/Collection.NiceToolsForAppDesign)         | Nice tools collection for app design                                                                                              |
+| [MobileApp.SimpleLandingPage.Template](https://github.com/alexandresanlim/MobileApp.SimpleLandingPage.Template) | Create a very simple landing page for your mobile app with bootstrap only                                                         |
+| [Web Badge](https://github.com/mrhrifat/web-badge)                                                              | Web Badge will provide Badges, SVG Logo & Hex Color Code to use in GitHub Markdown or Any Web Pages                               |
+| [Holy Al-Quran](https://github.com/mrhrifat/holy-alquran)                                                       | Al-Quran is a Sadaqah Jariyah. It's the holy book of Islam. I hope to make it easy for everyone to read, study, & learn Al-Quran. |
