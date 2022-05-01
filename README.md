@@ -934,4 +934,4 @@ It's only possible because of [Shields Project](https://github.com/badges/shield
 | [Collection.NiceToolsForAppDesign](https://github.com/alexandresanlim/Collection.NiceToolsForAppDesign)         | Nice tools collection for app design                                                                                              |
 | [MobileApp.SimpleLandingPage.Template](https://github.com/alexandresanlim/MobileApp.SimpleLandingPage.Template) | Create a very simple landing page for your mobile app with bootstrap only                                                         |
 | [Web Badge](https://github.com/mrhrifat/web-badge)                                                              | Web Badge will provide Badges, SVG Logo & Hex Color Code to use in GitHub Markdown or Any Web Pages                               |
-
+| [Holy Al-Quran](https://github.com/mrhrifat/holy-alquran)                                                           | Al-Quran is a Sadaqah Jariyah. It's the holy book of Islam. I hope to make it easy for everyone to read, study, & learn Al-Quran. |
