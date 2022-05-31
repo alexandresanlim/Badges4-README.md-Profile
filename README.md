@@ -27,7 +27,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
     - [📚 Education](#-education-)
     - [📦 ETL](#-etl-)
     - [🍔 Food](#-food-)
-    - [🚀 Frameworks & Library](#-frameworks-)
+    - [🚀 Frameworks & Library](#-frameworks--library-)
     - [❤ Funding](#-funding-)
     - [🎮 Games](#-games-)
     - [🤜 Group](#-group-)
