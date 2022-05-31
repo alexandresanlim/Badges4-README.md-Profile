@@ -76,6 +76,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" />                         | `https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white`                         |
 | <img src="https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white" />                         | `https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white`                         |
 | <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />                       | `https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white`                       |
+| <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" />                     | `https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white`                     |
 
 ## 🤖 Artificial Intelligence [🔝](#welcome-badges-4-readmemd-profile)
 
