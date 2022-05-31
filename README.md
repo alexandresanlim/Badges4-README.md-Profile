@@ -284,7 +284,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | <img src="https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white" /> | `https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white` |
 | <img src="https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white" />       | `https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white`       |
 
-## 🚀 Frameworks [🔝](#welcome-badges-4-readmemd-profile)
+## 🚀 Frameworks & Library [🔝](#welcome-badges-4-readmemd-profile)
 
 | Badge                                                                                                                           | URL                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
