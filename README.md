@@ -923,11 +923,9 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 
 ## Creators [🔝](#welcome-badges-4-readmemd-profile)
 
-It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors). Here is a list of the top 3 contributors from Jan, 2022 - April 2022, including [Authors](https://github.com/alexandresanlim) & [Collaborator](https://github.com/mrhrifat). We do respect & love our all contributors.
+It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors). Here is a list of the top 3 contributors of last May, 2022 including [Authors](https://github.com/alexandresanlim) & [Collaborator](https://github.com/mrhrifat). We do respect & love our all contributors.
 
-**Note:** As usual every month we share the top 3 contributors of this repository by observing their contributions. But regretfully in last month we didn't get any joyful contributions. That's why we are going to share top 3 contributors from Jan, 2022 - April 2022.
-
-| [<img src="https://github.com/mrhrifat.png?size=250" width="115"><br><sub>@mrhrifat</sub>](https://github.com/mrhrifat) | [<img  src="https://github.com/gurjeetsinghvirdee.png?size=115" width="115"><br><sub>@gurjeetsinghvirdee</sub>](https://github.com/gurjeetsinghvirdee) | [<img  src="https://github.com/RubenFilipe07.png?size=115" width="115"><br><sub>@RubenFilipe07</sub>](https://github.com/RubenFilipe07) |
+| [<img src="https://github.com/NickRTR.png?size=115" width="115"><br><sub>@NickRTR</sub>](https://github.com/NickRTR) | [<img  src="https://github.com/mrhrifat.png?size=250" width="115"><br><sub>@mrhrifat</sub>](https://github.com/mrhrifat) | [<img  src="https://github.com/huyagci.png?size=115" width="115"><br><sub>@huyagci</sub>](https://github.com/huyagci) |
 | :---------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
 
 **Important:** Every month the Contributors list will be updated by observing their contributions.
