@@ -7,6 +7,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 1. Get a URL
 2. Create a img tag `<img src="{BadgeURLHere}" />` or `![image]({BadgeURLHere})`
 3. Copy and paste on your profile
+4. Feel free to Make Pull Requests, open Issues, share ideas, help each other, fix problems!
 
 ## Menu
 
