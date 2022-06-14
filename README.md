@@ -35,6 +35,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
     - [🔌 IDE Plugin](#-ide-plugin-)
     - [👩‍💻 Languages](#-languages-)
     - [🧐 Linters](#-linters-)
+    - [🎡 Low Code Platforms](#-low-code-platforms-)
     - [📱 Mobile Frameworks](#-mobile-frameworks-)
     - [👨‍💻 Office](#-office-)
     - [⚙️ ORM ](#orm)
@@ -580,6 +581,12 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />  | `https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E`  |
 | <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" />    | `https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white`    |
 | <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" /> | `https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white` |
+
+## 🎡 Low Code Platforms [🔝](#welcome-badges-4-readmemd-profile)
+
+| Badge                                                                                                    | URL                                                                                          |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Appian-2322F0?style=for-the-badge&logo=Appian&logoColor=white" /> | `https://img.shields.io/badge/Appian-2322F0?style=for-the-badge&logo=Appian&logoColor=white` |
 
 ## 📱 Mobile Frameworks [🔝](#welcome-badges-4-readmemd-profile)
 
