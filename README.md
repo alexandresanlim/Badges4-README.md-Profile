@@ -876,25 +876,25 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 | Badge                                                                                                       | URL                                                                            |
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| <img width='200' src="https://activity-graph.herokuapp.com/graph?username=alexandresanlim&theme=minimal" /> | `https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal` |
+| <img width='200' src="https://activity-graph.herokuapp.com/graph?username=Pavankumar-Hegde&theme=minimal" /> | `https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal` |
 
 ## 💳 Github Profile Summary Card [🔝](#welcome-badges-4-readmemd-profile)
 
 | Badge                                                                                                                                  | URL                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| <img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandresanlim&theme=vue" /> | `https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue` |
+| <img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavankumar-Hegde=vue" /> | `https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue` |
 
 ## 📟 GitHub Stats [🔝](#welcome-badges-4-readmemd-profile)
 
 | Badge                                                                                         | URL                                                              |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| <img width='200' src="https://github-readme-stats.vercel.app/api?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api?username={username}` |
+| <img width='200' src="https://github-readme-stats.vercel.app/api?username=Pavankumar-Hegde" /> | `https://github-readme-stats.vercel.app/api?username={username}` |
 
 ## 📊 Most Used Language [🔝](#welcome-badges-4-readmemd-profile)
 
 | Badge                                                                                                    | URL                                                                         |
 | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}` |
+| <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavankumar-Hegde" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}` |
 
 ## 🎯 Profile Hits Counter [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -906,13 +906,13 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 | Badge                                                                                            | URL                                                                 |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim" /> | `https://github-readme-streak-stats.herokuapp.com/?user={username}` |
+| <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=Pavankumar-Hegde" /> | `https://github-readme-streak-stats.herokuapp.com/?user={username}` |
 
 ## 🏆 Trophy Stats [🔝](#welcome-badges-4-readmemd-profile)
 
 | Badge                                                                                        | URL                                                             |
 | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| <img width='200' src="https://github-profile-trophy.vercel.app/?username=alexandresanlim" /> | `https://github-profile-trophy.vercel.app/?username={username}` |
+| <img width='200' src="https://github-profile-trophy.vercel.app/?username=Pavankumar-Hegde" /> | `https://github-profile-trophy.vercel.app/?username={username}` |
 
 ## ✏ How To Contribute [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -936,22 +936,14 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 
 ## Creators [🔝](#welcome-badges-4-readmemd-profile)
 
-It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors). Here is a list of the top 3 contributors of last June, 2022 including [Authors](https://github.com/alexandresanlim) & [Collaborator](https://github.com/mrhrifat). We do respect & love our all contributors.
+It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/Pavankumar-Hegde/Badges4-README.md-Profile/graphs/contributors). Here is a list of the top 3 contributors of last June, 2022 including [Authors](https://github.com/Pavankumar-Hegde) & [Collaborator](https://github.com/Pavankumar-Hegde). We do respect & love our all contributors.
 
-| [<img src="https://github.com/mrhrifat.png?size=115" width="115"><br><sub>@mrhrifat</sub>](https://github.com/mrhrifat) | [<img  src="https://github.com/alexandresanlim.png?size=250" width="115"><br><sub>@alexandresanlim</sub>](https://github.com/alexandresanlim) | [<img  src="https://github.com/LiamGallagher737.png?size=115" width="115"><br><sub>@LiamGallagher737</sub>](https://github.com/LiamGallagher737) |
+| [<img src="https://github.com/Pavankumar-Hegdet.png?size=115" width="115"><br><sub>@Pavankumar-Hegde</sub>](https://github.com/Pavankumar-Hegde) | [<img  src="https://github.com/Pavankumar-Hegde.png?size=250" width="115"><br><sub>@Pavankumar-Hegde</sub>](https://github.com/Pavankumar-Hegde) | [<img  src="https://github.com/Pavankumar-Hegde.png?size=115" width="115"><br><sub>@Pavankumar-Hegde</sub>](https://github.com/Pavankumar-Hegde) |
 | :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
 
 **Important:** Every month the Contributors list will be updated by observing their contributions.
 
 |                                                                                                                                                    Author                                                                                                                                                     |                                                                                                                                     Collaborator                                                                                                                                      |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://github.com/alexandresanlim.png?size=115" width=115><br><sub>@alexandresanlim</sub>](https://github.com/alexandresanlim) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/alexandresanlim) | [<img src="https://github.com/mrhrifat.png?size=250" width=115><br><sub>@mrhrifat</sub>](https://github.com/mrhrifat) <br><br> [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrhrifat) |
+[![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/alexandresanlim) | [<img src="https://github.com/mrhrifat.png?size=250" width=115><br><sub>@Pavankumar-Hegde</sub>](https://github.com/mrhrifat) <br><br> [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/PavankumarHegde) |
 
-## See More Repositories
-
-| Project                                                                                                         | Short description                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| [Collection.NiceToolsForAppDesign](https://github.com/alexandresanlim/Collection.NiceToolsForAppDesign)         | Nice tools collection for app design                                                                                              |
-| [MobileApp.SimpleLandingPage.Template](https://github.com/alexandresanlim/MobileApp.SimpleLandingPage.Template) | Create a very simple landing page for your mobile app with bootstrap only                                                         |
-| [Web Badge](https://github.com/mrhrifat/web-badge)                                                              | Web Badge will provide Badges, SVG Logo & Hex Color Code to use in GitHub Markdown or Any Web Pages                               |
-| [Holy Al-Quran](https://github.com/mrhrifat/holy-alquran)                                                       | Al-Quran is a Sadaqah Jariyah. It's the holy book of Islam. I hope to make it easy for everyone to read, study, & learn Al-Quran. |
