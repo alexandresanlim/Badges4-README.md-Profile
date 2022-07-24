@@ -936,13 +936,8 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 
 ## Creators [🔝](#welcome-badges-4-readmemd-profile)
 
-It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/Pavankumar-Hegde/Badges4-README.md-Profile/graphs/contributors). Here is a list of the top 3 contributors of last June, 2022 including [Authors](https://github.com/Pavankumar-Hegde) & [Collaborator](https://github.com/Pavankumar-Hegde). We do respect & love our all contributors.
+It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/Pavankumar-Hegde/Badges4-README.md-Profile/graphs/contributors). including [Authors](https://github.com/Pavankumar-Hegde) & [Collaborator](https://github.com/Pavankumar-Hegde). 
 
-| [<img src="https://github.com/Pavankumar-Hegdet.png?size=115" width="115"><br><sub>@Pavankumar-Hegde</sub>](https://github.com/Pavankumar-Hegde) | [<img  src="https://github.com/Pavankumar-Hegde.png?size=250" width="115"><br><sub>@Pavankumar-Hegde</sub>](https://github.com/Pavankumar-Hegde) | [<img  src="https://github.com/Pavankumar-Hegde.png?size=115" width="115"><br><sub>@Pavankumar-Hegde</sub>](https://github.com/Pavankumar-Hegde) |
-| :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://github.com/Pavankumar-Hegde.png?size=115" width="115"><br><sub>@Pavankumar-Hegde</sub>](https://github.com/Pavankumar-Hegde) |
 
-**Important:** Every month the Contributors list will be updated by observing their contributions.
-
-|                                                                                                                                                    Author                                                                                                                                                     |                                                                                                                                     Collaborator                                                                                                                                      |
-|
-
+PS: Please do not forget to drop a star if you like it!
