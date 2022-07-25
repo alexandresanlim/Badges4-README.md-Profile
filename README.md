@@ -430,6 +430,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />                      | `https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white`                      |
 | <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />                          | `https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white`                          |
 | <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>                             | `https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white`                            |
+| <img src="https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus"/>                             | `https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus` |
 
 ## ❤ Funding [🔝](#welcome-badges-4-readmemd-profile)
 
