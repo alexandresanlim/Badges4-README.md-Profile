@@ -19,6 +19,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
     - [🤖 Artificial Intelligence](#-artificial-intelligence-)
     - [🔗 Blockchain](#-blockchain-)
     - [📝 Blog](#-blog-)
+    - [👥 Community](#-community-)
     - [📱 Contact](#-contact-)
     - [☁ Cloud](#-cloud-)
     - [💲 Cryptocurrency](#-cryptocurrency-)
