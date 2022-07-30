@@ -19,6 +19,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
     - [🤖 Artificial Intelligence](#-artificial-intelligence-)
     - [🔗 Blockchain](#-blockchain-)
     - [📝 Blog](#-blog-)
+    - [👥 Community](#-community-)
     - [📱 Contact](#-contact-)
     - [☁ Cloud](#-cloud-)
     - [💲 Cryptocurrency](#-cryptocurrency-)
@@ -108,6 +109,13 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" />                     | `https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white`                     |
 | <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" />                        | `https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white`                        |
 | <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />         | `https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white`         |
+
+## 👥 Community [🔝](#welcome-badges-4-readmemd-profile)
+
+| Badge                                                                                                                  | URL                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />         | `https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white`         |
+
 
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -409,6 +417,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />                | `https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white`                |
 | <img src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white" />                      | `https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white`                      |
 | <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>                  | `https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white`                 |
+| <img src="https://img.shields.io/badge/Solid%20JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white"/>                  | `https://img.shields.io/badge/Solid%20JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white`                 |
 | <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />                        | `https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white`                        |
 | <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />                              | `https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot`                              |
 | <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />                  | `https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white`                  |
