@@ -94,6 +94,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | Badge                                                                                                              | URL                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
 | <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" /> | `https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white` |
+| <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=openzeppelin&logoColor=fff&style=for-the-badge" /> | `https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=openzeppelin&logoColor=fff&style=for-the-badge`  |
 
 ## 📝 Blog [🔝](#welcome-badges-4-readmemd-profile)
 
