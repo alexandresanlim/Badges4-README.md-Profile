@@ -872,6 +872,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /> | `https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white` |
 | <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" /> | `https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white` |
+| <img src="https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=Toptal&logoColor=white" /> | `https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=Toptal&logoColor=white` |
 | <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" /> | `https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white` |
 
 ## ⏱️ Workflow Platforms [🔝](#welcome-badges-4-readmemd-profile)
