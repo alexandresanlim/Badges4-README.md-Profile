@@ -117,7 +117,8 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 | Badge                                                                                                                  | URL                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />         | `https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white`         |
+| <img src="https://img.shields.io/badge/Code%20Climate-000000?style=for-the-badge&logo=Code%20Climate&logoColor=white" /> | `https://img.shields.io/badge/Code%20Climate-000000?style=for-the-badge&logo=Code%20Climate&logoColor=white`       |
+| <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />                 | `https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white`         |
 
 
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
