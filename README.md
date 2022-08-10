@@ -93,7 +93,9 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 | Badge                                                                                                              | URL                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| <img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" /> | `https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge`  |
 | <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" /> | `https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white` |
+| <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge" /> | `https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge`  |
 
 ## 📝 Blog [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -382,6 +384,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | <img src="https://img.shields.io/badge/Marko-3daee4?style=for-the-badge&logo=marko&logoColor=white" />                          | `https://img.shields.io/badge/Marko-3daee4?style=for-the-badge&logo=marko&logoColor=white`                          |
 | <img src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white" />  | `https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white`  |
 | <img src="https://img.shields.io/badge/Material%20Ui-007FFF?style=for-the-badge&logo=mui&logoColor=white" />                    | `https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white`                    |
+| <img src="https://img.shields.io/badge/Matter%20js-4B5562?style=for-the-badge&logo=Matterdotjs&logoColor=white">                | `https://img.shields.io/badge/Matter%20js-4B5562?style=for-the-badge&logo=Matterdotjs&logoColor=white`              |
 | <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />                  | `https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white`                  |
 | <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />                          | `https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white`                          |
 | <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />                        | `https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white`                        |
@@ -496,6 +499,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />                 | `https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white`                 |
 | <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" />       | `https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white`       |
+| <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white" />           | `https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white`           |
 | <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white` |
 | <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />                     | `https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white`                     |
 | <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" />                     | `https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white`                     |
