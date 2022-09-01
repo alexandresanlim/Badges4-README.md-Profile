@@ -974,7 +974,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 | Badge                                                                                         | URL                                                              |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| <img width='200' src="https://github-readme-stats.vercel.app/api?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api?username={username}` |
+| <img width='200' src="https://github-readme-stats.vercel.app/api?username=alexandresanlim" /> | `[![GitHub Stats](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)` |
 
 ## 📊 Most Used Language [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -992,7 +992,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 | Badge                                                                                            | URL                                                                 |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim" /> | `https://github-readme-streak-stats.herokuapp.com/?user={username}` |
+| <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim" /> | `[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user={username}&theme=dark)](https://git.io/streak-stats)` |
 
 ## 🏆 Trophy Stats [🔝](#welcome-badges-4-readmemd-profile)
 
