@@ -931,6 +931,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />                | `https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white`                 |
 | <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white" />        | `https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white`             |
 | <img src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59" />           | `https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59`             |
+| <img src="https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white" />           | `https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white`             |
 
 ## 💻 Workspace Spec [🔝](#welcome-badges-4-readmemd-profile)
 
