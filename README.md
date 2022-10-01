@@ -856,7 +856,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | Badge                                                                                                                         | URL                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://img.shields.io/badge/qgis-3.26_buenos_aires-93b023?&style=for-the-badge&logo=qgis&logoColor=white">| `https://img.shields.io/badge/qgis-3.26_buenos_aires-93b023?&style=for-the-badge&logo=qgis&logoColor=white`|
-| <img src="https://img.shields.io/badge/qgis-3.22_bia%C5%82owie%C5%BCa-93b023?&style=for-the-badge&logo=qgis&logoColor=white"> | `https://img.shields.io/badge/qgis-3.22_bia%C5%82owie%C5%BCa-93b023?&style=for-the-badge&logo=qgis&logoColor=white` |
+| <img src="https://img.shields.io/badge/qgis-3.22_białowieża-93b023?&style=for-the-badge&logo=qgis&logoColor=white"> | `https://img.shields.io/badge/qgis-3.22_białowieża-93b023?&style=for-the-badge&logo=qgis&logoColor=white` |
 
 ## 🛒 Store [🔝](#welcome-badges-4-readmemd-profile)
 
