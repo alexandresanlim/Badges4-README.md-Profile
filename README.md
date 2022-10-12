@@ -976,17 +976,17 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | <img width='200' src="https://activity-graph.herokuapp.com/graph?username=alexandresanlim&theme=minimal" /> | `https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal` |
 
-## 📄 Gists List Card [🔝](#welcome-badges-4-readmemd-profile)
-
-| Badge                                                                                        | URL                                                             |
-| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| <img width='200' src="https://gists-readme.yizack.com/api?user=alexandresanlim" /> | `https://gists-readme.yizack.com/api?user={username}` |
-
 ## 📑 Gist Pin [🔝](#welcome-badges-4-readmemd-profile)
 
 | Badge                                                                                        | URL                                                             |
 | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | <img width='200' src="https://gists-readme.yizack.com/api/pin?user=alexandresanlim&id=7866ae1b3651ce8b300cc0cad4478854&owner=true" /> | `https://gists-readme.yizack.com/api/pin?user={username}&id={gist_id}&owner=true` |
+
+## 📄 Gists List Card [🔝](#welcome-badges-4-readmemd-profile)
+
+| Badge                                                                                        | URL                                                             |
+| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| <img width='200' src="https://gists-readme.yizack.com/api?user=alexandresanlim" /> | `https://gists-readme.yizack.com/api?user={username}` |
 
 ## 💳 Github Profile Summary Card [🔝](#welcome-badges-4-readmemd-profile)
 
