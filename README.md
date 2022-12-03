@@ -1055,8 +1055,6 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 
 It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors). We do respect & love our all contributors. 
 
-| [<img src="https://github.com/Anmol-Baranwal.png?size=115" width="115"><br><sub>@Anmol-Baranwal</sub>](https://github.com/Anmol-Baranwal) | [<img  src="https://github.com/cfuendesign.png?size=115" width="115"><br><sub>@cfuendesign</sub>](https://github.com/cfuendesign) | [<img  src="https://github.com/Rinnray.png?size=115" width="115"><br><sub>@Rinnray</sub>](https://github.com/Rinnray) |
-| :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
 
 **Important:** Every month the Contributors list will be updated by observing their contributions.
 
