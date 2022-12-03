@@ -1053,7 +1053,7 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 
 ## Creators [🔝](#welcome-badges-4-readmemd-profile)
 
-It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors). Here is a list of the top 3 contributors of last August, 2022 excluding [Author](https://github.com/alexandresanlim) & [Collaborator](https://github.com/mrhrifat). We do respect & love our all contributors. 
+It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors). We do respect & love our all contributors. 
 
 | [<img src="https://github.com/Anmol-Baranwal.png?size=115" width="115"><br><sub>@Anmol-Baranwal</sub>](https://github.com/Anmol-Baranwal) | [<img  src="https://github.com/cfuendesign.png?size=115" width="115"><br><sub>@cfuendesign</sub>](https://github.com/cfuendesign) | [<img  src="https://github.com/Rinnray.png?size=115" width="115"><br><sub>@Rinnray</sub>](https://github.com/Rinnray) |
 | :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
