@@ -601,6 +601,9 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> | `https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white` |
 | <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" />                         | `https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white`                         |
 | <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />                               | `https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white`                               |
+| <img src="https://img.shields.io/badge/unity-%23222C37.svg?style=for-the-badge&logo=Unity&logoColor=white" />                               | `https://img.shields.io/badge/unity-%23222C37.svg?style=for-the-badge&logo=Unity&logoColor=white`                               |
+
+
 
 ## 🔌 IDE Plugin [🔝](#welcome-badges-4-readmemd-profile)
 
