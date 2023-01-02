@@ -162,6 +162,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />                    | `https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white`                    |
 | <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />                   | `https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white`                   |
 | <img src="https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white" />                           | `https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white`                           |
+| <img src="https://img.shields.io/badge/GnuPG_Public_Key-444?style=for-the-badge&logo=GNU Privacy Guard&logoColor=white">       | `https://img.shields.io/badge/GnuPG_Public_Key-444?style=for-the-badge&logo=GNU Privacy Guard&logoColor=white`      |
 
 ## ☁ Cloud [🔝](#welcome-badges-4-readmemd-profile)
 
