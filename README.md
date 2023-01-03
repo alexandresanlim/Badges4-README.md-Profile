@@ -984,7 +984,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 | Badge                                                                                                       | URL                                                                            |
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| <img width='200' src="https://github-readme-activity-graph.cyclic.app/graph?username=alexandresanlim&theme=minimal" /> | `https://github-readme-activity-graph.cyclic.app/graph?username=alexandresanlim&theme=minimal` |
+| <img width='200' src="https://github-readme-activity-graph.cyclic.app/graph?username=alexandresanlim&theme=minimal" /> | `https://github-readme-activity-graph.cyclic.app/graph?username={username}&theme=minimal` |
 
 ## 📑 Gist Pin [🔝](#welcome-badges-4-readmemd-profile)
 
