@@ -10,61 +10,65 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 ## Menu
 
-- [Welcome! Badges 4 README.md Profile](#welcome-badges-4-readmemd-profile)
-  - [How to use?](#how-to-use)
-  - [Menu](#menu)
-  - [📊 Analytics 🔝](#-analytics-)
-  - [🤖 Artificial Intelligence 🔝](#-artificial-intelligence-)
-  - [🔗 Blockchain 🔝](#-blockchain-)
-  - [📝 Blog 🔝](#-blog-)
-  - [👥 Community 🔝](#-community-)
-  - [📱 Contact 🔝](#-contact-)
-  - [☁ Cloud 🔝](#-cloud-)
-  - [💲 Cryptocurrency 🔝](#-cryptocurrency-)
-  - [⚡ Database 🔝](#-database-)
-  - [🖍 Design 🔝](#-design-)
-  - [📚 Education 🔝](#-education-)
-  - [🌐 ETL 🔝](#-etl-)
-  - [🍔 Food 🔝](#-food-)
-  - [🚀 Frameworks \& Library 🔝](#-frameworks--library-)
-  - [❤ Funding 🔝](#-funding-)
-  - [🎮 Games 🔝](#-games-)
-  - [🤜 Group 🔝](#-group-)
-  - [👩‍💻 IDE 🔝](#-ide-)
-  - [🔌 IDE Plugin 🔝](#-ide-plugin-)
-  - [👩‍💻 Languages 🔝](#-languages-)
-  - [🧐 Linters 🔝](#-linters-)
-  - [🎡 Low Code Platforms 🔝](#-low-code-platforms-)
-  - [📱 Mobile Frameworks 🔝](#-mobile-frameworks-)
-  - [👨‍💻 Office 🔝](#-office-)
-  - [⚙️ ORM 🔝](#️-orm-)
-  - [💻 OS 🔝](#-os-)
-  - [💡 Prototyping Platforms 🔝](#-prototyping-platforms-)
-  - [🔒 Security Platforms 🔝](#-security-platforms-)
-  - [👨 Social 🔝](#-social-)
-  - [👩‍💻 Software Metrics and Analytics 🔝](#-software-metrics-and-analytics-)
-  - [🎶 Sound 🔝](#-sound-)
-  - [💻 Spatial software 🔝](#-spatial-software-)
-  - [🛒 Store 🔝](#-store-)
-  - [🎞 Streaming 🔝](#-streaming-)
-  - [💻 Terminal 🔝](#-terminal-)
-  - [💻 Virtualization 🔝](#-virtualization-)
-  - [🌐 Web Browsers 🔝](#-web-browsers-)
-  - [🥅 Work/Jobs 🔝](#-workjobs-)
-  - [⏱️ Workflow Platforms 🔝](#️-workflow-platforms-)
-  - [💻 Workspace Spec 🔝](#-workspace-spec-)
-  - [📈 Activity Graph 🔝](#-activity-graph-)
-  - [📑 Gist Pin 🔝](#-gist-pin-)
-  - [📄 Gists List Card 🔝](#-gists-list-card-)
-  - [💳 Github Profile Summary Card 🔝](#-github-profile-summary-card-)
-  - [📟 GitHub Stats 🔝](#-github-stats-)
-  - [📊 Most Used Language 🔝](#-most-used-language-)
-  - [🎯 Profile Hits Counter 🔝](#-profile-hits-counter-)
-  - [⏱ Streak Stats 🔝](#-streak-stats-)
-  - [🏆 Trophy Stats 🔝](#-trophy-stats-)
-  - [✏ How To Contribute 🔝](#-how-to-contribute-)
-  - [Creators 🔝](#creators-)
-  - [See More Repositories](#see-more-repositories)
+- [Welcome](#welcome)
+- [How to use](#how-to-use)
+- [Badges](#badges)
+
+  - [🧑🏼‍🏭 Static](#-static)
+    - [📊 Analytics](#-analytics-)
+    - [🤖 Artificial Intelligence](#-artificial-intelligence-)
+    - [🔗 Blockchain](#-blockchain-)
+    - [📝 Blog](#-blog-)
+    - [👥 Community](#-community-)
+    - [📱 Contact](#-contact-)
+    - [☁ Cloud](#-cloud-)
+    - [💲 Cryptocurrency](#-cryptocurrency-)
+    - [⚡ Database](#-database-)
+    - [🖍 Design](#-design-)
+    - [📚 Education](#-education-)
+    - [📦 ETL](#-etl-)
+    - [🍔 Food](#-food-)
+    - [🚀 Frameworks & Library](#-frameworks--library-)
+    - [❤ Funding](#-funding-)
+    - [🎮 Games](#-games-)
+    - [🤜 Group](#-group-)
+    - [👩‍💻 IDE](#-ide-)
+    - [🔌 IDE Plugin](#-ide-plugin-)
+    - [👩‍💻 Languages](#-languages-)
+    - [🧐 Linters](#-linters-)
+    - [🎡 Low Code Platforms](#-low-code-platforms-)
+    - [📱 Mobile Frameworks](#-mobile-frameworks-)
+    - [👨‍💻 Office](#-office-)
+    - [⚙️ ORM ](#orm)
+    - [💻 OS](#-os-)
+    - [💡 Prototyping Platforms](#-prototyping-platforms-)
+    - [🔒 Security Platforms](#-security-platforms-)
+    - [👨 Social](#-social-)
+    - [👩‍💻 Software Metrics & Analytics](#-software-metrics-and-analytics-)
+    - [🎶 Sound](#-sound-)
+    - [💻 Spatial software](#-spatial-software-)
+    - [🛒 Store](#-store-)
+    - [🎞 Streaming](#-streaming-)
+    - [💻 Terminal](#-terminal-)
+    - [💻 Virtualization](#-virtualization-)
+    - [🌐 Web Browsers](#-web-browsers-)
+    - [🥅 Work/Jobs](#-workjobs-)
+    - [⏱️ Workflow Platforms](#-workflow-platforms-)
+    - [💻 Workspace Spec](#-workspace-spec-)
+  - [🔁 Dynamic](#-dynamic-)
+    - [📈 Activity Graph](#-activity-graph-)
+    - [📑 Gist Pin](#-gist-pin-)
+    - [📄 Gists List Card](#-gists-list-card-)
+    - [💳 Github Profile Summary Card](#-github-profile-summary-card-)
+    - [📟 GitHub Stats](#-github-stats-)
+    - [📊 Most Used Language](#-most-used-language-)
+    - [🎯 Profile Hits Counter](#-profile-hits-counter-)
+    - [⏱ Streak Stats](#-streak-stats-)
+    - [🏆 Trophy Stats](#-trophy-stats-)
+
+- [How To Contribute](#-how-to-contribute-)
+- [Creators](#creators-)
+- [See More Repositories](#see-more-repositories)
 
 <h2 align='center'>🧑🏼‍🏭 Static</h2>
 
@@ -430,8 +434,8 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />                  | `https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white`                  |
 | <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />                          | `https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white`                          |
 | <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />                        | `https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white`                        |
-| <img src="https://img.shields.io/badge/Neutralionsjs-F89901?style=for-the-badge&logo=neutralinojs&logoColor=fff"/>            | `https://img.shields.io/badge/Neutralionsjs-F89901?style=for-the-badge&logo=neutralinojs&logoColor=fff`           |
-| <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>                   | `https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white`                    |
+| <img src="https://img.shields.io/badge/Neutralionsjs-F89901?style=for-the-badge&logo=neutralinojs&logoColor=white" />           | `https://img.shields.io/badge/Neutralionsjs-F89901?style=for-the-badge&logo=neutralinojs&logoColor=white`           |
+| <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />                  | `https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white`                    |
 | <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>                           | `https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white`                          |
 | <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />                  | `https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white`                    |
 | <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>                               | `https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white`                              |
@@ -985,7 +989,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 | Badge                                                                                                       | URL                                                                            |
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| <img width='200' src="https://github-readme-activity-graph.cyclic.app/graph?username=alexandresanlim&theme=minimal" /> | `https://github-readme-activity-graph.cyclic.app/graph?username={username}&theme=minimal` |
+| <img width='200' src="https://github-readme-activity-graph.cyclic.app/graph?username=alexandresanlim&theme=minimal" /> |`https://github-readme-activity-graph.cyclic.app/graph?username={username}&theme=minimal` |
 
 ## 📑 Gist Pin [🔝](#welcome-badges-4-readmemd-profile)
 
