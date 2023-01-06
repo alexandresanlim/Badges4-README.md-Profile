@@ -1010,9 +1010,11 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 ## 📟 GitHub Stats [🔝](#welcome-badges-4-readmemd-profile)
 
-| Badge                                                                                         | URL                                                              |
-| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| <img width='200' src="https://github-readme-stats.vercel.app/api?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api?username={username}` |
+* built-in themes:  `dark`,  `radical`,  `merko`,  `gruvbox`,  `tokyonight`,  `onedark`,  `cobalt`,  `synthwave`,  `highcontrast`,  `dracula`
+
+| Badge                                                                                         | URL                                                                 | Theme                                                                                         |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| <img width='200' src="https://github-readme-stats.vercel.app/api?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api?username={username}`    | `https://github-readme-stats.vercel.app/api?username={username}&theme={theme_name}`           |
 
 ## 📊 Most Used Language [🔝](#welcome-badges-4-readmemd-profile)
 
