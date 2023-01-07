@@ -680,6 +680,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | <img src="https://img.shields.io/badge/Appian-2322F0?style=for-the-badge&logo=Appian&logoColor=white" /> | `https://img.shields.io/badge/Appian-2322F0?style=for-the-badge&logo=Appian&logoColor=white` |
 
+
 ## 📱 Mobile Frameworks [🔝](#welcome-badges-4-readmemd-profile)
 
 | Badge                                                                                                                | URL                                                                                                      |
@@ -692,6 +693,12 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />       | `https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB`       |
 | <img src="https://img.shields.io/badge/Sencha-044059?style=for-the-badge&logo=sencha&logoColor=#95C93D" />           | `https://img.shields.io/badge/Sencha-044059?style=for-the-badge&logo=sencha&logoColor=#95C93D`           |
 | <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />           | `https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white`           |
+
+## 🏞️ NFT [🔝](#welcome-badges-4-readmemd-profile)
+| Badge                                                                                                                                | URL                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://img.shields.io/badge/opensea-407FDB?style=for-the-badge&logo=opensea&logoColor=white"> | `https://img.shields.io/badge/opensea-407FDB?style=for-the-badge&logo=opensea&logoColor=white` |
+| <img src="https://img.shields.io/badge/Rarible-F8DA4A?style=for-the-badge&logo=Rarible&logoColor=black"> | `https://img.shields.io/badge/Rarible-F8DA4A?style=for-the-badge&logo=Rarible&logoColor=black` |
 
 ## 👨‍💻 Office [🔝](#welcome-badges-4-readmemd-profile)
 
