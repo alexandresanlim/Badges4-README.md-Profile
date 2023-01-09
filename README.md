@@ -1043,9 +1043,11 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 ## 🏆 Trophy Stats [🔝](#welcome-badges-4-readmemd-profile)
 
-| Badge                                                                                        | URL                                                             |
-| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| <img width='200' src="https://github-profile-trophy.vercel.app/?username=alexandresanlim" /> | `https://github-profile-trophy.vercel.app/?username={username}` |
+* built-in themes:  `dark`,  `radical`,  `merko`,  `gruvbox`,  `tokyonight`,  `onedark`,  `cobalt`,  `synthwave`,  `highcontrast`,  `dracula`
+
+| Badge                                                                                        | URL                                                                  | Theme                                                                                        |
+| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| <img width='200' src="https://github-profile-trophy.vercel.app/?username=alexandresanlim" /> | `https://github-profile-trophy.vercel.app/?username={username}` | `https://github-profile-trophy.vercel.app/?username={username}&theme={theme_name}` |
 
 ## ✏ How To Contribute [🔝](#welcome-badges-4-readmemd-profile)
 
