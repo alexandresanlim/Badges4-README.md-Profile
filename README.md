@@ -1021,9 +1021,11 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 ## 📊 Most Used Language [🔝](#welcome-badges-4-readmemd-profile)
 
-| Badge                                                                                                    | URL                                                                         |
-| -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}` |
+* built-in themes:  `dark`,  `radical`,  `merko`,  `gruvbox`,  `tokyonight`,  `onedark`,  `cobalt`,  `synthwave`,  `highcontrast`,  `dracula`
+
+| Badge                                                                                                    | URL                                                       | Theme                                                                                                    |
+| -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}` | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme={theme_name}` |
 
 ## 🎯 Profile Hits Counter [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -1033,15 +1035,19 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 ## ⏱ Streak Stats [🔝](#welcome-badges-4-readmemd-profile)
 
-| Badge                                                                                            | URL                                                                 |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim" /> | `https://github-readme-streak-stats.herokuapp.com/?user={username}` |
+* built-in themes:  `dark`,  `radical`,  `merko`,  `gruvbox`,  `tokyonight`,  `onedark`,  `cobalt`,  `synthwave`,  `highcontrast`,  `dracula`
+
+| Badge                                                                                            | URL                                                                | Theme                                                                                            |
+| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim" /> | `https://github-readme-streak-stats.herokuapp.com/?user={username}` | `https://github-readme-streak-stats.herokuapp.com/?user={username}&theme={theme_name}` |
 
 ## 🏆 Trophy Stats [🔝](#welcome-badges-4-readmemd-profile)
 
-| Badge                                                                                        | URL                                                             |
-| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| <img width='200' src="https://github-profile-trophy.vercel.app/?username=alexandresanlim" /> | `https://github-profile-trophy.vercel.app/?username={username}` |
+* built-in themes:  `dark`,  `radical`,  `merko`,  `gruvbox`,  `tokyonight`,  `onedark`,  `cobalt`,  `synthwave`,  `highcontrast`,  `dracula`
+
+| Badge                                                                                        | URL                                                                  | Theme                                                                                        |
+| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| <img width='200' src="https://github-profile-trophy.vercel.app/?username=alexandresanlim" /> | `https://github-profile-trophy.vercel.app/?username={username}` | `https://github-profile-trophy.vercel.app/?username={username}&theme={theme_name}` |
 
 ## ✏ How To Contribute [🔝](#welcome-badges-4-readmemd-profile)
 
