@@ -992,9 +992,11 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 ## 📈 Activity Graph [🔝](#welcome-badges-4-readmemd-profile)
 
-| Badge                                                                                                       | URL                                                                            |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| <img width='200' src="https://github-readme-activity-graph.cyclic.app/graph?username=alexandresanlim&theme=minimal" /> |`https://github-readme-activity-graph.cyclic.app/graph?username={username}&theme=minimal` |
+* Available Themes:  `Default (cotton candy)`,  `react`,  `react-dark`,  `github`,  `github-compact`,  `xcode`,  `rogue`,  `merko`,  `vue`,  `tokyo-night`, `high-contrast`
+
+| Badge                                                                                                       | URL                                                   | Theme                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| <img width='200' src="https://github-readme-activity-graph.cyclic.app/graph?username=alexandresanlim&theme=minimal" /> |`https://github-readme-activity-graph.cyclic.app/graph?username={username}` | `https://github-readme-activity-graph.cyclic.app/graph?username={username}&theme={theme_name}` |
 
 ## 📑 Gist Pin [🔝](#welcome-badges-4-readmemd-profile)
 
