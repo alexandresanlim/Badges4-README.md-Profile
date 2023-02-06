@@ -1012,7 +1012,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 ## 💳 Github Profile Summary Card [🔝](#welcome-badges-4-readmemd-profile)
 
-* Themes: `default`,  `2077`,  `dracula`,  `github`,  `github_dark``,  ``gruvbox`,  `monokai`,  `nord_bright`,  `nord_dark`,  `radical`,  `solarized`,  `solarized_dark`,  `tokyonight`,  `vue`,  `zenburn`
+* Themes: `default`,  `2077`,  `dracula`,  `github`,  `github_dark`,  `gruvbox`,  `monokai`,  `nord_bright`,  `nord_dark`,  `radical`,  `solarized`,  `solarized_dark`,  `tokyonight`,  `vue`,  `zenburn`
 
 | Badge                                                                                                                                  | URL                          | Theme                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
