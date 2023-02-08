@@ -992,9 +992,11 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 ## 📈 Activity Graph [🔝](#welcome-badges-4-readmemd-profile)
 
-| Badge                                                                                                       | URL                                                                            |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| <img width='200' src="https://github-readme-activity-graph.cyclic.app/graph?username=alexandresanlim&theme=minimal" /> |`https://github-readme-activity-graph.cyclic.app/graph?username={username}&theme=minimal` |
+* Available Themes:  `Default (cotton candy)`,  `react`,  `react-dark`,  `github`,  `github-compact`,  `xcode`,  `rogue`,  `merko`,  `vue`,  `tokyo-night`, `high-contrast`
+
+| Badge                                                                                                       | URL                                                   | Theme                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| <img width='200' src="https://github-readme-activity-graph.cyclic.app/graph?username=alexandresanlim&theme=minimal" /> |`https://github-readme-activity-graph.cyclic.app/graph?username={username}` | `https://github-readme-activity-graph.cyclic.app/graph?username={username}&theme={theme_name}` |
 
 ## 📑 Gist Pin [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -1010,9 +1012,11 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 ## 💳 Github Profile Summary Card [🔝](#welcome-badges-4-readmemd-profile)
 
-| Badge                                                                                                                                  | URL                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| <img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandresanlim&theme=vue" /> | `https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue` |
+* Themes: `default`,  `2077`,  `dracula`,  `github`,  `github_dark`,  `gruvbox`,  `monokai`,  `nord_bright`,  `nord_dark`,  `radical`,  `solarized`,  `solarized_dark`,  `tokyonight`,  `vue`,  `zenburn`
+
+| Badge                                                                                                                                  | URL                          | Theme                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| <img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandresanlim&theme=vue" /> | `https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}` | `https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}` |
 
 ## 📟 GitHub Stats [🔝](#welcome-badges-4-readmemd-profile)
 
