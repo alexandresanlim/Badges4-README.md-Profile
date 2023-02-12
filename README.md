@@ -766,6 +766,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />             | `https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white`             |
 | <img src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white" />       | `https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white`       |
 | <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" />       | `https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white`       |
+| <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />       | `https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white`       |
 | <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" />            | `https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white`            |
 
 ## 💡 Prototyping Platforms [🔝](#welcome-badges-4-readmemd-profile)
