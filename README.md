@@ -998,7 +998,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 ## 📈 Activity Graph [🔝](#welcome-badges-4-readmemd-profile)
 
-* Available Themes:  `Default (cotton candy)`,  `react`,  `react-dark`,  `github`,  `github-compact`,  `xcode`,  `rogue`,  `merko`,  `vue`,  `tokyo-night`, `high-contrast`
+* Themes:  `Default (cotton candy)`,  `react`,  `react-dark`,  `github`,  `github-compact`,  `xcode`,  `rogue`,  `merko`,  `vue`,  `tokyo-night`, `high-contrast`
 
 | Badge                                                                                                       | URL                                                   | Theme                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
@@ -1026,7 +1026,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 ## 📟 GitHub Stats [🔝](#welcome-badges-4-readmemd-profile)
 
-* built-in themes:  `dark`,  `radical`,  `merko`,  `gruvbox`,  `tokyonight`,  `onedark`,  `cobalt`,  `synthwave`,  `highcontrast`,  `dracula`
+* Themes:  `dark`,  `radical`,  `merko`,  `gruvbox`,  `tokyonight`,  `onedark`,  `cobalt`,  `synthwave`,  `highcontrast`,  `dracula`
 
 | Badge                                                                                         | URL                                                                 | Theme                                                                                         |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -1034,7 +1034,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 ## 📊 Most Used Language [🔝](#welcome-badges-4-readmemd-profile)
 
-* built-in themes:  `dark`,  `radical`,  `merko`,  `gruvbox`,  `tokyonight`,  `onedark`,  `cobalt`,  `synthwave`,  `highcontrast`,  `dracula`
+* Themes:  `dark`,  `radical`,  `merko`,  `gruvbox`,  `tokyonight`,  `onedark`,  `cobalt`,  `synthwave`,  `highcontrast`,  `dracula`
 
 | Badge                                                                                                    | URL                                                       | Theme                                                                                                    |
 | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -1048,7 +1048,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 ## ⏱ Streak Stats [🔝](#welcome-badges-4-readmemd-profile)
 
-* built-in themes:  `dark`,  `radical`,  `merko`,  `gruvbox`,  `tokyonight`,  `onedark`,  `cobalt`,  `synthwave`,  `highcontrast`,  `dracula`
+* Themes:  `dark`,  `radical`,  `merko`,  `gruvbox`,  `tokyonight`,  `onedark`,  `cobalt`,  `synthwave`,  `highcontrast`,  `dracula`
 
 | Badge                                                                                            | URL                                                                | Theme                                                                                            |
 | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -1056,7 +1056,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 ## 🏆 Trophy Stats [🔝](#welcome-badges-4-readmemd-profile)
 
-* built-in themes:  `dark`,  `radical`,  `merko`,  `gruvbox`,  `tokyonight`,  `onedark`,  `cobalt`,  `synthwave`,  `highcontrast`,  `dracula`
+* Themes:  `dark`,  `radical`,  `merko`,  `gruvbox`,  `tokyonight`,  `onedark`,  `cobalt`,  `synthwave`,  `highcontrast`,  `dracula`
 
 | Badge                                                                                        | URL                                                                  | Theme                                                                                        |
 | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
