@@ -1069,6 +1069,14 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | <img width='200' src="https://github-profile-trophy.vercel.app/?username=alexandresanlim" /> | `https://github-profile-trophy.vercel.app/?username={username}` | `https://github-profile-trophy.vercel.app/?username={username}&theme={theme_name}` |
 
+## 🧵 Thread Count: Custom status badges for Meta's Threads.net follower counts
+
+- Customizable: `colors`, `scale`, `text` etc.
+
+| Badge                                                                                        | URL                                                             | Theme                                                                              |
+| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| <a href="https://github.com/AayushGithub/thread-count"><img src="https://thread-count.vercel.app/thread-count/zuck?label=Follower%20Count&labelColor=white" alt="Thread Count: Custom status badges for Meta's Threads.net follower counts"></a>  | `https://thread-count.vercel.app/thread-count/{username}` | `https://thread-count.vercel.app/thread-count/{username}?color={color}&gradient={true}&scale={scale}` |
+
 ## ✏ How To Contribute [🔝](#welcome-badges-4-readmemd-profile)
 
 1 - You don't need to make a fork just edit.
