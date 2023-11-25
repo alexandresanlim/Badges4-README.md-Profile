@@ -1026,7 +1026,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 | Badge                                                                                                                  | URL                                                                         | Theme                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| <img width='200' src="https://github-readme-activity-graph.cyclic.app/graph?username=alexandresanlim&theme=minimal" /> | `https://github-readme-activity-graph.cyclic.app/graph?username={username}` | `https://github-readme-activity-graph.cyclic.app/graph?username={username}&theme={theme_name}` |
+| <img width='200' src="https://github-readme-activity-graph.vercel.app/graph?username=alexandresanlim&theme=tokyo-night" /> | `https://github-readme-activity-graph.vercel.app/graph?username={username}` | `https://github-readme-activity-graph.vercel.app/graph?username={username}&theme={theme_name}` |
 
 ## 📑 Gist Pin [🔝](#welcome-badges-4-readmemd-profile)
 
