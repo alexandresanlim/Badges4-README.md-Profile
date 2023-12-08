@@ -33,7 +33,7 @@
 ![image]({BadgeURLHere})
 ```
 
-3. Copy and paste on your profile 🎉
+3. Paste on your profile 🎉
 
 ## Menu
 
