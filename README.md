@@ -1009,8 +1009,11 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | <img src="https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> | `https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white` |
 | <img src="https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" />           | `https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white`           |
 
-<h2 align='center'>🔁 Dynamic </h2>
-Dynamic badges was moved to here: https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic
+## 🔁 Dynamic
+Dynamic badges was moved to here: [Badges4-README.md-Profile-Dynamic](https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic)
+<br/>
+<br/>
+<br/>
 
 ## ✏ How To Contribute [🔝](#welcome-badges-4-readmemd-profile)
 
