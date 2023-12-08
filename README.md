@@ -108,7 +108,6 @@
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://custom-icon-badges.herokuapp.com/badge/comet%20ml-262c3e?style=for-the-badge&logo=logo_comet_ml&logoColor=white" /> | `https://custom-icon-badges.herokuapp.com/badge/comet%20ml-262c3e?style=for-the-badge&logo=logo_comet_ml&logoColor=white` |
 | <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" />                      | `https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white`                      |
-| <img src="https://tinyurl.com/2p9ft7xf" />                                                                                            | `https://tinyurl.com/2p9ft7xf`                                                                                            |
 | <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />                                | `https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white`                                |
 | <img src="https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white" />                | `https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white`                |
 | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />                            | `https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white`                            |
@@ -123,12 +122,6 @@
 | <img src="https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white" /> | `https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white`|
 | <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" /> | `https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white`|
 | <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge" /> | `https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge`|
-| <img src="https://shields.io/badge/polygon-e4e4e4?style=for-the-badge&logo=hyperledger&logoColor=white" /> | `https://tinyurl.com/ys9yfcpw`|
-| <img src="https://shields.io/badge/bnb--chain-676767?style=for-the-badge&logo=hyperledger&logoColor=white" /> | `https://tinyurl.com/mp2wu3xx`|
-| <img src="https://shields.io/badge/tron--network-ffffff?style=for-the-badge&logo=hyperledger&logoColor=white" /> | `https://tinyurl.com/5ap8s6j`|
-| <img src="https://shields.io/badge/hardhat-545454?style=for-the-badge&logo=hyperledger&logoColor=white" /> | `https://tinyurl.com/yjs68jbs`|
-| <img src="https://shields.io/badge/foundry-0f121d?style=for-the-badge&logo=hyperledger&logoColor=white" /> | `https://tinyurl.com/2s397eh4`|                 |
-
 
 ## 📝 Blog [🔝](#welcome-badges-4-readmemd-profile)
 
