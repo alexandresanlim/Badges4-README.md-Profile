@@ -3,8 +3,10 @@
 </h1>
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white&link=https%3A%2F%2Fgithub.com%2Fsponsors%2Falexandresanlim" />        
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alexandresanlim/Badges4-README.md-Profile?">
+ <a href="https://github.com/sponsors/alexandresanlim">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
+  </a>&nbsp;&nbsp;   
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alexandresanlim/Badges4-README.md-Profile?style=for-the-badge">
 </p>
 
 <p align='center'> 
