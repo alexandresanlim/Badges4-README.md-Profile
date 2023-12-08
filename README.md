@@ -1,6 +1,18 @@
-# Welcome! Badges 4 README.md Profile
+<h1 align='center'>
+  Welcome! Badges 4 README.md Profile
+</h1>
 
-Improve your README.md profile with these amazing badges. See a sample [here](https://github.com/alexandresanlim)
+<p align='center'>
+  <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white&link=https%3A%2F%2Fgithub.com%2Fsponsors%2Falexandresanlim" />        
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alexandresanlim/Badges4-README.md-Profile?">
+</p>
+
+<p align='center'> 
+  Improve your README.md profile with these amazing badges. See a sample <a href='https://github.com/alexandresanlim'>here</a> 
+</p>
+
+<br />
+
 
 ## How to use?
 
