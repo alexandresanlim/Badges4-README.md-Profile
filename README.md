@@ -23,8 +23,9 @@
 ## How to use?
 
 1. Get a URL
-2. Create a img tag `<img src="{BadgeURLHere}" />` or `![image]({BadgeURLHere})`
-3. Copy and paste on your profile
+   - You can use ctr+f (Windows) ou cmd+f (mac) for find one
+3. Create a img tag `<img src="{BadgeURLHere}" />` or `![image]({BadgeURLHere})`
+4. Copy and paste on your profile
 
 ## Menu
 
