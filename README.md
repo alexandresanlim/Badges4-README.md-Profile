@@ -59,7 +59,6 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 - [How To Contribute](#-how-to-contribute-)
 - [Creators](#creators-)
-- [See More Repositories](#see-more-repositories)
 
 <h2 align='center'>🧑🏼‍🏭 Static</h2>
 
@@ -1017,7 +1016,7 @@ Dynamic badges was moved to here: [Badges4-README.md-Profile-Dynamic](https://gi
 
 ## ✏ How To Contribute [🔝](#welcome-badges-4-readmemd-profile)
 
-1 - You don't need to make a fork just edit.
+1 - You don't need to make a fork just edit it.
 
 2 - Get an icon and hex color from [Simple Icon](https://simpleicons.org/), if you don't find the desired logo, request it [here](https://github.com/simple-icons/simple-icons/issues/new?assignees=&labels=new+icon&template=icon_request.yml).
 
