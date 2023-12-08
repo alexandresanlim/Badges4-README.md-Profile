@@ -1010,7 +1010,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 | <img src="https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" />           | `https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white`           |
 
 <h2 align='center'>🔁 Dynamic </h2>
-Dynamic badges was moved to here: [Badges4-README.md-Profile-Dynamic](https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic)
+Dynamic badges was moved to here: https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic
 
 ## ✏ How To Contribute [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -1034,9 +1034,7 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 
 ## Creators [🔝](#welcome-badges-4-readmemd-profile)
 
-It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors). As usual, we update our top 3 contributors list on every month. But last month we didn't get any contributor. So for this month We're going to remove this section. We do respect & love our all contributors.
-
-**Note:** Every month the Contributors list will be updated by observing their contributions.
+It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors). We do respect & love our all contributors.
 
 |                                                                                                                                                    Author                                                                                                                                                     |                                                                                                                                     Collaborator                                                                                                                                      |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
