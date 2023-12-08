@@ -23,7 +23,7 @@
 ## How to use?
 
 1. Get a URL
-   - You can use ctr+f (Windows) ou cmd+f (mac) for find one
+   - You can use ctr+f (Windows) or cmd+f (mac) for find one
 2. Create a img tag `<img src="{BadgeURLHere}" />` or `![image]({BadgeURLHere})`
 
 ```
