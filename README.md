@@ -175,8 +175,7 @@
 | <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />                    | `https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white`                    |
 | <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />                   | `https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white`                   |
 | <img src="https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white" />                           | `https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white`                           |
-| <img src="https://img.shields.io/badge/Zulip-50ADFF?style=for-the-badge&logo=Zulip&logoColor=white" />
-| `https://img.shields.io/badge/Zulip-50ADFF?style=for-the-badge&logo=Zulip&logoColor=white`  | 
+| <img src="https://img.shields.io/badge/Zulip-50ADFF?style=for-the-badge&logo=Zulip&logoColor=white" />                       | `https://img.shields.io/badge/Zulip-50ADFF?style=for-the-badge&logo=Zulip&logoColor=white`       | 
 
 ## ☁ Cloud [🔝](#menu)
 
