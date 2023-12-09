@@ -37,55 +37,52 @@
 
 ## Menu
 
-- [Welcome](#menu)
-- [How to use](#how-to-use)
-- [Badges](#badges)
-
-  - [🧑🏼‍🏭 Static](#-static)
-    - [📊 Analytics](#-analytics-)
-    - [🤖 Artificial Intelligence](#-artificial-intelligence-)
-    - [🔗 Blockchain](#-blockchain-)
-    - [📝 Blog](#-blog-)
-    - [👥 Community](#-community-)
-    - [📱 Contact](#-contact-)
-    - [☁ Cloud](#-cloud-)
-    - [💲 Cryptocurrency](#-cryptocurrency-)
-    - [⚡ Database](#-database-)
-    - [🖍 Design](#-design-)
-    - [📚 Education](#-education-)
-    - [📦 ETL](#-etl-)
-    - [🍔 Food](#-food-)
-    - [🚀 Frameworks & Library](#-frameworks--library-)
-    - [❤ Funding](#-funding-)
-    - [🎮 Games](#-games-)
-    - [🤜 Group](#-group-)
-    - [👩‍💻 IDE](#-ide-)
-    - [🔌 IDE Plugin](#-ide-plugin-)
-    - [👩‍💻 Languages](#-languages-)
-    - [🧐 Linters](#-linters-)
-    - [🎡 Low Code Platforms](#-low-code-platforms-)
-    - [📱 Mobile Frameworks](#-mobile-frameworks-)
-    - [👨‍💻 Office](#-office-)
-    - [⚙️ ORM ](#orm)
-    - [💻 OS](#-os-)
-    - [💡 Prototyping Platforms](#-prototyping-platforms-)
-    - [🔒 Security Platforms](#-security-platforms-)
-    - [👨 Social](#-social-)
-    - [👩‍💻 Software Metrics & Analytics](#-software-metrics-and-analytics-)
-    - [🎶 Sound](#-sound-)
-    - [💻 Spatial software](#-spatial-software-)
-    - [🛒 Store](#-store-)
-    - [🎞 Streaming](#-streaming-)
-    - [💻 Terminal](#-terminal-)
-    - [💻 Virtualization](#-virtualization-)
-    - [🌐 Web Browsers](#-web-browsers-)
-    - [🥅 Work/Jobs](#-workjobs-)
-    - [⏱️ Workflow Platforms](#-workflow-platforms-)
-    - [💻 Workspace Spec](#-workspace-spec-)
-  - [🔁 Dynamic](#-dynamic)
-
-- [How To Contribute](#-how-to-contribute-)
-- [Creators](#creators-)
+- [How to use?](#how-to-use)
+- [Menu](#menu)
+- [📊 Analytics 🔝](#-analytics-)
+- [🤖 Artificial Intelligence 🔝](#-artificial-intelligence-)
+- [🔗 Blockchain 🔝](#-blockchain-)
+- [📝 Blog 🔝](#-blog-)
+- [👥 Community 🔝](#-community-)
+- [📱 Contact 🔝](#-contact-)
+- [☁ Cloud 🔝](#-cloud-)
+- [💲 Cryptocurrency 🔝](#-cryptocurrency-)
+- [⚡ Database 🔝](#-database-)
+- [🖍 Design 🔝](#-design-)
+- [📚 Education 🔝](#-education-)
+- [🌐 ETL 🔝](#-etl-)
+- [🍔 Food 🔝](#-food-)
+- [🚀 Frameworks \& Library 🔝](#-frameworks--library-)
+- [❤ Funding 🔝](#-funding-)
+- [🎮 Games 🔝](#-games-)
+- [🤜 Group 🔝](#-group-)
+- [👩‍💻 IDE 🔝](#-ide-)
+- [🔌 IDE Plugin 🔝](#-ide-plugin-)
+- [👩‍💻 Languages 🔝](#-languages-)
+- [🧐 Linters 🔝](#-linters-)
+- [🎡 Low Code Platforms 🔝](#-low-code-platforms-)
+- [📱 Mobile Frameworks 🔝](#-mobile-frameworks-)
+- [👨‍💻 Office 🔝](#-office-)
+- [⚙️ ORM 🔝](#️-orm-)
+- [💻 OS 🔝](#-os-)
+- [💡 Prototyping Platforms 🔝](#-prototyping-platforms-)
+- [🔒 Security Platforms 🔝](#-security-platforms-)
+- [👨 Social 🔝](#-social-)
+- [👩‍💻 Software Metrics and Analytics 🔝](#-software-metrics-and-analytics-)
+- [🎶 Sound 🔝](#-sound-)
+- [💻 Spatial software 🔝](#-spatial-software-)
+- [🛒 Store 🔝](#-store-)
+- [🎞 Streaming 🔝](#-streaming-)
+- [💻 Terminal 🔝](#-terminal-)
+- [💻 Virtualization 🔝](#-virtualization-)
+- [🌐 Web Browsers 🔝](#-web-browsers-)
+- [🥅 Work/Jobs 🔝](#-workjobs-)
+- [⏱️ Workflow Platforms 🔝](#️-workflow-platforms-)
+- [💻 Workspace Spec 🔝](#-workspace-spec-)
+- [🔁 Dynamic](#-dynamic)
+- [✏ How To Contribute 🔝](#-how-to-contribute-)
+- [Creators 🔝](#creators-)
+- [Thanks to all contributors ❤](#thanks-to-all-contributors-)
 
 <h2 align='center'>🧑🏼‍🏭 Static</h2>
 
@@ -168,6 +165,7 @@
 | <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />                 | `https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white`                 |
 | <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white` |
 | <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />               | `https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white`               |
+| <img src="https://img.shields.io/badge/Revolt.chat-ff4655?style=for-the-badge&logo=Revolt.chat&logoColor=white" />               | `https://img.shields.io/badge/Revolt.chat-ff4655?style=for-the-badge&logo=Revolt.chat&logoColor=white`  |
 | <img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" />               | `https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white`               |
 | <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />                   | `https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white`                   |
 | <img src="https://img.shields.io/badge/Tencent_QQ-EB1923?style=for-the-badge&logo=TencentQQ&logoColor=white" />                | `https://img.shields.io/badge/Tencent_QQ-EB1923?style=for-the-badge&logo=TencentQQ&logoColor=white`                |
@@ -177,6 +175,8 @@
 | <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />                    | `https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white`                    |
 | <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />                   | `https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white`                   |
 | <img src="https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white" />                           | `https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white`                           |
+| <img src="https://img.shields.io/badge/Zulip-50ADFF?style=for-the-badge&logo=Zulip&logoColor=white" />
+| `https://img.shields.io/badge/Zulip-50ADFF?style=for-the-badge&logo=Zulip&logoColor=white`  | 
 
 ## ☁ Cloud [🔝](#menu)
 
@@ -262,6 +262,7 @@
 | <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> | `https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white` |
 | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />                                   | `https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white`                                   |
 | <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">                             | `https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white`                                       |
+| <img src="https://img.shields.io/badge/Scylla%20DB-6CD5E7?style=for-the-badge&logo=scylladb&logoColor=000" />                | `https://img.shields.io/badge/Scylla%20DB-6CD5E7?style=for-the-badge&logo=scylladb&logoColor=000`  |
 | <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />                                     | `https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white`                                     |
 | <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" />                                       | `https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white`                                       |
 | <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />                                     | `https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white`                                     |
@@ -474,6 +475,7 @@
 | <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl"/>                                         | `https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl`                                        |
 | <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white" />          | `https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white`          |
 | <img src="https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=Packagist&logoColor=white"/>                   | `https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=Packagist&logoColor=white`                  |
+| <img src="https://img.shields.io/badge/Phoenix%20Framework-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=fff" />                  | `https://img.shields.io/badge/Phoenix%20Framework-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=fff`     |
 | <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white"/>                 | `https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white`                |
 | <img src="https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white"/>                             | `https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white`  |
 | <img src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white"/>                       | `https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white`                      |
@@ -824,6 +826,7 @@
 | <img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />                 | `https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white`                 |
 | <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />                 | `https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white`                 |
 | <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" />                | `https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white`                |
+| <img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white" />          |  `https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white`   |
 | <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" />           | `https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white`           |
 | <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>                | `https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white`               |
 | <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />                     | `https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white`                     |
