@@ -22,13 +22,15 @@
 
 ## How to use?
 
-1. Get a URL
+1. Get a URL:
    - You can use <kbd>Ctrl</kbd> <kbd>F</kbd> (Windows) or <kbd>⌘</kbd> <kbd>F</kbd> (mac) for find one
-2. Create a img tag `<img src="{BadgeURLHere}" />` or `![image]({BadgeURLHere})`
+     
+2. Create a image tag:
 
 ```
 <img src="{BadgeURLHere}" />
 ```
+or
 ```
 ![image]({BadgeURLHere})
 ```
