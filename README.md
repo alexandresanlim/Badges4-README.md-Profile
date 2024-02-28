@@ -1,9 +1,6 @@
 <h1 align='center'>
   Welcome! Badges 4 README.md Profile
 </h1>
-
-
-
 <p align='center'> 
   Improve your README.md profile with these amazing badges. See a sample <a href='https://github.com/alexandresanlim'>here</a> 
 </p>
