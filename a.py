@@ -1,2 +1,3 @@
 print("ok")
-print("dhbcej")
+print("0k")
+print("nsx")
