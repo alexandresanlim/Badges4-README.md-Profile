@@ -71,6 +71,7 @@ or
     - [⚙️ ORM ](#orm)
     - [💻 OS](#-os-)
     - [💡 Prototyping Platforms](#-prototyping-platforms-)
+    - [📅 Scheduling Automation Platforms](#-scheduling-automation-platforms-)
     - [🔒 Security Platforms](#-security-platforms-)
     - [👨 Social](#-social-)
     - [👩‍💻 Software Metrics & Analytics](#-software-metrics-and-analytics-)
@@ -829,6 +830,12 @@ or
 | <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />           | `https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white`           |
 | <img src="https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white" />           | `https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white`           |
 | <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" /> | `https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white` |
+
+## 📅 Scheduling Automation Platforms [🔝](#menu)
+
+| Badge                                                                                                                     | URL                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white" />              | `https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white`               |
 
 ## 🔒 Security Platforms [🔝](#menu)
 
