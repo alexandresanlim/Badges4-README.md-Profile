@@ -724,13 +724,12 @@ or
 
 | Badge                                                                                                            | URL                                                                                                  |
 |------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| <img src="https://img.shields.io/badge/biome-60a5fa?style=for-the-badge&logo=biome&logoColor=white" />           | `https://img.shields.io/badge/biome-60a5fa?style=for-the-badge&logo=biome&logoColor=white`           |
 | <img src="https://img.shields.io/badge/CodeMirror-D30707?style=for-the-badge&logo=CodeMirror&logoColor=white" /> | `https://img.shields.io/badge/CodeMirror-D30707?style=for-the-badge&logo=CodeMirror&logoColor=white` |
 | <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />         | `https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white`         |
 | <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />    | `https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E`    |
 | <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" />      | `https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white`      |
 | <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" />   | `https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white`   |
-| <img src="https://img.shields.io/badge/biome-60a5fa?style=for-the-badge&logo=biome&logoColor=white" />           | `https://img.shields.io/badge/biome-60a5fa?style=for-the-badge&logo=biome&logoColor=white`           |
-
 
 ## 🎡 Low Code Platforms [🔝](#menu)
 
