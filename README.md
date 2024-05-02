@@ -723,7 +723,8 @@ or
 ## 🧐 Linters [🔝](#menu)
 
 | Badge                                                                                                            | URL                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| <img src="https://img.shields.io/badge/biome-60a5fa?style=for-the-badge&logo=biome&logoColor=white" />           | `https://img.shields.io/badge/biome-60a5fa?style=for-the-badge&logo=biome&logoColor=white`           |
 | <img src="https://img.shields.io/badge/CodeMirror-D30707?style=for-the-badge&logo=CodeMirror&logoColor=white" /> | `https://img.shields.io/badge/CodeMirror-D30707?style=for-the-badge&logo=CodeMirror&logoColor=white` |
 | <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />         | `https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white`         |
 | <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />    | `https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E`    |
