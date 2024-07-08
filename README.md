@@ -73,6 +73,7 @@ or
     - [💡 Prototyping Platforms](#-prototyping-platforms-)
     - [📅 Scheduling Automation Platforms](#-scheduling-automation-platforms-)
     - [🔒 Security Platforms](#-security-platforms-)
+    - [🧰 Security Tools](#-security-tools)
     - [👨 Social](#-social-)
     - [👩‍💻 Software Metrics & Analytics](#-software-metrics-and-analytics-)
     - [🎶 Sound](#-sound-)
@@ -868,6 +869,17 @@ or
 | <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"/>    | `https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00`    |
 | <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/>                       | `https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white`                       |
 | <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/> | `https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white` |
+
+
+
+## 🔒 Security Tools [🔝](#menu)
+
+| Badge                                                                                                                     | URL                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/> | `https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white` |
+| <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/> | `https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white` |
+
+
 
 ## 👨 Social [🔝](#menu)
 
