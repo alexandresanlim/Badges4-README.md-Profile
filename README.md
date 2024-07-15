@@ -957,6 +957,7 @@ or
 | <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" />            | `https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000`            |
 | <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />                      | `https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white`                      |
 | <img src="https://img.shields.io/badge/Wolfram-DD1100?&style=for-the-badge&logo=Wolfram&logoColor=white" />                   | `https://img.shields.io/badge/Wolfram-DD1100?&style=for-the-badge&logo=Wolfram&logoColor=white`                   |
+| <img src="https://img.shields.io/badge/chronicle-4285F4?&style=for-the-badge&logo=googlechronicle&logoColor=white" />                   | `https://img.shields.io/badge/chronicle-4285F4?&style=for-the-badge&logo=googlechronicle&logoColor=white`                   |
 
 ## 🎶 Sound [🔝](#menu)
 
