@@ -73,7 +73,7 @@ or
     - [💡 Prototyping Platforms](#-prototyping-platforms-)
     - [📅 Scheduling Automation Platforms](#-scheduling-automation-platforms-)
     - [🔒 Security Platforms](#-security-platforms-)
-    - [🧰 Security Tools](#-security-tools)
+    - [🧰 Security Tools](#-security-tools-)
     - [👨 Social](#-social-)
     - [👩‍💻 Software Metrics & Analytics](#-software-metrics-and-analytics-)
     - [🎶 Sound](#-sound-)
@@ -304,9 +304,9 @@ or
 | <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>                | `https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black`               |
 | <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />     | `https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white`     |
 | <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />                           | `https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6`                           |
-| <img src="https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" />         | `https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white`         |
-| <img src="https://img.shields.io/badge/affinity%20photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white" />               | `https://img.shields.io/badge/affinity%20photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white`               |
-| <img src="https://img.shields.io/badge/affinity%20publisher-891B26.svg?style=for-the-badge&logo=affinity-publisher&logoColor=white" />         | `https://img.shields.io/badge/affinity%20publisher-891B26.svg?style=for-the-badge&logo=affinity-publisher&logoColor=white`         |
+| <img src="https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" />      | `https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white`      |
+| <img src="https://img.shields.io/badge/affinity%20photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white" />            | `https://img.shields.io/badge/affinity%20photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white`            |
+| <img src="https://img.shields.io/badge/affinity%20publisher-891B26.svg?style=for-the-badge&logo=affinity-publisher&logoColor=white" />       | `https://img.shields.io/badge/affinity%20publisher-891B26.svg?style=for-the-badge&logo=affinity-publisher&logoColor=white`       |
 | <img src="https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white" />               | `https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white`               |
 | <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />                                   | `https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white`                                   |
 | <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />                            | `https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white`                            |
@@ -873,16 +873,13 @@ or
 | <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/> | `https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white` |
 | <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/>             | `https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white`             |
 
-
-
 ## 🔒 Security Tools [🔝](#menu)
 
-| Badge                                                                                                                     | URL                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/> | `https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white` |
-| <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/> | `https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white` |
-
-
+| Badge                                                                                                           | URL                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/>   | `https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white`   |
+| <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>   | `https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white`   |
+| <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/> | `https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white` |
 
 ## 👨 Social [🔝](#menu)
 
@@ -960,7 +957,7 @@ or
 | <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" />            | `https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000`            |
 | <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />                      | `https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white`                      |
 | <img src="https://img.shields.io/badge/Wolfram-DD1100?&style=for-the-badge&logo=Wolfram&logoColor=white" />                   | `https://img.shields.io/badge/Wolfram-DD1100?&style=for-the-badge&logo=Wolfram&logoColor=white`                   |
-| <img src="https://img.shields.io/badge/chronicle-4285F4?&style=for-the-badge&logo=googlechronicle&logoColor=white" />                   | `https://img.shields.io/badge/chronicle-4285F4?&style=for-the-badge&logo=googlechronicle&logoColor=white`                   |
+| <img src="https://img.shields.io/badge/chronicle-4285F4?&style=for-the-badge&logo=googlechronicle&logoColor=white" />         | `https://img.shields.io/badge/chronicle-4285F4?&style=for-the-badge&logo=googlechronicle&logoColor=white`         |
 
 ## 🎶 Sound [🔝](#menu)
 
