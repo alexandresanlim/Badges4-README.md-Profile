@@ -575,6 +575,7 @@ or
 | <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />       | `https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white`       |
 | <img src="https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white" />                        | `https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white`                        |
 | <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />                           | `https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E`                           |
+| <img src="https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=%23fcd703" />                 | `https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=%23fcd703`                 |
 | <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />                   | `https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D`                   |
 | <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />                      | `https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white`                      |
 | <img src="https://img.shields.io/badge/Wails-DF0000?style=for-the-badge&logo=wails&logoColor=white" />                          | `https://img.shields.io/badge/Wails-DF0000?style=for-the-badge&logo=wails&logoColor=white`                          |
@@ -583,7 +584,7 @@ or
 | <img src="https://img.shields.io/badge/Wiki%20js-1976D2?style=for-the-badge&logo=Wikidotjs&logoColor=white" />                  | `https://img.shields.io/badge/Wiki%20js-1976D2?style=for-the-badge&logo=Wikidotjs&logoColor=white`                  |
 | <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />                          | `https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white`                          |
 | <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>                             | `https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white`                            |
-| <img src="https://img.shields.io/badge/Yii%20Framework-f3ffbd?style=for-the-badge&logo=yii&logoColor=40B3D8"/>                  | `https://img.shields.io/badge/Yii%20Framework-f3ffbd?style=for-the-badge&logo=yii&logoColor=40B3D8`                            |
+| <img src="https://img.shields.io/badge/Yii%20Framework-f3ffbd?style=for-the-badge&logo=yii&logoColor=40B3D8"/>                  | `https://img.shields.io/badge/Yii%20Framework-f3ffbd?style=for-the-badge&logo=yii&logoColor=40B3D8`                 |
 
 ## ❤ Funding [🔝](#menu)
 
