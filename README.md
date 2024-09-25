@@ -1043,6 +1043,7 @@ or
 | <img src="https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white">                             | `https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white`                             |
 | <img src="https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white">                       | `https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white`                       |
 | <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> | `https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white` |
+| <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white"> | `https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white` |
 
 ## 💻 Virtualization [🔝](#menu)
 
