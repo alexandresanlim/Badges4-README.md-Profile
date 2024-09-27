@@ -584,7 +584,7 @@ or
 | <img src="https://img.shields.io/badge/Wiki%20js-1976D2?style=for-the-badge&logo=Wikidotjs&logoColor=white" />                  | `https://img.shields.io/badge/Wiki%20js-1976D2?style=for-the-badge&logo=Wikidotjs&logoColor=white`                  |
 | <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />                          | `https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white`                          |
 | <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>                             | `https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white`                            |
-| <img src="https://img.shields.io/badge/Yii%20Framework-f3ffbd?style=for-the-badge&logo=yii&logoColor=40B3D8"/>                  | `https://img.shields.io/badge/Yii%20Framework-f3ffbd?style=for-the-badge&logo=yii&logoColor=40B3D8`                 |
+| <img src="https://img.shields.io/badge/Yii%20Framework-282828?style=for-the-badge&logo=yii&logoColor=40B3D8"/>                  | `https://img.shields.io/badge/Yii%20Framework-f3ffbd?style=for-the-badge&logo=yii&logoColor=40B3D8`                 |
 
 ## ❤ Funding [🔝](#menu)
 
