@@ -1061,6 +1061,7 @@ or
 
 | Badge                                                                                                                      | URL                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Arc-1638FB?style=for-the-badge&logo=Arc&logoColor=white"/> | `https://img.shields.io/badge/Arc-1638FB?style=for-the-badge&logo=Arc&logoColor=white `|
 | <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" />                     | `https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white`                     |
 | <img src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white">             | `https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white`           |
 | <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /> | `https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white` |
@@ -1071,7 +1072,7 @@ or
 | <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white" />                   | `https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white`                   |
 | <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />         | `https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white`         |
 | <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" />                 | `https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white`                 |
-| <img src="https://img.shields.io/badge/Arc-1638FB?style=for-the-badge&logo=Arc&logoColor=white"/> | `https://img.shields.io/badge/Arc-1638FB?style=for-the-badge&logo=Arc&logoColor=white `|
+
 
 ## 🥅 Work/Jobs [🔝](#menu)
 
