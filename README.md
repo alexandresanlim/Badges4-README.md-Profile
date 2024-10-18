@@ -336,6 +336,7 @@ or
 
 | Badge                                                                                                                                | URL                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://img.shields.io/badge/%20São%20Paulo-000000?style=for-the-badge&logo=42&logoColor=white" />                    | `https://img.shields.io/badge/%20São%20Paulo-000000?style=for-the-badge&logo=42&logoColor=white`                    |
 | <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" />                    | `https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347`                    |
 | <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" />                       | `https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white`                       |
 | <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" />              | `https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white`              |
