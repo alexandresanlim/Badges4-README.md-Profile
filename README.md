@@ -374,7 +374,7 @@ or
 | <img src="https://img.shields.io/badge/Udemy-A100FF?style=for-the-badge&logo=Udemy&logoColor=white" />                               | `https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white`                               |
 | <img src="https://img.shields.io/badge/unacademy-4287f5?style=for-the-badge&logo=unacademy&logoColor=02db9e" />                      | `https://img.shields.io/badge/academia-4287f5?style=for-the-badge&logo=academia&logoColor=02db9e`                        |
 | <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" />                       | `https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white`                       |
-
+| <img src="https://img.shields.io/badge/MonkeyType-323437?style=for-the-badge&logo=monkeytype&logoColor=e2b714" />                    | `https://img.shields.io/badge/MonkeyType-323437?style=for-the-badge&logo=monkeytype&logoColor=e2b714`                    |
 
 ## 🌐 ETL [🔝](#menu)
 
