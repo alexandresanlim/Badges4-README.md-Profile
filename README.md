@@ -14,6 +14,13 @@
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alexandresanlim/Badges4-README.md-Profile?style=for-the-badge">
 </a>&nbsp;&nbsp;
 </p>
+<br />
+
+<p align='center'>
+ <a href="https://github.com/alexandresanlim/chat-btc">
+    <img width=500 src="https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/sponsors/chat-btc.png?raw=true" />
+  </a>&nbsp;&nbsp;
+</p>
 
 <br />
 
