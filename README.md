@@ -288,6 +288,7 @@ or
 | <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" />                               | `https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white`                               |
 | <img src="https://img.shields.io/badge/CouchDB-EA2328?style=for-the-badge&logo=apache-couchdb&logoColor=white" />                            | `https://img.shields.io/badge/CouchDB-EA2328?style=for-the-badge&logo=apache-couchdb&logoColor=white`                            |
 | <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />                                   | `https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white`                                   |
+| <img src="https://img.shields.io/badge/Duckdb-000000?style=for-the-badge&logo=Duckdb&logoColor=yellow" />                                    | `https://img.shields.io/badge/Duckdb-000000?style=for-the-badge&logo=Duckdb&logoColor=yellow`                                    |
 | <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />                      | `https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white`                      |
 | <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" />                                 | `https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white`                                 |
 | <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />                                   | `https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white`                                   |
@@ -306,7 +307,7 @@ or
 | <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />                                 | `https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white`                                 |
 | <img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white" />                               | `https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white`                               |
 | <img src="https://img.shields.io/badge/TimescaleDB-003B77?style=for-the-badge&logo=timescale&logoColor=white" />                             | `https://img.shields.io/badge/TimescaleDB-003B77?style=for-the-badge&logo=timescale&logoColor=white`                             |
-| <img src="https://img.shields.io/badge/Duckdb-000000?style=for-the-badge&logo=Duckdb&logoColor=yellow" />                                    | `https://img.shields.io/badge/Duckdb-000000?style=for-the-badge&logo=Duckdb&logoColor=yellow`                                    |
+
 
 ## 🖍 Design [🔝](#menu)
 
