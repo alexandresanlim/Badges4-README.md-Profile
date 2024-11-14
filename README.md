@@ -340,6 +340,7 @@ or
 | <img src="https://img.shields.io/badge/semantic%20ui%20react-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white" />             | `https://img.shields.io/badge/semantic%20ui%20react-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white`             |
 | <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" />                                     | `https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black`                                     |
 | <img src="https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />                       | `https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white`                       |
+| <img src="https://img.shields.io/badge/tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white" />                       | `https://img.shields.io/badge/tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white`                       |
 | <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" />                                 | `https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white`                                 |
 
 ## 📚 Education [🔝](#menu)
@@ -1003,6 +1004,7 @@ or
 | <img src="https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white" /> | `https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white` |
 | <img src="https://img.shields.io/badge/iheart-A80025?style=for-the-badge&logo=iheartradio&logoColor=white" />              | `https://img.shields.io/badge/iheart-A80025?style=for-the-badge&logo=iheartradio&logoColor=white`              |
 | <img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" />                 | `https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white`                 |
+| <img src="https://img.shields.io/badge/MuseScore-1A70B8?style=for-the-badge&logo=MuseScore&logoColor=white" />                 | `https://img.shields.io/badge/MuseScore-1A70B8?style=for-the-badge&logo=MuseScore&logoColor=white`                 |
 | <img src="https://img.shields.io/badge/Pandora-3668FF?style=for-the-badge&logo=pandora&logoColor=A15BB4" />                | `https://img.shields.io/badge/Pandora-3668FF?style=for-the-badge&logo=pandora&logoColor=A15BB4`                |
 | <img src="https://img.shields.io/badge/Shazam-0088FF?style=for-the-badge&logo=Shazam&logoColor=white" />                   | `https://img.shields.io/badge/Shazam-0088FF?style=for-the-badge&logo=Shazam&logoColor=white`                   |
 | <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />           | `https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white`           |
