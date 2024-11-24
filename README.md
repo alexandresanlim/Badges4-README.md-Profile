@@ -16,13 +16,6 @@
 </p>
 <br />
 
-<p align='center'>
- <a href="https://github.com/alexandresanlim/chat-btc">
-    <img width=400 src="https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/sponsors/chat-btc.png?raw=true" />
-  </a>&nbsp;&nbsp;
-</p>
-
-<br />
 
 ## How to use?
 
