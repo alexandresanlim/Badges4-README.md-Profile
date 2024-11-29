@@ -7,12 +7,9 @@
 </p>
 
 <p align='center'>
- <a href="https://github.com/sponsors/alexandresanlim">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
-  </a>&nbsp;&nbsp;
-  <a href="#">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alexandresanlim/Badges4-README.md-Profile?style=for-the-badge">
-</a>&nbsp;&nbsp;
+  <a href="https://github.com/sponsors/alexandresanlim"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
+  &nbsp;
+  <a href="#"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alexandresanlim/Badges4-README.md-Profile?style=for-the-badge" /></a>
 </p>
 <br />
 
