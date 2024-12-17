@@ -663,7 +663,7 @@ or
 
 | Badge                                                                                                                      | URL                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/immich-black?logo=immich&logoColor=fa2921&style=flat-square&labelColor=ffb400&color=ffb400" />                 | `https://img.shields.io/badge/immich-black?logo=immich&logoColor=fa2921&style=flat-square&labelColor=ffb400&color=ffb400`                 |
+| <img src="https://img.shields.io/badge/immich-black?logo=immich&logoColor=fa2921&style=for-the-badge&labelColor=ffb400&color=ffb400" />                 | `https://img.shields.io/badge/immich-black?logo=immich&logoColor=fa2921&style=for-the-badge&labelColor=ffb400&color=ffb400`                 |
 
 ## 👩‍💻 IDE [🔝](#menu)
 
