@@ -58,6 +58,7 @@ or
     - [❤ Funding](#-funding-)
     - [🎮 Games](#-games-)
     - [🤜 Group](#-group-)
+    - [🏠 HomeLab](#-homelab-)
     - [👩‍💻 IDE](#-ide-)
     - [🔌 IDE Plugin](#-ide-plugin-)
     - [👩‍💻 Languages](#-languages-)
@@ -658,6 +659,12 @@ or
 | <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" />                     | `https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white`                     |
 | <img src="https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white" />             | `https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white`             |
 | <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />                       | `https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white`                       |
+
+## 🏠 HomeLab [🔝](#menu)
+
+| Badge                                                                                                                      | URL                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/immich-black?logo=immich&logoColor=fa2921&style=for-the-badge&labelColor=ffb400&color=ffb400" />                 | `https://img.shields.io/badge/immich-black?logo=immich&logoColor=fa2921&style=for-the-badge&labelColor=ffb400&color=ffb400`                 |
 
 ## 👩‍💻 IDE [🔝](#menu)
 
