@@ -665,9 +665,10 @@ or
 
 ## 🏠 HomeLab [🔝](#menu)
 
-| Badge                                                                                                                      | URL                                                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/immich-black?logo=immich&logoColor=fa2921&style=for-the-badge&labelColor=ffb400&color=ffb400" />                 | `https://img.shields.io/badge/immich-black?logo=immich&logoColor=fa2921&style=for-the-badge&labelColor=ffb400&color=ffb400`                 |
+| Badge                                                                                                                                   | URL                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/rustdesk-024EFF?style=for-the-badge&logo=rustdesk&logoColor=white" />                            | `https://img.shields.io/badge/rustdesk-024EFF?style=for-the-badge&logo=rustdesk&logoColor=white`                            |
+| <img src="https://img.shields.io/badge/immich-black?logo=immich&logoColor=fa2921&style=for-the-badge&labelColor=ffb400&color=ffb400" /> | `https://img.shields.io/badge/immich-black?logo=immich&logoColor=fa2921&style=for-the-badge&labelColor=ffb400&color=ffb400` |
 
 ## 👩‍💻 IDE [🔝](#menu)
 
