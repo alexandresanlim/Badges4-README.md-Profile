@@ -943,17 +943,18 @@ or
 
 ## 🔒 Security Platforms [🔝](#menu)
 
-| Badge                                                                                                                     | URL                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white"/>             | `https://img.shields.io/badge/bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white`             |
-| <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/>               | `https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white`               |
-| <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>                     | `https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white`                     |
-| <img src="https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white"/>             | `https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white`             |
-| <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"/>    | `https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00`    |
-| <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/>                       | `https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white`                       |
-| <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/> | `https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white` |
-| <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/>             | `https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white`             |
-| <img src="https://img.shields.io/badge/vaultwarden-000000?style=for-the-badge&logo=vaultwarden&logoColor=white"/>         | `https://img.shields.io/badge/vaultwarden-000000?style=for-the-badge&logo=vaultwarden&logoColor=white`         |
+| Badge                                                                                                                         | URL                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://img.shields.io/badge/bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white"/>                 | `https://img.shields.io/badge/bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white`                 |
+| <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/>                   | `https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white`                   |
+| <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>                         | `https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white`                         |
+| <img src="https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white"/>                 | `https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white`                 |
+| <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"/>        | `https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00`        |
+| <img src="https://img.shields.io/badge/nginxproxymanager-F15833?style=for-the-badge&logo=nginxproxymanager&logoColor=white"/> | `https://img.shields.io/badge/nginxproxymanager-F15833?style=for-the-badge&logo=nginxproxymanager&logoColor=white` |
+| <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/>                           | `https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white`                           |
+| <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>     | `https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white`     |
+| <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/>                 | `https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white`                 |
+| <img src="https://img.shields.io/badge/vaultwarden-000000?style=for-the-badge&logo=vaultwarden&logoColor=white"/>             | `https://img.shields.io/badge/vaultwarden-000000?style=for-the-badge&logo=vaultwarden&logoColor=white`             |
 
 ## 🔒 Security Tools [🔝](#menu)
 
