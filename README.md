@@ -63,6 +63,7 @@ or
     - [🔌 IDE Plugin](#-ide-plugin-)
     - [👩‍💻 Languages](#-languages-)
     - [🧐 Linters](#-linters-)
+    - [📜 Licenses](#-licenses-)
     - [🎡 Low Code Platforms](#-low-code-platforms-)
     - [📱 Mobile Frameworks](#-mobile-frameworks-)
     - [👨‍💻 Office](#-office-)
@@ -445,7 +446,6 @@ or
 | <img src="https://img.shields.io/badge/contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white">                  | `https://img.shields.io/badge/contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white`                |
 | <img src="https://img.shields.io/badge/d3%20js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />                        | `https://img.shields.io/badge/d3%20js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white`                        |
 | <img src="https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white" />                      | `https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white`                      |
-| <img src="https://img.shields.io/badge/daphne-092E20?style=for-the-badge&logo=django&logoColor=green" />                        | `https://img.shields.io/badge/daphne-092E20?style=for-the-badge&logo=django&logoColor=green`                        |
 | <img src="https://img.shields.io/badge/Deno-464647?style=for-the-badge&logo=deno&logoColor=white" />                            | `https://img.shields.io/badge/Deno-464647?style=for-the-badge&logo=deno&logoColor=white`                            |
 | <img src="https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=464647" />                            | `https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=464647`                            |
 | <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>                         | `https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white`                        |
@@ -524,6 +524,7 @@ or
 | <img src="https://img.shields.io/badge/Phoenix%20Framework-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=fff" />   | `https://img.shields.io/badge/Phoenix%20Framework-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=fff`   |
 | <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white"/>                 | `https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white`                |
 | <img src="https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white"/>                             | `https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white`                            |
+| <img src="https://img.shields.io/badge/podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>                         | `https://img.shields.io/badge/podman-892CA0?style=for-the-badge&logo=podman&logoColor=white`
 | <img src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white"/>                       | `https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white`                      |
 | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>                       | `https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white`                      |
 | <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>                    | `https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white`                   |
@@ -781,6 +782,44 @@ or
 | <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" />      | `https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white`      |
 | <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" />   | `https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white`   |
 | <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7" />              | `https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7`              |
+
+## 📜 Licenses [🔝](#menu)
+
+| Badge                                                                                                         | URL                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/0BSD-green?style=for-the-badge" />                                     | `https://img.shields.io/badge/0BSD-green?style=for-the-badge`                                       |
+| <img src="https://img.shields.io/badge/AGPL--3.0-red?style=for-the-badge" />                                  | `https://img.shields.io/badge/AGPL--3.0-red?style=for-the-badge`                                    |
+| <img src="https://img.shields.io/badge/AFL--3.0-yellow?style=for-the-badge" />                                | `https://img.shields.io/badge/AFL--3.0-yellow?style=for-the-badge`                                  |
+| <img src="https://img.shields.io/badge/Apache--2.0-green?style=for-the-badge" />                              | `https://img.shields.io/badge/Apache--2.0-green?style=for-the-badge`                                |
+| <img src="https://img.shields.io/badge/Artistic--2.0-blue?style=for-the-badge" />                             | `https://img.shields.io/badge/Artistic--2.0-blue?style=for-the-badge`                               |
+| <img src="https://img.shields.io/badge/BSL--1.0-green?style=for-the-badge" />                                 | `https://img.shields.io/badge/BSL--1.0-green?style=for-the-badge`                                   |
+| <img src="https://img.shields.io/badge/BSD--2--Clause-green?style=for-the-badge" />                           | `https://img.shields.io/badge/BSD--2--Clause-green?style=for-the-badge`                             |
+| <img src="https://img.shields.io/badge/BSD--3--Clause-green?style=for-the-badge" />                           | `https://img.shields.io/badge/BSD--3--Clause-green?style=for-the-badge`                             |
+| <img src="https://img.shields.io/badge/BSD--3--Clause--Clear-green?style=for-the-badge" />                    | `https://img.shields.io/badge/BSD--3--Clause--Clear-green?style=for-the-badge`                      |
+| <img src="https://img.shields.io/badge/BSD--4--Clause-green?style=for-the-badge" />                           | `https://img.shields.io/badge/BSD--4--Clause-green?style=for-the-badge`                             |
+| <img src="https://img.shields.io/badge/CC--BY--4.0-lightgrey?style=for-the-badge" />                          | `https://img.shields.io/badge/CC--BY--4.0-lightgrey?style=for-the-badge`                            |
+| <img src="https://img.shields.io/badge/CC--BY--SA--4.0-lightgrey?style=for-the-badge" />                      | `https://img.shields.io/badge/CC--BY--SA--4.0-lightgrey?style=for-the-badge`                        |
+| <img src="https://img.shields.io/badge/CC0--1.0-lightgrey?style=for-the-badge" />                             | `https://img.shields.io/badge/CC0--1.0-lightgrey?style=for-the-badge`                               |
+| <img src="https://img.shields.io/badge/ECL--2.0-yellow?style=for-the-badge" />                                | `https://img.shields.io/badge/ECL--2.0-yellow?style=for-the-badge`                                  |
+| <img src="https://img.shields.io/badge/EPL--1.0-blue?style=for-the-badge" />                                  | `https://img.shields.io/badge/EPL--1.0-blue?style=for-the-badge`                                    |
+| <img src="https://img.shields.io/badge/EPL--2.0-blue?style=for-the-badge" />                                  | `https://img.shields.io/badge/EPL--2.0-blue?style=for-the-badge`                                    |
+| <img src="https://img.shields.io/badge/EUPL--1.1-yellow?style=for-the-badge" />                               | `https://img.shields.io/badge/EUPL--1.1-yellow?style=for-the-badge`                                 |
+| <img src="https://img.shields.io/badge/GPL--2.0-red?style=for-the-badge" />                                   | `https://img.shields.io/badge/GPL--2.0-red?style=for-the-badge`                                     |
+| <img src="https://img.shields.io/badge/GPL--3.0-red?style=for-the-badge" />                                   | `https://img.shields.io/badge/GPL--3.0-red?style=for-the-badge`                                     |
+| <img src="https://img.shields.io/badge/ISC-green?style=for-the-badge" />                                      | `https://img.shields.io/badge/ISC-green?style=for-the-badge`                                        |
+| <img src="https://img.shields.io/badge/LGPL--2.1-red?style=for-the-badge" />                                  | `https://img.shields.io/badge/LGPL--2.1-red?style=for-the-badge`                                    |
+| <img src="https://img.shields.io/badge/LGPL--3.0-red?style=for-the-badge" />                                  | `https://img.shields.io/badge/LGPL--3.0-red?style=for-the-badge`                                    |
+| <img src="https://img.shields.io/badge/LPPL--1.3c-blue?style=for-the-badge" />                                | `https://img.shields.io/badge/LPPL--1.3c-blue?style=for-the-badge`                                  |
+| <img src="https://img.shields.io/badge/MIT-green?style=for-the-badge" />                                      | `https://img.shields.io/badge/MIT-green?style=for-the-badge`                                        |
+| <img src="https://img.shields.io/badge/MPL--2.0-blue?style=for-the-badge" />                                  | `https://img.shields.io/badge/MPL--2.0-blue?style=for-the-badge`                                    |
+| <img src="https://img.shields.io/badge/MS--PL-blue?style=for-the-badge" />                                    | `https://img.shields.io/badge/MS--PL-blue?style=for-the-badge`                                      |
+| <img src="https://img.shields.io/badge/NCSA-yellow?style=for-the-badge" />                                    | `https://img.shields.io/badge/NCSA-yellow?style=for-the-badge`                                      |
+| <img src="https://img.shields.io/badge/OFL--1.1-blue?style=for-the-badge" />                                  | `https://img.shields.io/badge/OFL--1.1-blue?style=for-the-badge`                                    |
+| <img src="https://img.shields.io/badge/OSL--3.0-yellow?style=for-the-badge" />                                | `https://img.shields.io/badge/OSL--3.0-yellow?style=for-the-badge`                                  |
+| <img src="https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge" />                               | `https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge`                                 |
+| <img src="https://img.shields.io/badge/Unlicense-green?style=for-the-badge&logo=unlicense&logoColor=white" /> | `https://img.shields.io/badge/Unlicense-green?style=for-the-badge&logo=unlicense&logoColor=white`   |
+| <img src="https://img.shields.io/badge/WTFPL-lightgrey?style=for-the-badge" />                                | `https://img.shields.io/badge/WTFPL-lightgrey?style=for-the-badge`                                  |
+| <img src="https://img.shields.io/badge/Zlib-green?style=for-the-badge" />                                     | `https://img.shields.io/badge/Zlib-green?style=for-the-badge`                                       |
 
 ## 🎡 Low Code Platforms [🔝](#menu)
 
