@@ -912,6 +912,7 @@ or
 | <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/>                       | `https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white`                       |
 | <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/> | `https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white` |
 | <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/>             | `https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white`             |
+| <img src="https://img.shields.io/badge/vaultwarden-000000?style=for-the-badge&logo=vaultwarden&logoColor=white"/>         | `https://img.shields.io/badge/vaultwarden-000000?style=for-the-badge&logo=vaultwarden&logoColor=white`         |
 
 ## 🔒 Security Tools [🔝](#menu)
 
