@@ -650,7 +650,6 @@ or
 | <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" />                             | `https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white`                             |
 | <img src="https://img.shields.io/badge/WeGame-FAAB00?style=for-the-badge&logo=wegame&logoColor=white" />                                 | `https://img.shields.io/badge/WeGame-FAAB00?style=for-the-badge&logo=WeGame&logoColor=white`                                 |
 | <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />                                     | `https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white`                                     |
-| <img src="https://img.shields.io/badge/curseforge-F16436?style=for-the-badge&logo=curseforge&logoColor=white" />                         | `https://img.shields.io/badge/curseforge-F16436?style=for-the-badge&logo=curseforge&logoColor=white`                         |
 
 
 ## 🤜 Group [🔝](#menu)
