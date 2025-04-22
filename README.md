@@ -348,6 +348,7 @@ or
 | <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" />                       | `https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white`                       |
 | <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" />              | `https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white`              |
 | <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />                         | `https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white`                         |
+| <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />                             | `https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white`                             |
 | <img src="https://img.shields.io/badge/Crowdsource-4285F4?style=for-the-badge&logo=Crowdsource&logoColor=white" />                   | `https://img.shields.io/badge/Crowdsource-4285F4?style=for-the-badge&logo=Crowdsource&logoColor=white`                   |
 | <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" />                        | `https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F`                        |
 | <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" />                         | `https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white`                         |
@@ -372,7 +373,6 @@ or
 | <img src="https://img.shields.io/badge/Udemy-A100FF?style=for-the-badge&logo=Udemy&logoColor=white" />                               | `https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white`                               |
 | <img src="https://img.shields.io/badge/unacademy-4287f5?style=for-the-badge&logo=unacademy&logoColor=02db9e" />                      | `https://img.shields.io/badge/academia-4287f5?style=for-the-badge&logo=academia&logoColor=02db9e`                        |
 | <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" />                       | `https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white`                       |
-| <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />                             | `https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white`                             |
 
 
 ## 🌐 ETL [🔝](#menu)
