@@ -1072,6 +1072,7 @@ or
 
 | Badge                                                                                                               | URL                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?&style=for-the-badge&logo=arcgis&logoColor=fff">               | `https://img.shields.io/badge/ArcGIS-2C7AC3?&style=for-the-badge&logo=arcgis&logoColor=fff`    |
 | <img src="https://img.shields.io/badge/qgis-3.28_firenze-93b023?&style=for-the-badge&logo=qgis&logoColor=white">    | `https://img.shields.io/badge/qgis-3.28_firenze-93b023?&style=for-the-badge&logo=qgis&logoColor=white`    |
 | <img src="https://img.shields.io/badge/qgis-3.22_białowieża-93b023?&style=for-the-badge&logo=qgis&logoColor=white"> | `https://img.shields.io/badge/qgis-3.22_białowieża-93b023?&style=for-the-badge&logo=qgis&logoColor=white` |
 
