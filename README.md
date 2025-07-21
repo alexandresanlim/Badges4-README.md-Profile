@@ -174,6 +174,7 @@ or
 
 | Badge                                                                                                                          | URL                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> | `https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white` |
 | <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />                         | `https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white`                         |
 | <img src="https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU Privacy Guard&logoColor=0093DD">      | `https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU Privacy Guard&logoColor=0093DD`    |
 | <img src="https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white" />                     | `https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white`                     |
