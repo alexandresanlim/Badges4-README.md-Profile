@@ -5,7 +5,7 @@
 </p>
 
 <p align='center'>
-Please, consider <a href="https://github.com/sponsors/alexandresanlim">sponsor us</a> ❤️
+Please, consider <a href="https://github.com/sponsors/alexandresanlim">sponsor this project</a> ❤️
 </p>
 
 <h1 align='center'>
