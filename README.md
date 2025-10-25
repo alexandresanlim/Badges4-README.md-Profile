@@ -23,6 +23,7 @@ Please, consider <a href="https://github.com/sponsors/alexandresanlim">sponsor t
 </p>
 <br />
 
+See also <a href='https://github.com/alexandresanlim/NEWS.md'>NEWS.md</a>
 
 ## How to use?
 
