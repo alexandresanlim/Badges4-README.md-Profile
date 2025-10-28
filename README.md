@@ -854,6 +854,7 @@ or
 | Badge                                                                                                    | URL                                                                                          |
 | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | <img src="https://img.shields.io/badge/Appian-2322F0?style=for-the-badge&logo=Appian&logoColor=white" /> | `https://img.shields.io/badge/Appian-2322F0?style=for-the-badge&logo=Appian&logoColor=white` |
+| <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto" />       | `https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto`       |
 
 ## 📱 Mobile Frameworks [🔝](#menu)
 
