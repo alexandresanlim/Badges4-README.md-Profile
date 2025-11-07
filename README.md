@@ -694,6 +694,7 @@ or
 | <img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=Home%20Assistant&logoColor=white" />                            | `https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=Home%20Assistant&logoColor=white`                            |
 | <img src="https://img.shields.io/badge/immich-black?logo=immich&logoColor=fa2921&style=for-the-badge&labelColor=ffb400&color=ffb400" /> | `https://img.shields.io/badge/immich-black?logo=immich&logoColor=fa2921&style=for-the-badge&labelColor=ffb400&color=ffb400` |
 | <img src="https://img.shields.io/badge/rustdesk-024EFF?style=for-the-badge&logo=rustdesk&logoColor=white" />                            | `https://img.shields.io/badge/rustdesk-024EFF?style=for-the-badge&logo=rustdesk&logoColor=white`                            |
+| <img src="https://img.shields.io/badge/esphome-white?style=for-the-badge&logo=esphome&logoColor=black&logoSize=auto" />                 | `https://img.shields.io/badge/esphome-white?style=for-the-badge&logo=esphome&logoColor=black&logoSize=auto`                 |
 
 ## 👩‍💻 IDE [🔝](#menu)
 
