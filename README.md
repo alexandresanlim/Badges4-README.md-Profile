@@ -652,6 +652,9 @@ or
 | <img src="https://img.shields.io/badge/samsung%20pay-1D49C0?style=for-the-badge&logo=samsung%20pay&logoColor=white" />     | `https://img.shields.io/badge/samsung%20pay-1D49C0?style=for-the-badge&logo=samsung%20pay&logoColor=white`     |
 | <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        | `https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white`        |
 | <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/>                    | `https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white`                   |
+| <img src="https://img.shields.io/badge/Sparkle-✨-blue?style=for-the-badge" />                                            | `https://img.shields.io/badge/Sparkle-✨-blue?style=for-the-badge` 
+                                  |
+
 
 ## 🎮 Games [🔝](#menu)
 
