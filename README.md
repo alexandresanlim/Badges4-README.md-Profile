@@ -25,15 +25,17 @@ Please, consider <a href="https://github.com/sponsors/alexandresanlim">sponsor t
 </p>
 <br />
 
-<p align='center'>
+
  
-### Current sponsors
+## Current sponsors
+
+Thank you for support this work
 
 |[@Ola157](https://github.com/Ola157) |                                                                    
 | :----: |
 |<img src="https://github.com/Ola157.png?size=115" width=115> | 
 
-</p>
+
 
 ## How to use?
 
