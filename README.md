@@ -8,6 +8,8 @@
 Please, consider <a href="https://github.com/sponsors/alexandresanlim">sponsor this project</a> ❤️
 </p>
 
+
+
 <h1 align='center'>
   Welcome! Badges 4 README.md Profile
 </h1>
@@ -23,7 +25,15 @@ Please, consider <a href="https://github.com/sponsors/alexandresanlim">sponsor t
 </p>
 <br />
 
-See also <a href='https://github.com/alexandresanlim/NEWS.md'>NEWS.md</a>
+<p align='center'>
+ 
+### Current sponsors
+
+|[@Ola157](https://github.com/Ola157) |                                                                    
+| :----: |
+|<img src="https://github.com/Ola157.png?size=115" width=115> | 
+
+</p>
 
 ## How to use?
 
