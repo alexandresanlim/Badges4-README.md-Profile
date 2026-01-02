@@ -29,7 +29,7 @@ Please, consider <a href="https://github.com/sponsors/alexandresanlim">sponsor t
  
 ## Current sponsors
 
-Thank you for support this work
+Thank you for support this work. Become a sponsor <a href="https://github.com/sponsors/alexandresanlim">here</a> too.
 
 |[@Ola157](https://github.com/Ola157) |                                                                    
 | :----: |
