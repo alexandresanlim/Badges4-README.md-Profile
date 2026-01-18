@@ -366,6 +366,11 @@ or
 | <img src="https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />                       | `https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white`                       |
 | <img src="https://img.shields.io/badge/tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white" />                       | `https://img.shields.io/badge/tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white`                       |
 | <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" />                                 | `https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white`                                 |
+| <img src="https://img.shields.io/badge/Star-⭐-yellow?style=for-the-badge" />                                                                | `https://img.shields.io/badge/Star-⭐-yellow?style=for-the-badge`
+      |
+      
+
+
 
 ## 📚 Education [🔝](#menu)
 
@@ -659,6 +664,9 @@ or
 | <img src="https://img.shields.io/badge/samsung%20pay-1D49C0?style=for-the-badge&logo=samsung%20pay&logoColor=white" />     | `https://img.shields.io/badge/samsung%20pay-1D49C0?style=for-the-badge&logo=samsung%20pay&logoColor=white`     |
 | <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        | `https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white`        |
 | <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/>                    | `https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white`                   |
+| <img src="https://img.shields.io/badge/Sparkle-✨-blue?style=for-the-badge" />                                            | `https://img.shields.io/badge/Sparkle-✨-blue?style=for-the-badge` 
+                                  |
+
 
 ## 🎮 Games [🔝](#menu)
 
