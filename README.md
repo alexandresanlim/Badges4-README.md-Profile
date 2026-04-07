@@ -43,7 +43,7 @@ Thank you for support this work. Become a sponsor <a href="https://github.com/sp
 
    - You can use <kbd>Ctrl</kbd> <kbd>F</kbd> (Windows) or <kbd>⌘</kbd> <kbd>F</kbd> (mac) for find one
 
-2. Create a image tag:
+2. Create an image tag:
 
 ```
 <img src="{BadgeURLHere}" />
