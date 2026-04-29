@@ -63,7 +63,8 @@ or
 - [How to use](#how-to-use)
 - [Badges](#badges)
 
-  - [🧑🏼‍🏭 Static](#-static)
+  - [🧑🏼‍🏭 Static](#-static
+    - [🎓 Academic & Research](#-academic--research-)
     - [📊 Analytics](#-analytics-)
     - [🤖 Artificial Intelligence](#-artificial-intelligence-)
     - [🔗 Blockchain](#-blockchain-)
@@ -114,6 +115,28 @@ or
 - [Creators](#creators-)
 
 <h2 align='center'>🧑🏼‍🏭 Static</h2>
+
+## 🎓 Academic & Research [🔝](#menu)
+
+| Badge | URL |
+| ----- | --- |
+| <img src="https://img.shields.io/badge/Academia-41454A?style=for-the-badge&logo=academia&logoColor=white" /> | `https://img.shields.io/badge/Academia-41454A?style=for-the-badge&logo=academia&logoColor=white` |
+| <img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" /> | `https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white` |
+| <img src="https://img.shields.io/badge/DOI-0085CA?style=for-the-badge&logo=doi&logoColor=white" /> | `https://img.shields.io/badge/DOI-0085CA?style=for-the-badge&logo=doi&logoColor=white` |
+| <img src="https://img.shields.io/badge/Elsevier-FF6C00?style=for-the-badge&logo=elsevier&logoColor=white" /> | `https://img.shields.io/badge/Elsevier-FF6C00?style=for-the-badge&logo=elsevier&logoColor=white` |
+| <img src="https://img.shields.io/badge/figshare-556472?style=for-the-badge&logo=figshare&logoColor=white" /> | `https://img.shields.io/badge/figshare-556472?style=for-the-badge&logo=figshare&logoColor=white` |
+| <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /> | `https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white` |
+| <img src="https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=mendeley&logoColor=white" /> | `https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=mendeley&logoColor=white` |
+| <img src="https://img.shields.io/badge/Open%20Access-F68212?style=for-the-badge&logo=openaccess&logoColor=white" /> | `https://img.shields.io/badge/Open%20Access-F68212?style=for-the-badge&logo=openaccess&logoColor=white` |
+| <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /> | `https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white` |
+| <img src="https://img.shields.io/badge/OSF-2CB9F1?style=for-the-badge&logo=osf&logoColor=white" /> | `https://img.shields.io/badge/OSF-2CB9F1?style=for-the-badge&logo=osf&logoColor=white` |
+| <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" /> | `https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white` |
+| <img src="https://img.shields.io/badge/PubMed-326599?style=for-the-badge&logo=pubmed&logoColor=white" /> | `https://img.shields.io/badge/PubMed-326599?style=for-the-badge&logo=pubmed&logoColor=white` |
+| <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /> | `https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white` |
+| <img src="https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge&logo=scopus&logoColor=white" /> | `https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge&logo=scopus&logoColor=white` |
+| <img src="https://img.shields.io/badge/Semantic%20Scholar-1857B6?style=for-the-badge&logo=semanticscholar&logoColor=white" /> | `https://img.shields.io/badge/Semantic%20Scholar-1857B6?style=for-the-badge&logo=semanticscholar&logoColor=white` |
+| <img src="https://img.shields.io/badge/Zenodo-1682D4?style=for-the-badge&logo=zenodo&logoColor=white" /> | `https://img.shields.io/badge/Zenodo-1682D4?style=for-the-badge&logo=zenodo&logoColor=white` |
+| <img src="https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white" /> | `https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white` |
 
 ## 📊 Analytics [🔝](#menu)
 
