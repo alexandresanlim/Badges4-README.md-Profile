@@ -63,7 +63,7 @@ or
 - [How to use](#how-to-use)
 - [Badges](#badges)
 
-  - [🧑🏼‍🏭 Static](#-static
+  - [🧑🏼‍🏭 Static](#-static)
     - [🎓 Academic & Research](#-academic--research-)
     - [📊 Analytics](#-analytics-)
     - [🤖 Artificial Intelligence](#-artificial-intelligence-)
