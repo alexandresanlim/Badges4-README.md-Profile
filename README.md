@@ -27,13 +27,23 @@ Please, consider <a href="https://github.com/sponsors/alexandresanlim">sponsor t
 
 
  
-## Current sponsors
+## Sponsors
 
 Thank you for supporting this work. Become a sponsor <a href="https://github.com/sponsors/alexandresanlim">here</a> too.
 
-|[@Ola157](https://github.com/Ola157) |                                                                    
-| :----: |
-|<img src="https://github.com/Ola157.png?size=115" width=115> | 
+### 👑 Current
+
+**None 😞. Put you or your company here.**
+
+### 🔙 Last 5
+
+|[@Ola157](https://github.com/Ola157) | [@joviprata](https://github.com/joviprata) | [@Sang-Buster](https://github.com/Sang-Buster) | [@waynemaranga](https://github.com/waynemaranga) | [@balazshevesi](https://github.com/balazshevesi) |                                                                   
+| :----: | :----: | :----: | :----: | :----: |
+|<img src="https://github.com/Ola157.png?size=64" width=64> | <img src="https://github.com/joviprata.png?size=64" width=64> | <img src="https://github.com/Sang-Buster.png?size=64" width=64> | <img src="https://github.com/waynemaranga.png?size=64" width=64> | <img src="https://github.com/balazshevesi.png?size=64" width=64> |
+
+
+
+
 
 
 
