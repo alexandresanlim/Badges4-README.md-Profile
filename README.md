@@ -100,6 +100,7 @@ or
     - [📜 Licenses](#-licenses-)
     - [🎡 Low Code Platforms](#-low-code-platforms-)
     - [📱 Mobile Frameworks](#-mobile-frameworks-)
+    - [🎡 Network Storage](#-network-storage-)
     - [👨‍💻 Office](#-office-)
     - [⚙️ ORM ](#orm)
     - [💻 OS](#-os-)
@@ -809,6 +810,7 @@ or
 | Badge                                                                                                                 | URL                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | <img src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000" /> | `https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000` |
+| <img src="https://img.shields.io/badge/doxygen-2C4AA8?style=for-the-badge&logo=doxygen&logoColor=white" /> | `https://img.shields.io/badge/doxygen-2C4AA8?style=for-the-badge&logo=doxygen&logoColor=white` |
 
 ## 👩‍💻 Languages [🔝](#menu)
 
@@ -939,6 +941,16 @@ or
 | <img src="https://img.shields.io/badge/Sencha-044059?style=for-the-badge&logo=sencha&logoColor=#95C93D" />                      | `https://img.shields.io/badge/Sencha-044059?style=for-the-badge&logo=sencha&logoColor=#95C93D`                      |
 | <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />                      | `https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white`                      |
 
+
+
+## 🗄️ Network Storage [🔝](#menu)
+
+| Badge                                                                                                    | URL                                                                                          |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/qnap-0C2E82?style=for-the-badge&logo=qnap&logoColor=white" /> | `https://img.shields.io/badge/qnap-0C2E82?style=for-the-badge&logo=qnap&logoColor=white` |
+
+
+
 ## 👨‍💻 Office [🔝](#menu)
 
 | Badge                                                                                                                                | URL                                                                                                                      |
@@ -1052,18 +1064,25 @@ or
 | <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"/>        | `https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00`        |
 | <img src="https://img.shields.io/badge/KeePassXC-6CAC4D?style=for-the-badge&logo=keepassxc&logoColor=white"/>        | `https://img.shields.io/badge/KeePassXC-6CAC4D?style=for-the-badge&logo=keepassxc&logoColor=white`        |
 | <img src="https://img.shields.io/badge/nginxproxymanager-F15833?style=for-the-badge&logo=nginxproxymanager&logoColor=white"/> | `https://img.shields.io/badge/nginxproxymanager-F15833?style=for-the-badge&logo=nginxproxymanager&logoColor=white` |
+| <img src="https://img.shields.io/badge/paloaltonetworks-F04E23?style=for-the-badge&logo=palo-alto-networks&logoColor=white"/> | `https://img.shields.io/badge/paloaltonetworks-F04E23?style=for-the-badge&logo=palo-alto-networks&logoColor=white` |            
+|<img src="https://img.shields.io/badge/parrotsecurity-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=white"/> | `https://img.shields.io/badge/parrotsecurity-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=white` |
 | <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/>                           | `https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white`                           |
 | <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>     | `https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white`     |
 | <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/>                 | `https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white`                 |
 | <img src="https://img.shields.io/badge/vaultwarden-000000?style=for-the-badge&logo=vaultwarden&logoColor=white"/>             | `https://img.shields.io/badge/vaultwarden-000000?style=for-the-badge&logo=vaultwarden&logoColor=white`             |
 
+
 ## 🔒 Security Tools [🔝](#menu)
 
 | Badge                                                                                                           | URL                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/>   | `https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white`   |
 | <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>   | `https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white`   |
 | <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/> | `https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white` |
+| <img src="https://img.shields.io/badge/wireguard-68171A?style=for-the-badge&logo=wireguard&logoColor=white"/> | `https://img.shields.io/badge/wireguard-68171A?style=for-the-badge&logo=wireguard&logoColor=white` |
+| <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/>   | `https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white`   |
+| <img src="https://img.shields.io/badge/openvpn-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white"/> | `https://img.shields.io/badge/openvpn-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white` |
+| <img src="https://img.shields.io/badge/quad9-DC205E?style=for-the-badge&logo=quad9&logoColor=white"/> | `https://img.shields.io/badge/quad9-DC205E?style=for-the-badge&logo=quad9&logoColor=white` |
+
 
 ## 👨 Social [🔝](#menu)
 
@@ -1149,7 +1168,6 @@ or
 
 | Badge                                                                                                                      | URL                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/100tracklists-40AEF0?style=for-the-badge&logo=1001tracklists&logoColor=white" />    | `https://img.shields.io/badge/1001tracklists-40AEF0?style=for-the-badge&logo=1001tracklists&logoColor=white`   |
 | <img src="https://img.shields.io/badge/apple%20music-FA243C?style=for-the-badge&logo=apple%20music&logoColor=white" />     | `https://img.shields.io/badge/apple%20music-FA243C?style=for-the-badge&logo=apple%20music&logoColor=white`     |
 | <img src="https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white" />   | `https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white`   |
 | <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" />               | `https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white`               |
@@ -1159,10 +1177,12 @@ or
 | <img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" />                 | `https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white`                 |
 | <img src="https://img.shields.io/badge/MuseScore-1A70B8?style=for-the-badge&logo=MuseScore&logoColor=white" />                 | `https://img.shields.io/badge/MuseScore-1A70B8?style=for-the-badge&logo=MuseScore&logoColor=white`                 |
 | <img src="https://img.shields.io/badge/Pandora-3668FF?style=for-the-badge&logo=pandora&logoColor=A15BB4" />                | `https://img.shields.io/badge/Pandora-3668FF?style=for-the-badge&logo=pandora&logoColor=A15BB4`                |
+| <img src="https://img.shields.io/badge/reasonstudios-DD4B39?style=for-the-badge&logo=reasonstudios&logoColor=white" />                | `https://img.shields.io/badge/reasonstudios-DD4B39?style=for-the-badge&logo=reasonstudios&logoColor=white`                |
 | <img src="https://img.shields.io/badge/Shazam-0088FF?style=for-the-badge&logo=Shazam&logoColor=white" />                   | `https://img.shields.io/badge/Shazam-0088FF?style=for-the-badge&logo=Shazam&logoColor=white`                   |
 | <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />           | `https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white`           |
 | <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />                 | `https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white`                |
 | <img src="https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=white" />                     | `https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=white`                     |
+| <img src="https://img.shields.io/badge/100tracklists-40AEF0?style=for-the-badge&logo=1001tracklists&logoColor=white" />    | `https://img.shields.io/badge/1001tracklists-40AEF0?style=for-the-badge&logo=1001tracklists&logoColor=white`   |
 | <img src="https://img.shields.io/badge/VLC-FF8800?style=for-the-badge&logo=vlcmediaplayer&logoColor=white" />              | `https://img.shields.io/badge/VLC-FF8800?style=for-the-badge&logo=vlcmediaplayer&logoColor=white`              |
 | <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />     | `https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white`     |
 
@@ -1189,7 +1209,7 @@ or
 
 | Badge                                                                                                                      | URL                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=Amazon%20Prime&logoColor=white" />   | `https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white`          |
+| <img src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=Amazon%20Prime&logoColor=white" />   | `https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=amazon&logoColor=white`          |
 | <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" />         | `https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white`         |
 | <img src="https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white" /> | `https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white` |
 | <img src="https://img.shields.io/badge/Hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white" />                       | `https://img.shields.io/badge/Hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white`                       |
@@ -1241,6 +1261,7 @@ or
 | <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />     | `https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white`     |
 | <img src="https://img.shields.io/badge/LibreWolf-00ACFF?style=for-the-badge&logo=librewolf&logoColor=white" />             | `https://img.shields.io/badge/LibreWolf-00ACFF?style=for-the-badge&logo=librewolf&logoColor=white`             |
 | <img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />   | `https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white`   |
+| <img src="https://img.shields.io/badge/mullvad-294D73?style=for-the-badge&logo=mullvad&logoColor=white"/> | `https://img.shields.io/badge/mullvad-294D73?style=for-the-badge&logo=mullvad&logoColor=white` |
 | <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" />                     | `https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white`                     |
 | <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white" />                   | `https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white`                   |
 | <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />         | `https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white`         |
@@ -1283,17 +1304,20 @@ or
 | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | <img src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white" />           | `https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white`           |
 | <img src="https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white" />               | `https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white`               |
+| <img src="https://img.shields.io/badge/amd-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />               | `https://img.shields.io/badge/amd-ED1C24?style=for-the-badge&logo=amd&logoColor=white`               |
 | <img src="https://img.shields.io/badge/AMD%20Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />         | `https://img.shields.io/badge/AMD%20Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white`         |
 | <img src="https://img.shields.io/badge/AMD%20Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />          | `https://img.shields.io/badge/AMD%20Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white`          |
 | <img src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white" />            | `https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white`            |
 | <img src="https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white" />             | `https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white`             |
 | <img src="https://img.shields.io/badge/Apple%20MacBook_Pro_2012-333333?style=for-the-badge&logo=apple&logoColor=white" />   | `https://img.shields.io/badge/Apple-MacBook_Pro_2012-333333?style=for-the-badge&logo=apple&logoColor=white`     |
 | <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" />               | `https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white`               |
+| <img src="https://img.shields.io/badge/dell-007DBB?style=for-the-badge&logo=dell&logoColor=white" />               | `https://img.shields.io/badge/dell-007DBB?style=for-the-badge&logo=dell&logoColor=white`               |
 | <img src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" />               | `https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white`               |
 | <img src="https://img.shields.io/badge/dell-XPS%2015%20-007DB8?style=for-the-badge&logo=dell&logoColor=white" />            | `https://img.shields.io/badge/dell-XPS%2015%20-007DB8?style=for-the-badge&logo=dell&logoColor=white`            |
 | <img src="https://img.shields.io/badge/Framework-000000?style=for-the-badge&logo=framework&logoColor=white" />              | `https://img.shields.io/badge/Framework-000000?style=for-the-badge&logo=framework&logoColor=white`              |
 | <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white" />                   | `https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white`                   |
 | <img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />                    | `https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white`                    |
+| <img src="https://img.shields.io/badge/intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" />               | `https://img.shields.io/badge/intel-0071C5?style=for-the-badge&logo=intel&logoColor=white`               |
 | <img src="https://img.shields.io/badge/Intel%20Core_i5--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />      | `https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`       |
 | <img src="https://img.shields.io/badge/Intel%20Core_i7--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />      | `https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`       |
 | <img src="https://img.shields.io/badge/Intel%20Core_i9--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />      | `https://img.shields.io/badge/Intel%20Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white`       |
@@ -1304,6 +1328,7 @@ or
 | <img src="https://img.shields.io/badge/samsung%20laptop-1428A0?style=for-the-badge&logo=Samsung&logoColor=white" />         | `https://img.shields.io/badge/samsung%20laptop-1428A0?style=for-the-badge&logo=Samsung&logoColor=white`         |
 | <img src="https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> | `https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white` |
 | <img src="https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" />           | `https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white`           |
+
 
 ## 🔁 Dynamic
 
