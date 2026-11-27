@@ -31,8 +31,8 @@
         <link rel="shortcut icon" href="favicon.ico">
 
         <!-- Stylesheets -->
-        <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
-        <link rel="stylesheet" media="(prefers-color-scheme: light)" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@5/dist/themes/core.min.css">
+        <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="//cdn.jsdelivr.net/npm/docsify@5/dist/themes/addons/core-dark.min.css">
     </head>
 
     <body>
@@ -51,8 +51,54 @@
             }
         </script>
 
-        <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-        <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
-        <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+        <script src="//cdn.jsdelivr.net/npm/docsify@5/dist/docsify.min.js"></script>
+        <script src="//cdn.jsdelivr.net/npm/docsify@5/dist/plugins/zoom-image.min.js"></script>
+        <script src="//cdn.jsdelivr.net/npm/docsify@5/dist/plugins/search.min.js"></script>
+        <script>//Search improvement, when the user clicks into a result it goes direct to it instead to the category
+            window.addEventListener('DOMContentLoaded',async () => {
+
+                do{
+                    await new Promise((resolve) => setTimeout(resolve, 100));
+                }while(!document.querySelectorAll('td').length);
+
+                // Assign searchable IDs to table rows based on badge text
+                const tableCells = document.querySelectorAll('td');
+                tableCells.forEach((cell) => {
+                    const { result1, result2 } = testText(cell.innerText);
+                    if(result1 && result1[1]){
+                        cell.closest('tr').id = "searchable_" + result1[1].toLowerCase().replace(/%20| /g, "");
+                    } else if(result2 && result2[1]){
+                        cell.closest('tr').id = "searchable_" + result2[1].toLowerCase().replace(/%20| /g, "");
+                    }
+                });
+
+                //Handles search input updates
+                const searchInput = document.querySelector('input[type="search"]');
+                searchInput.addEventListener('input', async (event) => {
+                    await new Promise((resolve) => setTimeout(resolve, 100));
+                    document.querySelectorAll('p.content.clamp-2').forEach((searchResult) => {
+                        const { result1, result2 } = testText(searchResult.innerText);
+
+                        //Handles click event to update hash
+                        searchResult.addEventListener("click", async () => {   
+                            await new Promise((resolve) => setTimeout(resolve, 100));
+                            if (result1 && result1[1]){
+                                window.location.hash = "?id=searchable_" + result1[1].toLowerCase().replace(/%20| /g, "");
+                            } else if (result2 && result2[1]){
+                                window.location.hash = "?id=searchable_" + result2[1].toLowerCase().replace(/%20| /g, "");
+                            }
+                        });
+                    })
+                });
+            });
+
+            function testText(text){
+                const regex1 = /badge\/(.*?)-/;
+                const regex2 = /&logo=(.*?)&logoColor=/;
+                const result1 = text.match(regex1);
+                const result2 = text.match(regex2);
+                return { result1, result2 };
+            }
+        </script>
     </body>
 </html>
